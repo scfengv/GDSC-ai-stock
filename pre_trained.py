@@ -4,7 +4,7 @@ import requests
 from tqdm import tqdm
 
 API_URL = "https://api-inference.huggingface.co/models/cardiffnlp/twitter-roberta-base-sentiment-latest"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "APIKEY"}
 
 
 def query(payload):
