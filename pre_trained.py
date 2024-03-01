@@ -4,7 +4,7 @@ import requests
 from tqdm import tqdm
 
 API_URL = "https://api-inference.huggingface.co/models/cardiffnlp/twitter-roberta-base-sentiment-latest"
-headers = {"Authorization": "APIKEY"}
+headers = {"Authorization": "Bearer APIKEY"}
 
 
 def query(payload):
@@ -22,7 +22,6 @@ for filename in tqdm(os.listdir(data_folder), desc="Total file"):
         for tweet_id, tweet_info in tqdm(data.items(), desc="Current file processing"):
             tweet_text = tweet_info["text"]
             output = query({"inputs": tweet_text})
-            print(output)
             # 創建情感分析結果的字典
             sentiment_score = {}
             for item in output[0]:
