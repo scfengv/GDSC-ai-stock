@@ -97,7 +97,7 @@ driver.quit()
 
 
 df = pd.DataFrame(list(zip(date_all, eps_all , gross_margin_all, opt_margin_all, quick_all)), 
-                  columns = ['Date', 'EPS', 'Gross Margin (YoY%)', 'Operating Margin (YoY%)', 'Quick Ratio (YoY%)']
+                  columns = ['Date', 'EPS', 'Gross Margin (%)', 'Operating Margin (%)', 'Quick Ratio (%)']
                   )
 
 df['Date'] = pd.to_datetime(df['Date'])
@@ -117,6 +117,7 @@ for i in range(len(df)):
 
     elif df['EPS'].iloc[i] < df['EPS'].iloc[i - 4] and df['EPS'].iloc[i - 4] < 0:
         df.loc[df.index[i], 'EPS Growth (YoY%)'] =  round(((df['EPS'].iloc[i] - df['EPS'].iloc[i - 4]) / df['EPS'].iloc[i - 4]) * 100, 2) * -1
+        
 df['EPS Growth (YoY%)'][0] = 0
 df['EPS Growth (YoY%)'][1] = 0
 df['EPS Growth (YoY%)'][2] = 0
