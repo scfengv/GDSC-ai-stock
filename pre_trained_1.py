@@ -12,7 +12,7 @@ def query(payload):
     return response.json()
 
 
-data_folder = "Data"
+data_folder = "Data_1"
 for filename in tqdm(os.listdir(data_folder), desc="Total file"):
     if filename.endswith(".json"):
         file_path = os.path.join(data_folder, filename)
