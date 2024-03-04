@@ -91,7 +91,7 @@ soup = BeautifulSoup(page_source, 'html.parser')
 quick_all = []
 quick_parent = soup.find('span', string = "Quick Ratio").find_parent('td').find_all_next('td')
 for quick in quick_parent[1:len(date_all)+1]:
-    quick_all.append(quick.text)
+    quick_all.append(float(quick.text))
 
 driver.quit()
 
@@ -122,6 +122,39 @@ df['EPS Growth (YoY%)'][0] = 0
 df['EPS Growth (YoY%)'][1] = 0
 df['EPS Growth (YoY%)'][2] = 0
 df['EPS Growth (YoY%)'][3] = 0
+
+df['Gross Margin (YoY%)'] = 0.0
+
+for i in range(len(df)):
+
+    df.loc[df.index[i], 'Gross Margin (YoY%)'] = round(df['Gross Margin (%)'].iloc[i] - df['Gross Margin (%)'].iloc[i - 4], 2)
+    
+df['Gross Margin (YoY%)'][0] = 0
+df['Gross Margin (YoY%)'][1] = 0
+df['Gross Margin (YoY%)'][2] = 0
+df['Gross Margin (YoY%)'][3] = 0
+
+df['Operating Margin (YoY%)'] = 0.0
+
+for i in range(len(df)):
+
+    df.loc[df.index[i], 'Operating Margin (YoY%)'] = round(df['Operating Margin (%)'].iloc[i] - df['Operating Margin (%)'].iloc[i - 4], 2)
+    
+df['Operating Margin (YoY%)'][0] = 0
+df['Operating Margin (YoY%)'][1] = 0
+df['Operating Margin (YoY%)'][2] = 0
+df['Operating Margin (YoY%)'][3] = 0
+
+df['Quick Ratio (YoY%)'] = 0.0
+
+for i in range(len(df)):
+
+    df.loc[df.index[i], 'Quick Ratio (YoY%)'] = round(df['Quick Ratio (%)'].iloc[i] - df['Quick Ratio (%)'].iloc[i - 4], 2)
+    
+df['Quick Ratio (YoY%)'][0] = 0
+df['Quick Ratio (YoY%)'][1] = 0
+df['Quick Ratio (YoY%)'][2] = 0
+df['Quick Ratio (YoY%)'][3] = 0
 
 df.set_index('Date', inplace = True)
 df.to_csv('Financial Statement.csv')
