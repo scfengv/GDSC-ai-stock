@@ -1,3 +1,5 @@
+# Pretrained model source: https://api-inference.huggingface.co/models/austinmw/distilbert-base-uncased-finetuned-tweets-sentiment
+
 import json
 import os
 import requests

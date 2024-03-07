@@ -1,3 +1,5 @@
+# Pretrained model source: https://api-inference.huggingface.co/models/cardiffnlp/twitter-roberta-base-sentiment-latest
+
 import json
 import os
 import requests
