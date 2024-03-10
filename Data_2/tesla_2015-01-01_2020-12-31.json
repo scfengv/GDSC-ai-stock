@@ -177,7 +177,7 @@
             "positive": 0.5931696891784668,
             "negative": 0.1648263782262802
         },
-        "normalized_likes": 8.235487893832797e-05,
+        "normalized_likes": 8.235487893832797e-5,
         "normalized_replies": 0.0003125,
         "normalized_retweets": 0.00015625
     },
@@ -233,7 +233,7 @@
             "positive": 0.28023582696914673,
             "negative": 0.25835293531417847
         },
-        "normalized_likes": 2.3529965410950846e-05,
+        "normalized_likes": 2.3529965410950846e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0003125
     },
@@ -289,7 +289,7 @@
             "positive": 0.14100225269794464,
             "negative": 0.2726674973964691
         },
-        "normalized_likes": 8.235487893832797e-05,
+        "normalized_likes": 8.235487893832797e-5,
         "normalized_replies": 0.0003125,
         "normalized_retweets": 0.0
     },
@@ -401,7 +401,7 @@
             "positive": 0.020009495317935944,
             "negative": 0.7770856618881226
         },
-        "normalized_likes": 1.1764982705475423e-05,
+        "normalized_likes": 1.1764982705475423e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00015625
     },
@@ -443,7 +443,7 @@
             "positive": 0.08264905959367752,
             "negative": 0.8050872087478638
         },
-        "normalized_likes": 7.058989623285254e-05,
+        "normalized_likes": 7.058989623285254e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0
     },
@@ -485,7 +485,7 @@
             "positive": 0.326517254114151,
             "negative": 0.18418551981449127
         },
-        "normalized_likes": 9.411986164380338e-05,
+        "normalized_likes": 9.411986164380338e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0
     },
@@ -499,7 +499,7 @@
             "positive": 0.2813766896724701,
             "negative": 0.08183553069829941
         },
-        "normalized_likes": 3.529494811642627e-05,
+        "normalized_likes": 3.529494811642627e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0
     },
@@ -555,7 +555,7 @@
             "positive": 0.0293444711714983,
             "negative": 0.9154685735702515
         },
-        "normalized_likes": 9.411986164380338e-05,
+        "normalized_likes": 9.411986164380338e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0
     },
@@ -569,7 +569,7 @@
             "positive": 0.42909491062164307,
             "negative": 0.2227666676044464
         },
-        "normalized_likes": 4.705993082190169e-05,
+        "normalized_likes": 4.705993082190169e-5,
         "normalized_replies": 0.00078125,
         "normalized_retweets": 0.0
     },
@@ -583,7 +583,7 @@
             "positive": 0.06218072399497032,
             "negative": 0.5846199989318848
         },
-        "normalized_likes": 3.529494811642627e-05,
+        "normalized_likes": 3.529494811642627e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0
     },
@@ -597,7 +597,7 @@
             "positive": 0.7151210904121399,
             "negative": 0.027878345921635628
         },
-        "normalized_likes": 5.8824913527377115e-05,
+        "normalized_likes": 5.8824913527377115e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00015625
     },
@@ -625,7 +625,7 @@
             "positive": 0.5771404504776001,
             "negative": 0.05631088465452194
         },
-        "normalized_likes": 1.1764982705475423e-05,
+        "normalized_likes": 1.1764982705475423e-5,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0
     },
@@ -653,7 +653,7 @@
             "positive": 0.16210997104644775,
             "negative": 0.16415081918239594
         },
-        "normalized_likes": 5.8824913527377115e-05,
+        "normalized_likes": 5.8824913527377115e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0
     },
@@ -667,7 +667,7 @@
             "positive": 0.045913051813840866,
             "negative": 0.7423582673072815
         },
-        "normalized_likes": 4.705993082190169e-05,
+        "normalized_likes": 4.705993082190169e-5,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0
     },
@@ -681,7 +681,7 @@
             "positive": 0.7256972789764404,
             "negative": 0.011706458404660225
         },
-        "normalized_likes": 1.1764982705475423e-05,
+        "normalized_likes": 1.1764982705475423e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0003125
     },
@@ -723,7 +723,7 @@
             "positive": 0.11851886659860611,
             "negative": 0.6257883906364441
         },
-        "normalized_likes": 3.529494811642627e-05,
+        "normalized_likes": 3.529494811642627e-5,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0
     },
@@ -807,7 +807,7 @@
             "positive": 0.5129615664482117,
             "negative": 0.18066367506980896
         },
-        "normalized_likes": 7.058989623285254e-05,
+        "normalized_likes": 7.058989623285254e-5,
         "normalized_replies": 0.0003125,
         "normalized_retweets": 0.0
     },
@@ -821,7 +821,7 @@
             "positive": 0.2778066396713257,
             "negative": 0.39731380343437195
         },
-        "normalized_likes": 8.235487893832797e-05,
+        "normalized_likes": 8.235487893832797e-5,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.00046875
     },
@@ -835,7 +835,7 @@
             "positive": 0.969767689704895,
             "negative": 0.007604790851473808
         },
-        "normalized_likes": 7.058989623285254e-05,
+        "normalized_likes": 7.058989623285254e-5,
         "normalized_replies": 0.0003125,
         "normalized_retweets": 0.0
     },
@@ -863,7 +863,7 @@
             "positive": 0.25132066011428833,
             "negative": 0.02850855141878128
         },
-        "normalized_likes": 9.411986164380338e-05,
+        "normalized_likes": 9.411986164380338e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0003125
     },
@@ -877,7 +877,7 @@
             "positive": 0.012521081604063511,
             "negative": 0.9339609146118164
         },
-        "normalized_likes": 5.8824913527377115e-05,
+        "normalized_likes": 5.8824913527377115e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0
     },
@@ -891,7 +891,7 @@
             "positive": 0.04345973581075668,
             "negative": 0.6452042460441589
         },
-        "normalized_likes": 3.529494811642627e-05,
+        "normalized_likes": 3.529494811642627e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00015625
     },
@@ -947,7 +947,7 @@
             "positive": 0.020498130470514297,
             "negative": 0.8300270438194275
         },
-        "normalized_likes": 2.3529965410950846e-05,
+        "normalized_likes": 2.3529965410950846e-5,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0
     },
@@ -1017,7 +1017,7 @@
             "positive": 0.15199585258960724,
             "negative": 0.3580196797847748
         },
-        "normalized_likes": 7.058989623285254e-05,
+        "normalized_likes": 7.058989623285254e-5,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0009375
     },
@@ -1045,7 +1045,7 @@
             "positive": 0.0762990415096283,
             "negative": 0.05455085262656212
         },
-        "normalized_likes": 1.1764982705475423e-05,
+        "normalized_likes": 1.1764982705475423e-5,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.00078125
     },
@@ -1059,7 +1059,7 @@
             "positive": 0.3928891122341156,
             "negative": 0.1414942443370819
         },
-        "normalized_likes": 8.235487893832797e-05,
+        "normalized_likes": 8.235487893832797e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00015625
     },
@@ -1087,7 +1087,7 @@
             "positive": 0.8132890462875366,
             "negative": 0.01306389644742012
         },
-        "normalized_likes": 3.529494811642627e-05,
+        "normalized_likes": 3.529494811642627e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00015625
     },
@@ -1115,7 +1115,7 @@
             "positive": 0.3247850239276886,
             "negative": 0.03394720330834389
         },
-        "normalized_likes": 2.3529965410950846e-05,
+        "normalized_likes": 2.3529965410950846e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00015625
     },
@@ -1143,7 +1143,7 @@
             "positive": 0.04358644783496857,
             "negative": 0.8411892056465149
         },
-        "normalized_likes": 5.8824913527377115e-05,
+        "normalized_likes": 5.8824913527377115e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0
     },
@@ -1185,7 +1185,7 @@
             "positive": 0.9855723977088928,
             "negative": 0.0027224943041801453
         },
-        "normalized_likes": 5.8824913527377115e-05,
+        "normalized_likes": 5.8824913527377115e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00015625
     },
@@ -1199,7 +1199,7 @@
             "positive": 0.1320985108613968,
             "negative": 0.051168542355298996
         },
-        "normalized_likes": 4.705993082190169e-05,
+        "normalized_likes": 4.705993082190169e-5,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0
     },
@@ -1213,7 +1213,7 @@
             "positive": 0.3791770040988922,
             "negative": 0.1801399439573288
         },
-        "normalized_likes": 7.058989623285254e-05,
+        "normalized_likes": 7.058989623285254e-5,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0
     },
@@ -1227,7 +1227,7 @@
             "positive": 0.23637191951274872,
             "negative": 0.37719324231147766
         },
-        "normalized_likes": 2.3529965410950846e-05,
+        "normalized_likes": 2.3529965410950846e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0
     },
@@ -1255,7 +1255,7 @@
             "positive": 0.20364966988563538,
             "negative": 0.41509172320365906
         },
-        "normalized_likes": 5.8824913527377115e-05,
+        "normalized_likes": 5.8824913527377115e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0
     },
@@ -1297,7 +1297,7 @@
             "positive": 0.1471341848373413,
             "negative": 0.4330967366695404
         },
-        "normalized_likes": 4.705993082190169e-05,
+        "normalized_likes": 4.705993082190169e-5,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.00015625
     },
@@ -1311,7 +1311,7 @@
             "positive": 0.17051184177398682,
             "negative": 0.5354479551315308
         },
-        "normalized_likes": 2.3529965410950846e-05,
+        "normalized_likes": 2.3529965410950846e-5,
         "normalized_replies": 0.0003125,
         "normalized_retweets": 0.0
     },
@@ -1325,7 +1325,7 @@
             "positive": 0.007548354100435972,
             "negative": 0.9090356230735779
         },
-        "normalized_likes": 4.705993082190169e-05,
+        "normalized_likes": 4.705993082190169e-5,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0
     },
@@ -1339,7 +1339,7 @@
             "positive": 0.9668312668800354,
             "negative": 0.009464624337852001
         },
-        "normalized_likes": 5.8824913527377115e-05,
+        "normalized_likes": 5.8824913527377115e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0
     },
