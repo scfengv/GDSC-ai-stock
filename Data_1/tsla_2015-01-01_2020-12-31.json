@@ -8,7 +8,10 @@
             "positive": 0.9601901173591614,
             "neutral": 0.0352667011320591,
             "negative": 0.004543132148683071
-        }
+        },
+        "normalized_likes": 0.11444521981856245,
+        "normalized_replies": 0.07191011235955057,
+        "normalized_retweets": 0.05761316872427984
     },
     "tweet_2": {
         "text": "$TSLA. Please share celebratory gif below",
@@ -19,7 +22,10 @@
             "positive": 0.9258418679237366,
             "neutral": 0.07044773548841476,
             "negative": 0.0037104215007275343
-        }
+        },
+        "normalized_likes": 0.03861363107699465,
+        "normalized_replies": 0.09662921348314607,
+        "normalized_retweets": 0.05212620027434842
     },
     "tweet_3": {
         "text": "1 mill\u00f3n de personas han aumentado sus ventas con este newsletter gratuito.La forma m\u00e1s f\u00e1cil de cerrar la venta con 5 minutos de lectura al d\u00eda.",
@@ -30,7 +36,10 @@
             "neutral": 0.8585430979728699,
             "positive": 0.08555066585540771,
             "negative": 0.05590621754527092
-        }
+        },
+        "normalized_likes": 0.4998836938822982,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.2729766803840878
     },
     "tweet_4": {
         "text": "ALMOST TO 700!  TSLA long!",
@@ -41,7 +50,10 @@
             "positive": 0.6708536148071289,
             "neutral": 0.3163702189922333,
             "negative": 0.012776142917573452
-        }
+        },
+        "normalized_likes": 0.00825773435682717,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.006858710562414266
     },
     "tweet_5": {
         "text": "If you reserved a #Tesla Founders Series Roadster when they were first announced on Nov 17th, 2017 for $250k that same $250k invested in $TSLA would be 3,967.62 shares ($63.01 on Nov 17th 2017). Those shares would be worth $2,756,623.02 as of today's $TSLA close at $694.78.",
@@ -52,7 +64,10 @@
             "neutral": 0.8451760411262512,
             "positive": 0.1346619874238968,
             "negative": 0.020161930471658707
-        }
+        },
+        "normalized_likes": 0.06780646662014422,
+        "normalized_replies": 0.0853932584269663,
+        "normalized_retweets": 0.08367626886145405
     },
     "tweet_6": {
         "text": "$TSLA new all-time high today.",
@@ -63,7 +78,10 @@
             "positive": 0.8578379154205322,
             "neutral": 0.1377272754907608,
             "negative": 0.004434819333255291
-        }
+        },
+        "normalized_likes": 0.006978367062107467,
+        "normalized_replies": 0.006741573033707865,
+        "normalized_retweets": 0.009602194787379973
     },
     "tweet_7": {
         "text": "Like I said, don't trade $TSLA",
@@ -74,7 +92,10 @@
             "neutral": 0.6304818987846375,
             "negative": 0.3172314167022705,
             "positive": 0.05228663980960846
-        }
+        },
+        "normalized_likes": 0.11607350546638753,
+        "normalized_replies": 0.10786516853932585,
+        "normalized_retweets": 0.06584362139917696
     },
     "tweet_8": {
         "text": "$TSLA just tickled all time high of $695..",
@@ -85,7 +106,10 @@
             "positive": 0.8021703362464905,
             "neutral": 0.19238188862800598,
             "negative": 0.0054477802477777
-        }
+        },
+        "normalized_likes": 0.11607350546638753,
+        "normalized_replies": 0.15056179775280898,
+        "normalized_retweets": 0.0411522633744856
     },
     "tweet_9": {
         "text": "$TSLAStrong finish to an amazing year! ",
@@ -96,7 +120,10 @@
             "positive": 0.9870977997779846,
             "neutral": 0.010140331462025642,
             "negative": 0.0027618638705462217
-        }
+        },
+        "normalized_likes": 0.0045359385903698535,
+        "normalized_replies": 0.020224719101123594,
+        "normalized_retweets": 0.00823045267489712
     },
     "tweet_10": {
         "text": "Hell of a day thanks to $TSLA #Tesla hitting a new all time high today! Here\u2019s to more #YodaGains tomorrow ",
@@ -107,7 +134,10 @@
             "positive": 0.9904450178146362,
             "neutral": 0.0072966753505170345,
             "negative": 0.002258304739370942
-        }
+        },
+        "normalized_likes": 0.00825773435682717,
+        "normalized_replies": 0.01348314606741573,
+        "normalized_retweets": 0.00823045267489712
     },
     "tweet_11": {
         "text": "Tesla Model Y is currently only being manufactured out of one facility. By this time next year it will be manufactured out of 4 facilities.  $TSLA",
@@ -118,7 +148,10 @@
             "neutral": 0.684031069278717,
             "positive": 0.30282583832740784,
             "negative": 0.013143040239810944
-        }
+        },
+        "normalized_likes": 0.07827401721330542,
+        "normalized_replies": 0.024719101123595506,
+        "normalized_retweets": 0.04938271604938271
     },
     "tweet_12": {
         "text": "Tesla $TSLA Q4 Could Stun Wall Street as Wedbush Forecasts 190-200K EV Deliveries",
@@ -129,7 +162,10 @@
             "positive": 0.5573269128799438,
             "neutral": 0.43464916944503784,
             "negative": 0.008023953065276146
-        }
+        },
+        "normalized_likes": 0.04105605954873226,
+        "normalized_replies": 0.024719101123595506,
+        "normalized_retweets": 0.03017832647462277
     },
     "tweet_13": {
         "text": "Alibaba is a good company. When good companies go below 30 on the RSI... BUY THE DIP. if $APPL $AMZN $ROKU $TSLA etc... go below 30 I\u2019m 100% buying the Dip.",
@@ -140,7 +176,10 @@
             "positive": 0.8918174505233765,
             "neutral": 0.09665629267692566,
             "negative": 0.011526218615472317
-        }
+        },
+        "normalized_likes": 0.007094673179809258,
+        "normalized_replies": 0.0044943820224719105,
+        "normalized_retweets": 0.009602194787379973
     },
     "tweet_14": {
         "text": "$TSLA hit all time high  just like me  #420friendly #skyhighallday",
@@ -151,7 +190,10 @@
             "positive": 0.9113097190856934,
             "neutral": 0.0847344771027565,
             "negative": 0.003955731634050608
-        }
+        },
+        "normalized_likes": 0.00837404047452896,
+        "normalized_replies": 0.015730337078651686,
+        "normalized_retweets": 0.0
     },
     "tweet_15": {
         "text": "$TSLA $34,650,000 trade... $693 The Big Boys Know.",
@@ -162,7 +204,10 @@
             "neutral": 0.7914703488349915,
             "positive": 0.17390958964824677,
             "negative": 0.034620050340890884
-        }
+        },
+        "normalized_likes": 0.0017445917655268667,
+        "normalized_replies": 0.0022471910112359553,
+        "normalized_retweets": 0.0027434842249657062
     },
     "tweet_16": {
         "text": "Positive sign that $TSLA is now in the green AH ",
@@ -173,7 +218,10 @@
             "positive": 0.9289225339889526,
             "neutral": 0.06620848923921585,
             "negative": 0.004868926014751196
-        }
+        },
+        "normalized_likes": 0.018376366596882996,
+        "normalized_replies": 0.01348314606741573,
+        "normalized_retweets": 0.0054869684499314125
     },
     "tweet_17": {
         "text": "Another ATH for $TSLA, Another ATH for ...Congratulations to all Tesla shareholders!",
@@ -184,7 +232,10 @@
             "positive": 0.9833757281303406,
             "neutral": 0.014587748795747757,
             "negative": 0.002036510966718197
-        }
+        },
+        "normalized_likes": 0.007792509886020004,
+        "normalized_replies": 0.008988764044943821,
+        "normalized_retweets": 0.006858710562414266
     },
     "tweet_18": {
         "text": "$TSLA From morning HP $680 trigger setup #HPchartroom",
@@ -195,7 +246,10 @@
             "neutral": 0.8065722584724426,
             "positive": 0.1826685070991516,
             "negative": 0.010759188793599606
-        }
+        },
+        "normalized_likes": 0.00209351011863224,
+        "normalized_replies": 0.0022471910112359553,
+        "normalized_retweets": 0.0027434842249657062
     },
     "tweet_19": {
         "text": "Quick scalp on the small account 120% in 30 minutes on $TSLA",
@@ -206,7 +260,10 @@
             "positive": 0.5525532364845276,
             "neutral": 0.43659722805023193,
             "negative": 0.010849524289369583
-        }
+        },
+        "normalized_likes": 0.0008141428239125378,
+        "normalized_replies": 0.0022471910112359553,
+        "normalized_retweets": 0.0027434842249657062
     },
     "tweet_20": {
         "text": "Review: (1) 10-point tight-range for SPX, a typical feature of a w-4, likely part of a triangle. (2) Notably, TSLA & BTC all set new ATH, while AAPL, MSFT, AMZN retraced; (3) still no final signal for THE TOP. A waiting game now & patience pays. (4) enjoy the calm bf the storm.",
@@ -217,7 +274,10 @@
             "neutral": 0.7869947552680969,
             "positive": 0.17082053422927856,
             "negative": 0.04218468442559242
-        }
+        },
+        "normalized_likes": 0.011165387299371946,
+        "normalized_replies": 0.015730337078651686,
+        "normalized_retweets": 0.013717421124828532
     },
     "tweet_21": {
         "text": "P/L: +$51.3K Started off as a slow day but $IPDN offered a washout long opportunity and $TSLA of course decided to just keep giving like it always does so well the entire year.  $CNFR $JAN minor wallet padder wins.",
@@ -228,7 +288,10 @@
             "positive": 0.8241886496543884,
             "neutral": 0.16299207508563995,
             "negative": 0.012819229625165462
-        }
+        },
+        "normalized_likes": 0.007676203768318213,
+        "normalized_replies": 0.011235955056179775,
+        "normalized_retweets": 0.0027434842249657062
     },
     "tweet_22": {
         "text": "Today Ark InvestBought:$BIDU, $181.5M $RHHBY, $9.9M$NTDOY, $3.7M$TAK, $2.9M$NVS, $1.3M$RPTX, $0.6M$13T1, $0.6M",
@@ -239,7 +302,10 @@
             "neutral": 0.8194043636322021,
             "positive": 0.16205242276191711,
             "negative": 0.0185431819409132
-        }
+        },
+        "normalized_likes": 0.005466387531984182,
+        "normalized_replies": 0.017977528089887642,
+        "normalized_retweets": 0.00823045267489712
     },
     "tweet_23": {
         "text": "Done for the day! +47.5k  $BIDU $TSLA Huge wins, Swinging $NIO $NVDA $V for JAN 15 See you all tomorrow! ",
@@ -250,7 +316,10 @@
             "positive": 0.9775162935256958,
             "neutral": 0.02080710045993328,
             "negative": 0.0016765943728387356
-        }
+        },
+        "normalized_likes": 0.004419632472668062,
+        "normalized_replies": 0.01348314606741573,
+        "normalized_retweets": 0.0
     },
     "tweet_24": {
         "text": "$TSLA our  jan 08  700 calls closed at  21.60 from our 14.96 confirmation buy point again I will be showing the video once this trade works out so far so good we in great gains so far with skill in classic PowerTriggerTradeStyle",
@@ -261,7 +330,10 @@
             "positive": 0.927773118019104,
             "neutral": 0.06996829807758331,
             "negative": 0.002258569933474064
-        }
+        },
+        "normalized_likes": 0.0015119795301232846,
+        "normalized_replies": 0.024719101123595506,
+        "normalized_retweets": 0.01783264746227709
     },
     "tweet_25": {
         "text": "Some names near moving averages or look decent and might be worth reviewing (can't do charts): PAGS MELI CRWD ZS NET SFIX UPWK U JMIA PTON OTRK TWLO TSLA NIO",
@@ -272,7 +344,10 @@
             "neutral": 0.5341356992721558,
             "positive": 0.4458748996257782,
             "negative": 0.019989391788840294
-        }
+        },
+        "normalized_likes": 0.007676203768318213,
+        "normalized_replies": 0.011235955056179775,
+        "normalized_retweets": 0.00411522633744856
     },
     "tweet_26": {
         "text": "I really love this hip hop road trip playlist: #hiphop #roadTrip",
@@ -283,7 +358,10 @@
             "positive": 0.9882763028144836,
             "neutral": 0.009850827045738697,
             "negative": 0.0018728530267253518
-        }
+        },
+        "normalized_likes": 0.8836938822982089,
+        "normalized_replies": 0.9617977528089887,
+        "normalized_retweets": 0.9958847736625515
     },
     "tweet_27": {
         "text": "I Didnt say you i said fast money... ive always said good stuff about you.. 100% of the time never a bad wordLets be honest  Im 10x better then anyone that on there.   You put on all these others that have no clue... NOT once ever has the show in 2 yrs said buy tsla not once",
@@ -294,7 +372,10 @@
             "positive": 0.6340567469596863,
             "neutral": 0.2181280106306076,
             "negative": 0.14781524240970612
-        }
+        },
+        "normalized_likes": 0.01058385671086299,
+        "normalized_replies": 0.02696629213483146,
+        "normalized_retweets": 0.05761316872427984
     },
     "tweet_28": {
         "text": "One more trading day to end the year the top 5 names from last years double or more  $NIO +1103%,  $PLUG +983%, $NLS +981% $TSLA +730% and $APPS +698%",
@@ -305,7 +386,10 @@
             "positive": 0.6724107265472412,
             "neutral": 0.3232409656047821,
             "negative": 0.004348312504589558
-        }
+        },
+        "normalized_likes": 0.013026285182600605,
+        "normalized_replies": 0.020224719101123594,
+        "normalized_retweets": 0.009602194787379973
     },
     "tweet_29": {
         "text": "I\u2019ve said this before to $TSLAQ, and I\u2019ll say this now to S&P-bm\u2019d mgrs short TSLA\u2019s 1.7% active wt:1/ Rent a $TSLA Model Y for one week;  2/ Build a 5-year TSLA EPS model starting with Global EV adoption (now 3%), and $TSLA EV share (now 25%); And you will NEVER short $TSLA.",
@@ -316,7 +400,10 @@
             "neutral": 0.6627658009529114,
             "positive": 0.17530664801597595,
             "negative": 0.16192756593227386
-        }
+        },
+        "normalized_likes": 0.11002558734589439,
+        "normalized_replies": 0.09887640449438202,
+        "normalized_retweets": 0.12482853223593965
     },
     "tweet_30": {
         "text": "500m tweets that tsla sucked and was over valued  by about 10m people  those 10 million people all bankrupt..  WAS that you   are you one of the stupidest people in the history of the mkt on the wrong side for 3000  pts... fast money was",
@@ -327,7 +414,10 @@
             "negative": 0.9370850324630737,
             "neutral": 0.05790220946073532,
             "positive": 0.005012748297303915
-        }
+        },
+        "normalized_likes": 0.008025122121423587,
+        "normalized_replies": 0.04269662921348315,
+        "normalized_retweets": 0.015089163237311385
     },
     "tweet_31": {
         "text": "#WhosfanCafe LE SSERAFIM 3rd Mini Album 'EASY'\uc2a4\ud398\uc15c \uc2a4\ud1a0\uc5b4 \uc548\ub0b4 \uc7a0\uc2e4 \ub86f\ub370\uc6d4\ub4dc\ubab0 \uc9c0\ud558 1\uce35\uc624\ud504\ub77c\uc778  \uc628\ub77c\uc778  \ub7ed\ud0a4\ub4dc\ub85c\uc6b0 \ubbf8\uacf5\uac1c \ud3ec\ud1a0\uce74\ub4dc \uc99d\uc815\ubbf8\uacf5\uac1c \ube44\ud558\uc778\ub4dc \uc778\ud654\uc0ac\uc9c4 \uc99d\uc815@le_sserafim #\ub974\uc138\ub77c\ud54c #LE_SSERAFIM\u2026",
@@ -338,7 +428,10 @@
             "neutral": 0.6628984212875366,
             "positive": 0.326089471578598,
             "negative": 0.011012094095349312
-        }
+        },
+        "normalized_likes": 0.06106071179344034,
+        "normalized_replies": 0.0022471910112359553,
+        "normalized_retweets": 0.1906721536351166
     },
     "tweet_32": {
         "text": "Cathie Wood & @ARKInvest trade activity from today 12/30Bought: $KSPI $TCS Novartis $NVS Roche $RHHBY Repare $RPTX Takeda $TAK Nintendo $NTDOY Baidu $BIDUSold: Tesla $TSLA Taiwan Semi $TSM Exone $XONE Twilio $TWLO",
@@ -349,7 +442,10 @@
             "neutral": 0.9164816737174988,
             "positive": 0.06878413259983063,
             "negative": 0.01473416667431593
-        }
+        },
+        "normalized_likes": 0.008025122121423587,
+        "normalized_replies": 0.02696629213483146,
+        "normalized_retweets": 0.013717421124828532
     },
     "tweet_33": {
         "text": "imagine going into 2021 shorting $TSLA lmaooo",
@@ -360,7 +456,10 @@
             "negative": 0.5076443552970886,
             "neutral": 0.4451538920402527,
             "positive": 0.0472017340362072
-        }
+        },
+        "normalized_likes": 0.0037217957664573155,
+        "normalized_replies": 0.006741573033707865,
+        "normalized_retweets": 0.00411522633744856
     },
     "tweet_34": {
         "text": "Might seem frivolous to spend 70 bucks on wheel totes but as a $tsla investor it doesn\u2019t bother me at all ",
@@ -371,7 +470,10 @@
             "neutral": 0.4475930333137512,
             "negative": 0.30365079641342163,
             "positive": 0.24875615537166595
-        }
+        },
+        "normalized_likes": 0.00314026517794836,
+        "normalized_replies": 0.006741573033707865,
+        "normalized_retweets": 0.0
     },
     "tweet_35": {
         "text": "Tomorrow is the last day when you can buy $TSLA and brag to your friends in 2030 and say \"I bought $TSLA 10 years ago in 2020 and look at me now! \"",
@@ -382,7 +484,10 @@
             "positive": 0.7333858609199524,
             "neutral": 0.23583796620368958,
             "negative": 0.03077617660164833
-        }
+        },
+        "normalized_likes": 0.0016282856478250756,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.0013717421124828531
     },
     "tweet_36": {
         "text": "@EliteOptions2 missed a few plays this morning but TSLA is paying! Thanks for the levels and commentary as always  Levels pay!",
@@ -393,7 +498,10 @@
             "positive": 0.9358859658241272,
             "neutral": 0.055689487606287,
             "negative": 0.008424559608101845
-        }
+        },
+        "normalized_likes": 0.0024424284717376133,
+        "normalized_replies": 0.006741573033707865,
+        "normalized_retweets": 0.00411522633744856
     },
     "tweet_37": {
         "text": "When was the last time Tesla missed an annual delivery target? Hint: nev... $TSLA",
@@ -404,7 +512,10 @@
             "neutral": 0.6825875639915466,
             "negative": 0.18384860455989838,
             "positive": 0.1335638016462326
-        }
+        },
+        "normalized_likes": 0.008839264945336125,
+        "normalized_replies": 0.008988764044943821,
+        "normalized_retweets": 0.00411522633744856
     },
     "tweet_38": {
         "text": "Folks said Tesla was gonna dip after it got into the S&P... never bet against Tesla! $TSLA",
@@ -415,7 +526,10 @@
             "neutral": 0.47632309794425964,
             "positive": 0.2662593722343445,
             "negative": 0.2574175298213959
-        }
+        },
+        "normalized_likes": 0.0003489183531053733,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.0027434842249657062
     },
     "tweet_39": {
         "text": "So my brother-in-law calls me: I should\u2019ve listen to you back in early July when you said $TSLA is worth $4000. Do you still think it\u2019s the right time to enter?Me:  YesBIL: OK,how much do you think it\u2019s worth now?Me:  $38,885.Loud thud on the floor. line disconnects",
@@ -426,7 +540,10 @@
             "neutral": 0.7866634130477905,
             "positive": 0.1691274344921112,
             "negative": 0.04420919716358185
-        }
+        },
+        "normalized_likes": 0.016050244242847175,
+        "normalized_replies": 0.017977528089887642,
+        "normalized_retweets": 0.0054869684499314125
     },
     "tweet_40": {
         "text": "$TSLA BABY SEND ME $700 PAYME",
@@ -437,7 +554,10 @@
             "positive": 0.5430320501327515,
             "neutral": 0.4183986186981201,
             "negative": 0.038569387048482895
-        }
+        },
+        "normalized_likes": 0.002907652942544778,
+        "normalized_replies": 0.0044943820224719105,
+        "normalized_retweets": 0.00411522633744856
     },
     "tweet_41": {
         "text": "$TSLA & $NIO VIDEO 2 of 2. Long and strong $AMZN $AAPL $XPEV $LI $RIDE $AYRO $IDEX waiting on $BLNK $PLUG",
@@ -448,7 +568,10 @@
             "positive": 0.7504631280899048,
             "neutral": 0.24506956338882446,
             "negative": 0.004467249847948551
-        }
+        },
+        "normalized_likes": 0.001977204000930449,
+        "normalized_replies": 0.006741573033707865,
+        "normalized_retweets": 0.0013717421124828531
     },
     "tweet_42": {
         "text": "$TSLA to $800 end of January",
@@ -459,7 +582,10 @@
             "neutral": 0.5007793307304382,
             "positive": 0.4836132228374481,
             "negative": 0.015607465989887714
-        }
+        },
+        "normalized_likes": 0.0017445917655268667,
+        "normalized_replies": 0.006741573033707865,
+        "normalized_retweets": 0.0027434842249657062
     },
     "tweet_43": {
         "text": "Holding this $ALPP for a very long time. Drones will be the talk of 2021 and this has two $TSLA Guys on board",
@@ -470,7 +596,10 @@
             "positive": 0.7636629343032837,
             "neutral": 0.23070397973060608,
             "negative": 0.005633122753351927
-        }
+        },
+        "normalized_likes": 0.0008141428239125378,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.00411522633744856
     },
     "tweet_44": {
         "text": "\u201cDude! Trading Busters is \u201dWe are \u2014 and we\u2019re just getting started. It\u2019s a total game-changer, and you\u2019ll see why. Head over to YouTube right now and get ready to revolutionize the way you trade and win! ",
@@ -481,7 +610,10 @@
             "positive": 0.9725870490074158,
             "neutral": 0.024520328268408775,
             "negative": 0.0028926811646670103
-        }
+        },
+        "normalized_likes": 0.07536636427076064,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.05212620027434842
     },
     "tweet_45": {
         "text": "NYPD buys American made teslas which will save the department thousands per car over time by going electric.  Hello... smart move and much more of this to come. Not to mention the cameras record everything like a body cam... $tsla",
@@ -492,7 +624,10 @@
             "positive": 0.9119681715965271,
             "neutral": 0.08256130665540695,
             "negative": 0.005470472853630781
-        }
+        },
+        "normalized_likes": 0.15096534077692486,
+        "normalized_replies": 0.1303370786516854,
+        "normalized_retweets": 0.16186556927297668
     },
     "tweet_46": {
         "text": "$TSLA is worth 20 times Ford Motor Company. Go figure that one out.",
@@ -503,7 +638,10 @@
             "neutral": 0.5702072381973267,
             "negative": 0.22315751016139984,
             "positive": 0.2066352367401123
-        }
+        },
+        "normalized_likes": 0.0037217957664573155,
+        "normalized_replies": 0.01348314606741573,
+        "normalized_retweets": 0.0
     },
     "tweet_47": {
         "text": "Oh man! I was just notified that my Tesla Tequila was delivered!! Can\u2019t wait to get home! $TSLA!",
@@ -514,7 +652,10 @@
             "positive": 0.9894008040428162,
             "neutral": 0.008524524047970772,
             "negative": 0.002074713818728924
-        }
+        },
+        "normalized_likes": 0.02116771342172598,
+        "normalized_replies": 0.04044943820224719,
+        "normalized_retweets": 0.0
     },
     "tweet_48": {
         "text": "I expect $TSLA to be a nice play tomorrow.  Ideal is parabolic over 700 and washout long against previous ATHs 695.  Let's finish 2020 STRONG!",
@@ -525,7 +666,10 @@
             "positive": 0.972981333732605,
             "neutral": 0.023862669244408607,
             "negative": 0.003156019374728203
-        }
+        },
+        "normalized_likes": 0.008722958827634334,
+        "normalized_replies": 0.008988764044943821,
+        "normalized_retweets": 0.0013717421124828531
     },
     "tweet_49": {
         "text": "Welcome to \u201cThe Dark Side\u201dListen now on Spotify:  #StarWars #dubstep #EDM",
@@ -536,7 +680,10 @@
             "neutral": 0.6705121397972107,
             "positive": 0.3258169889450073,
             "negative": 0.0036708826664835215
-        }
+        },
+        "normalized_likes": 1.0,
+        "normalized_replies": 1.0,
+        "normalized_retweets": 1.0
     },
     "tweet_50": {
         "text": "2020's Pandemic & Economic/Stock Market Crash birthed one of the largest & fastest asset bubbles ever created$TSLA +730% ytd, 6th largest stock in the $SPX, market cap of $658 billion, greater than the entire global auto industry combined, despite just 1% market share#HaveAtIt",
@@ -547,7 +694,10 @@
             "negative": 0.4084266424179077,
             "neutral": 0.3911583423614502,
             "positive": 0.20041495561599731
-        }
+        },
+        "normalized_likes": 0.025703652012095835,
+        "normalized_replies": 0.1258426966292135,
+        "normalized_retweets": 0.053497942386831275
     },
     "tweet_51": {
         "text": "Colorado lot is stuffed to the gills.  Cars parked illegally in the flood plain.  More inventory now than on 9/29.  Lot is active so I didn\u2019t count.  I\u2019d guess 150+.Production is not the constraint here.$TSLA #SGF",
@@ -558,7 +708,10 @@
             "negative": 0.7638487219810486,
             "neutral": 0.22178184986114502,
             "positive": 0.014369456097483635
-        }
+        },
+        "normalized_likes": 0.005815305885089556,
+        "normalized_replies": 0.017977528089887642,
+        "normalized_retweets": 0.006858710562414266
     },
     "tweet_52": {
         "text": "\"Tesla Service Centers Are Preventing Delivery Refusals In Weird Ways\" ANYONE WHO THINKS THIS IS A SUSTAINABLE BUSINESS AS THE OEMs CONTINUE ROLLING OUT BETTER-BUILT EVs IS A MORON.$TSLA",
@@ -569,7 +722,10 @@
             "negative": 0.8051661849021912,
             "neutral": 0.18306833505630493,
             "positive": 0.01176539808511734
-        }
+        },
+        "normalized_likes": 0.0045359385903698535,
+        "normalized_replies": 0.02696629213483146,
+        "normalized_retweets": 0.0205761316872428
     },
     "tweet_53": {
         "text": "Top 10 holdings of @CathieDWood & @ARKInvest $ARKW Next Gen Internet ETF as of 12/291 Tesla $TSLA2 $ROKU3 Square $SQ4 Teladoc $TDOC5 Grayscale #Bitcoin $GBTC $BTC6 Spotify $SPOT7 Pure Storage $PSTG8 Tencent ",
@@ -580,7 +736,10 @@
             "neutral": 0.8665943145751953,
             "positive": 0.12642569839954376,
             "negative": 0.0069799828343093395
-        }
+        },
+        "normalized_likes": 0.011049081181670155,
+        "normalized_replies": 0.006741573033707865,
+        "normalized_retweets": 0.023319615912208505
     },
     "tweet_54": {
         "text": "A charming settlement-building strategy game paired with a rich simulation experience. #indiegame Wishlist on Steam ",
@@ -591,7 +750,10 @@
             "positive": 0.9429464340209961,
             "neutral": 0.05452572554349899,
             "negative": 0.0025278327520936728
-        }
+        },
+        "normalized_likes": 0.09316120027913469,
+        "normalized_replies": 0.31685393258426964,
+        "normalized_retweets": 0.2030178326474623
     },
     "tweet_55": {
         "text": "My 2025 $TSLA EPS is $24, based on my assumption of 20% global EV adoption by 2025, and TSLA holds its 25% EV share.I assume a TSLA 2025 P/E of 50x, equal to 2x 2025-30 EPS growth, which equates to 2025 value of $1,200. At a 9.5% disct rate, which could fall, I get a $830 PT.",
@@ -602,7 +764,10 @@
             "neutral": 0.6324012875556946,
             "positive": 0.35149601101875305,
             "negative": 0.016102710738778114
-        }
+        },
+        "normalized_likes": 0.032565712956501514,
+        "normalized_replies": 0.03146067415730337,
+        "normalized_retweets": 0.019204389574759947
     },
     "tweet_56": {
         "text": "Well that's a wrap.. Very lethargic action but name are key.. $BIDU and $DIS made my day...others $TSM $PDD $TSLA $CAT gave good trades.. Even $NVDA $AMD woke up late..1 Day left in the year! What to do for dinner?",
@@ -613,7 +778,10 @@
             "positive": 0.9190630912780762,
             "neutral": 0.07204431295394897,
             "negative": 0.008892552927136421
-        }
+        },
+        "normalized_likes": 0.004303326354966271,
+        "normalized_replies": 0.008988764044943821,
+        "normalized_retweets": 0.0013717421124828531
     },
     "tweet_57": {
         "text": "$TSLA just need to pump +15.1% in the last trading day of 2020 to hit my $800 EOY PT. let\u2019s do this! ",
@@ -624,7 +792,10 @@
             "positive": 0.9368130564689636,
             "neutral": 0.0586126334965229,
             "negative": 0.004574387334287167
-        }
+        },
+        "normalized_likes": 0.0025587345894394044,
+        "normalized_replies": 0.008988764044943821,
+        "normalized_retweets": 0.0
     },
     "tweet_58": {
         "text": "NORWAY: Wow! This is getting really close. M3 registered 309 units today, acc to .@vwGroup, this is unacceptable. Do something! As the world's first #legacylemming, I demand victory. Failure is not an option. Get those volunteers on board.$TSLA $TSLAQ",
@@ -635,7 +806,10 @@
             "negative": 0.5744276642799377,
             "neutral": 0.29177916049957275,
             "positive": 0.13379310071468353
-        }
+        },
+        "normalized_likes": 0.0026750407071411955,
+        "normalized_replies": 0.024719101123595506,
+        "normalized_retweets": 0.0027434842249657062
     },
     "tweet_59": {
         "text": "Thank you @elonmusk for this amazing 2020 and cheers to 2021! We have more work to do! Let\u2019s go. $TSLA  #TeslaTequila #",
@@ -646,7 +820,10 @@
             "positive": 0.9894931316375732,
             "neutral": 0.008043697103857994,
             "negative": 0.002463136799633503
-        }
+        },
+        "normalized_likes": 0.0006978367062107466,
+        "normalized_replies": 0.006741573033707865,
+        "normalized_retweets": 0.0013717421124828531
     },
     "tweet_60": {
         "text": "WINNER of 2020: $OSTK $2.50 to $130 (now $55) with @JJohnsonNow and management executing. LOSER: $TSLAQ they might have been right about $TSLA but they were wrong about the sp and rekt a ton of people in the process. Now most of them say \u201cI only had a small put position.\u201d",
@@ -657,7 +834,10 @@
             "neutral": 0.4832185208797455,
             "positive": 0.44931158423423767,
             "negative": 0.06746988743543625
-        }
+        },
+        "normalized_likes": 0.0038381018841591066,
+        "normalized_replies": 0.008988764044943821,
+        "normalized_retweets": 0.006858710562414266
     },
     "tweet_61": {
         "text": "$TSLA will get dumped sooner than later.  Too over valued @stockspastor",
@@ -668,7 +848,10 @@
             "negative": 0.872443437576294,
             "neutral": 0.11513976752758026,
             "positive": 0.012416842393577099
-        }
+        },
+        "normalized_likes": 0.0008141428239125378,
+        "normalized_replies": 0.0022471910112359553,
+        "normalized_retweets": 0.00411522633744856
     },
     "tweet_62": {
         "text": "Imagine all the cool shit you will be able to do on the Tesla app for your Cybertruck $TSLA #cybertruck #tesla @elonmusk",
@@ -679,7 +862,10 @@
             "positive": 0.9514986276626587,
             "neutral": 0.044804465025663376,
             "negative": 0.003696857253089547
-        }
+        },
+        "normalized_likes": 0.0016282856478250756,
+        "normalized_replies": 0.006741573033707865,
+        "normalized_retweets": 0.0
     },
     "tweet_63": {
         "text": "Good Morning Shanghai and Tesla Fam it\u2019s the last day of the year. Not far from 7000 Followers on Twitter it\u2019s an amazing experience so far. It\u2019s been a pleasure to meet and talk to you all. #Tesla #TeslaChina #Model3 #ShanghaiTower #\u7279\u65af\u62c9 #\u4e2d\u56fd $TSLA",
@@ -690,7 +876,10 @@
             "positive": 0.9872812628746033,
             "neutral": 0.010715547949075699,
             "negative": 0.002003137720748782
-        }
+        },
+        "normalized_likes": 0.005001163061177018,
+        "normalized_replies": 0.0022471910112359553,
+        "normalized_retweets": 0.0
     },
     "tweet_64": {
         "text": "Short 1,000 $TSLA at $696 for a box trade. I still have 1,000 bought around $682 level. This type of trade can lock my gains and play both ends of momentum. If goes up, I can cover short. If down, I can sell my \"long\" shares. Allows to play both sides and use momentum to guide.",
@@ -701,7 +890,10 @@
             "neutral": 0.6161875128746033,
             "positive": 0.3746761679649353,
             "negative": 0.009136263281106949
-        }
+        },
+        "normalized_likes": 0.008839264945336125,
+        "normalized_replies": 0.05393258426966292,
+        "normalized_retweets": 0.0013717421124828531
     },
     "tweet_65": {
         "text": "Number of Teslas registered in Norway today was 313 with 2 Model S, 3 Model X and 308 Model 3 making it a total of 58239 Source:  #Tesla #Norway $TSLA",
@@ -712,7 +904,10 @@
             "neutral": 0.7566734552383423,
             "positive": 0.23886825144290924,
             "negative": 0.0044583906419575214
-        }
+        },
+        "normalized_likes": 0.0024424284717376133,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.0027434842249657062
     },
     "tweet_66": {
         "text": "Here\u2019s a juicy story for you @danahull, or were you too busy drooling over the hit piece with your $TSLAQ #DumDum bros? $TSLA $TSLAQ ",
@@ -723,7 +918,10 @@
             "neutral": 0.5621575117111206,
             "negative": 0.2910788655281067,
             "positive": 0.14676359295845032
-        }
+        },
+        "normalized_likes": 0.004884856943475227,
+        "normalized_replies": 0.008988764044943821,
+        "normalized_retweets": 0.0027434842249657062
     },
     "tweet_67": {
         "text": "Secure your Salesforce like never before with @spintechinc's SpinSPM. From incident response automation to risk reduction, we've got you covered. Explore now   #cybersecurity",
@@ -734,7 +932,10 @@
             "positive": 0.7927648425102234,
             "neutral": 0.20140603184700012,
             "negative": 0.005829158704727888
-        }
+        },
+        "normalized_likes": 0.022795999069551057,
+        "normalized_replies": 0.038202247191011236,
+        "normalized_retweets": 0.023319615912208505
     },
     "tweet_68": {
         "text": "Almost $3,500 pre split. From March until today $TSLA has multiplied its value tenfold. Ten bagger in 9 months!",
@@ -745,7 +946,10 @@
             "positive": 0.9469641447067261,
             "neutral": 0.04945852607488632,
             "negative": 0.0035773597192019224
-        }
+        },
+        "normalized_likes": 0.0036054896487555245,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.0027434842249657062
     },
     "tweet_69": {
         "text": "TSLA PE 1340 after buy recommendation from @neelkashkari",
@@ -756,7 +960,10 @@
             "neutral": 0.7826782464981079,
             "positive": 0.2038518488407135,
             "negative": 0.013469884172081947
-        }
+        },
+        "normalized_likes": 0.004768550825773436,
+        "normalized_replies": 0.006741573033707865,
+        "normalized_retweets": 0.00411522633744856
     },
     "tweet_70": {
         "text": "Permabear Market Tops- 3,000 and every 100 pts thereafter- Dow 30,000- #Bitcoin 20,000- Vaccine approval- Airbnb & DoorDash IPO- Biden victory- Every FOMC day- $VIX up $SPX up, every time- ",
@@ -767,7 +974,10 @@
             "positive": 0.7279584407806396,
             "neutral": 0.26720526814460754,
             "negative": 0.0048363301903009415
-        }
+        },
+        "normalized_likes": 0.0024424284717376133,
+        "normalized_replies": 0.0044943820224719105,
+        "normalized_retweets": 0.0027434842249657062
     },
     "tweet_71": {
         "text": "This is our full-year TSLA breakdown.",
@@ -778,7 +988,10 @@
             "neutral": 0.915440022945404,
             "positive": 0.06566723436117172,
             "negative": 0.018892766907811165
-        }
+        },
+        "normalized_likes": 0.00104675505931612,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.0054869684499314125
     },
     "tweet_72": {
         "text": "\"My friends think I'm a crypto genius, (I'm not) it's because I read WAGMI\u2019s weekly newsletter (and they have no idea it exists)\" - Every Crypto Degen",
@@ -789,7 +1002,10 @@
             "neutral": 0.45933544635772705,
             "positive": 0.3836159110069275,
             "negative": 0.15704864263534546
-        }
+        },
+        "normalized_likes": 0.13933472900674576,
+        "normalized_replies": 0.16404494382022472,
+        "normalized_retweets": 0.07956104252400549
     },
     "tweet_73": {
         "text": "$TSLA $700.I must admit I couldn't call a top on $TSLA. I defies all logic. Like a Bitcoin.",
@@ -800,7 +1016,10 @@
             "negative": 0.4031718969345093,
             "neutral": 0.3797104060649872,
             "positive": 0.21711772680282593
-        }
+        },
+        "normalized_likes": 0.0026750407071411955,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.0013717421124828531
     },
     "tweet_74": {
         "text": "$BTC and $TSLA both hitting ATHs on the same day makes me feel uneasy.Also, I sold $BTC at $3K to buy $TSLA at <$300 pre split. At what point do I start regretting that decision?",
@@ -811,7 +1030,10 @@
             "negative": 0.7730271220207214,
             "neutral": 0.21357081830501556,
             "positive": 0.0134021220728755
-        }
+        },
+        "normalized_likes": 0.00209351011863224,
+        "normalized_replies": 0.017977528089887642,
+        "normalized_retweets": 0.0013717421124828531
     },
     "tweet_75": {
         "text": "interestingly, the #1 SEC action the outgoing Enforcement Director is proud of is $TSLA and Musk.",
@@ -822,7 +1044,10 @@
             "neutral": 0.6209332346916199,
             "positive": 0.23305895924568176,
             "negative": 0.14600788056850433
-        }
+        },
+        "normalized_likes": 0.0017445917655268667,
+        "normalized_replies": 0.006741573033707865,
+        "normalized_retweets": 0.00823045267489712
     },
     "tweet_76": {
         "text": "$TSLA Full-Self Driving Option Comes Up Empty - The Truth About Cars",
@@ -833,7 +1058,10 @@
             "negative": 0.5822540521621704,
             "neutral": 0.39907678961753845,
             "positive": 0.018669165670871735
-        }
+        },
+        "normalized_likes": 0.0025587345894394044,
+        "normalized_replies": 0.04943820224719101,
+        "normalized_retweets": 0.0
     },
     "tweet_77": {
         "text": " Join us at GeekFest West Expo a three-day extravaganza of Geek fun will take place on July 19th - 21st, 2024 | Grab Your  Tickets Today | We Welcome All: Geeks, Nerds, Hobbits, Elves, Wizards, and \ud835\uddf2\ud835\ude00\ud835\uddfd\ud835\uddf2\ud835\uddf0\ud835\uddf6\ud835\uddee\ud835\uddf9\ud835\uddf9\ud835\ude06 Muggles to all things \"Geek\" fantastical!  ",
@@ -844,7 +1072,10 @@
             "positive": 0.9337028861045837,
             "neutral": 0.06509597599506378,
             "negative": 0.0012010987848043442
-        }
+        },
+        "normalized_likes": 0.009071877180739707,
+        "normalized_replies": 0.006741573033707865,
+        "normalized_retweets": 0.006858710562414266
     },
     "tweet_78": {
         "text": "All's well that ends well. With only 2 days to go, #Tesla could beat its 2018 self in The Netherlands. They have a shot for the same in Norway tomorrow.(for US bros: Tesla hasn't sold M3 in 2018 in Europe, it was all SuX)$TSLA $TSLAQ",
@@ -855,7 +1086,10 @@
             "positive": 0.8904901742935181,
             "neutral": 0.10341411083936691,
             "negative": 0.006095730699598789
-        }
+        },
+        "normalized_likes": 0.0016282856478250756,
+        "normalized_replies": 0.0044943820224719105,
+        "normalized_retweets": 0.0013717421124828531
     },
     "tweet_79": {
         "text": "To rephrase: today\u2019s $TSLA move was measured in the region of \u201cone Gordon\u201d. @stevenmarkryan",
@@ -866,7 +1100,10 @@
             "neutral": 0.908949613571167,
             "positive": 0.07893794775009155,
             "negative": 0.01211237721145153
-        }
+        },
+        "normalized_likes": 0.0015119795301232846,
+        "normalized_replies": 0.0022471910112359553,
+        "normalized_retweets": 0.0027434842249657062
     },
     "tweet_80": {
         "text": ".@RiskReversal says he\u2019s never seen a frenzy like Tesla\u2019s rally this year. He breaks down the rising trend and warns investors to not get too excited. $TSLA",
@@ -877,7 +1114,10 @@
             "neutral": 0.5011934638023376,
             "positive": 0.4704464077949524,
             "negative": 0.02836013026535511
-        }
+        },
+        "normalized_likes": 0.0065131425913003025,
+        "normalized_replies": 0.0449438202247191,
+        "normalized_retweets": 0.012345679012345678
     },
     "tweet_81": {
         "text": "\"After we mentioned a customer was forced to accept dlvry of a M3 that was \u201cdirty, dented,\u201d had \u201cdirty AP lens, misalignment everywhere, dented metal, dented seats,\u201d and ground clearance below standard, Chan authorized us to tell his story.\"$TSLA $TSLAQ",
@@ -888,7 +1128,10 @@
             "negative": 0.6454964876174927,
             "neutral": 0.3389259874820709,
             "positive": 0.01557750441133976
-        }
+        },
+        "normalized_likes": 0.0006978367062107466,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.0054869684499314125
     },
     "tweet_82": {
         "text": "My new free article is featured as a Must Read on @SeekingAlpha today!Best Stocks Of 2020 That You Should Own In 2021.$APPN $CRM $CRWD $DOCU $ETSY $FB $FSLY $HUBS $MDB $PINS $QQQ $ROKU $SHOP $SPY $SQ $TSLA $TTD $TWLO $ZM $V",
@@ -899,7 +1142,10 @@
             "positive": 0.9041513800621033,
             "neutral": 0.09331618249416351,
             "negative": 0.002532480051741004
-        }
+        },
+        "normalized_likes": 0.0012793672947197022,
+        "normalized_replies": 0.0044943820224719105,
+        "normalized_retweets": 0.006858710562414266
     },
     "tweet_83": {
         "text": "For all those waiting for the post-S&P inclusion dip to buy $TSLA, it already happened. It dropped about 11.6% to $614 last week. Q4 delivery numbers come out in 3-5 days. Just saying. Like @jimcramer says with Apple stock: Own $TSLA, don't trade it. #HOLD",
@@ -910,7 +1156,10 @@
             "neutral": 0.7045962810516357,
             "negative": 0.1711626499891281,
             "positive": 0.12424099445343018
-        }
+        },
+        "normalized_likes": 0.02198185624563852,
+        "normalized_replies": 0.029213483146067417,
+        "normalized_retweets": 0.013717421124828532
     },
     "tweet_84": {
         "text": "S&P inclusion will mark the top of $TSLA           - EveryoneToday - 52 week highs.",
@@ -921,7 +1170,10 @@
             "positive": 0.7895532846450806,
             "neutral": 0.20706848800182343,
             "negative": 0.003378205932676792
-        }
+        },
+        "normalized_likes": 0.005815305885089556,
+        "normalized_replies": 0.015730337078651686,
+        "normalized_retweets": 0.0
     },
     "tweet_85": {
         "text": "But $TSLA is just a car maker... ",
@@ -932,7 +1184,10 @@
             "neutral": 0.7356995344161987,
             "positive": 0.16844306886196136,
             "negative": 0.0958574041724205
-        }
+        },
+        "normalized_likes": 0.0006978367062107466,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.0
     },
     "tweet_86": {
         "text": "prediction $TSLA announces its moving 10%+ of their treasury into $BTC, fintwit soon after explodes the internet",
@@ -943,7 +1198,10 @@
             "neutral": 0.7231549024581909,
             "positive": 0.2058974653482437,
             "negative": 0.07094756513834
-        }
+        },
+        "normalized_likes": 0.0008141428239125378,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.0013717421124828531
     },
     "tweet_87": {
         "text": "Tesla (TSLA) gets stock price boost on strong delivery expectations",
@@ -954,7 +1212,10 @@
             "positive": 0.9185370802879333,
             "neutral": 0.07829351723194122,
             "negative": 0.003169430186972022
-        }
+        },
+        "normalized_likes": 0.0018608978832286578,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.0054869684499314125
     },
     "tweet_88": {
         "text": "Alright, let's talk about $TSLA.It is still too early to tell, but I heard a lot of how $TSLA's S&P inclusion would prevent huge runs intraday. Tho long term effects remain to be seen/felt.However, whales were bullish before AND AFTER $TSLA's inclusion (see image).You can..",
@@ -965,7 +1226,10 @@
             "neutral": 0.7129266262054443,
             "positive": 0.22080139815807343,
             "negative": 0.06627198308706284
-        }
+        },
+        "normalized_likes": 0.0018608978832286578,
+        "normalized_replies": 0.0022471910112359553,
+        "normalized_retweets": 0.0013717421124828531
     },
     "tweet_89": {
         "text": "Police teslas make sense. Ask the police yourself. $tsla #tesla",
@@ -976,7 +1240,10 @@
             "neutral": 0.6465616226196289,
             "positive": 0.23251383006572723,
             "negative": 0.12092451006174088
-        }
+        },
+        "normalized_likes": 0.007094673179809258,
+        "normalized_replies": 0.015730337078651686,
+        "normalized_retweets": 0.0054869684499314125
     },
     "tweet_90": {
         "text": "In June 2023, Casio\u2019s celebrated G-Shock watch obtained a rare trademark based on its form alone. With this, the watch line capped its four decades of popularity to date with recognition of its popularity with consumers for its iconic shape.",
@@ -987,7 +1254,10 @@
             "positive": 0.8798100352287292,
             "neutral": 0.11846155673265457,
             "negative": 0.0017283561173826456
-        }
+        },
+        "normalized_likes": 0.03442661083973017,
+        "normalized_replies": 0.020224719101123594,
+        "normalized_retweets": 0.03292181069958848
     },
     "tweet_91": {
         "text": "#Tesla now has a mrkt cap of $658,58B that would be the End Goal in 2028 for the $56B bonus reached today 30.12.2020 INSANENo cash for Elon just more and more $TSLA shares.....",
@@ -998,7 +1268,10 @@
             "positive": 0.8175323605537415,
             "neutral": 0.17769171297550201,
             "negative": 0.004775932990014553
-        }
+        },
+        "normalized_likes": 0.0,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.0013717421124828531
     },
     "tweet_92": {
         "text": "My $TSLA",
@@ -1009,7 +1282,10 @@
             "neutral": 0.6827744245529175,
             "positive": 0.29016315937042236,
             "negative": 0.027062464505434036
-        }
+        },
+        "normalized_likes": 0.001977204000930449,
+        "normalized_replies": 0.006741573033707865,
+        "normalized_retweets": 0.0
     },
     "tweet_93": {
         "text": "2/ Normally it takes the market 6-12 mos to discount what I know and get to my PT.  By then we will have more info that should show my 2025 global EV adoption est of 20% is too low.If we assume 2025 global EV adoption of 30% (1.5x current), my $TSLA 6-12 mo PT would be ~$1,300.",
@@ -1020,7 +1296,10 @@
             "neutral": 0.7926511168479919,
             "negative": 0.13599641621112823,
             "positive": 0.07135240733623505
-        }
+        },
+        "normalized_likes": 0.021516631774831357,
+        "normalized_replies": 0.029213483146067417,
+        "normalized_retweets": 0.00823045267489712
     },
     "tweet_94": {
         "text": "I disagree! Tesla still has a low bagholder to bullshit ratio. It\u2019s hasn\u2019t conned enough investors yet.$TSLA $TSLAQ",
@@ -1031,7 +1310,10 @@
             "negative": 0.7223413586616516,
             "neutral": 0.25013452768325806,
             "positive": 0.027524128556251526
-        }
+        },
+        "normalized_likes": 0.0015119795301232846,
+        "normalized_replies": 0.01348314606741573,
+        "normalized_retweets": 0.009602194787379973
     },
     "tweet_95": {
         "text": "The #RareDiseaseDay2024 theme \u201c#ShareYourColours\u201d provides an opportunity to shine a light on unique stories and reveal the colours of strength, courage and resilience. Three caregivers share their #RareDisease stories. Read here: #RDD2024 #ShareYourRare",
@@ -1042,7 +1324,10 @@
             "positive": 0.8948649168014526,
             "neutral": 0.10239926725625992,
             "negative": 0.002735763555392623
-        }
+        },
+        "normalized_likes": 0.023028611304954642,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.0013717421124828531
     },
     "tweet_96": {
         "text": "Not in the eyes of suckers.$TSLA $TSLAQ",
@@ -1053,7 +1338,10 @@
             "negative": 0.5076126456260681,
             "neutral": 0.36290761828422546,
             "positive": 0.12947970628738403
-        }
+        },
+        "normalized_likes": 0.0006978367062107466,
+        "normalized_replies": 0.0022471910112359553,
+        "normalized_retweets": 0.0013717421124828531
     },
     "tweet_97": {
         "text": "Memo to Rob Cox on @cnbc with @WilfredFrost and @SaraEisen suggesting that $TSLA may become the next AOL by acquiring Daimler.I would remind Rob that the AOL/TWX merger was the worst deal in M&A history resulting in the entire price being written off by AOL and almost",
@@ -1064,7 +1352,10 @@
             "neutral": 0.6301947832107544,
             "negative": 0.3445931077003479,
             "positive": 0.025212032720446587
-        }
+        },
+        "normalized_likes": 0.004884856943475227,
+        "normalized_replies": 0.02247191011235955,
+        "normalized_retweets": 0.0027434842249657062
     },
     "tweet_98": {
         "text": "Example of disruptor: $TSLA. Completely redefines a category; reset experience curves to zero. Example of challenger: $AMD. Play a strong differentiation strategy against a leading incumbent, creates its own space in a mature category; plays incumbent weaknesses. 2/3",
@@ -1075,7 +1366,10 @@
             "neutral": 0.6539719700813293,
             "positive": 0.31232908368110657,
             "negative": 0.033698953688144684
-        }
+        },
+        "normalized_likes": 0.0018608978832286578,
+        "normalized_replies": 0.0022471910112359553,
+        "normalized_retweets": 0.0013717421124828531
     },
     "tweet_99": {
         "text": "It was near unanimous. @GerberKawasaki needs to take his $TSLA Model 3 for an appraisal at @CarMax to see if his vehicle has depreciated in price. Please do this ASAP and post the results here on Twitter Ross. Thank you in advance.",
@@ -1086,7 +1380,10 @@
             "neutral": 0.7776022553443909,
             "negative": 0.12652015686035156,
             "positive": 0.09587758034467697
-        }
+        },
+        "normalized_likes": 0.0005815305885089556,
+        "normalized_replies": 0.0,
+        "normalized_retweets": 0.0
     },
     "tweet_100": {
         "text": "My Word Like a Fire! You don't think its Judgment Day because you don't see the fiery wrath of God anywhere--maybe you're looking for fire in the wrong place: Jeremiah 23:29 Is not my word like as a fire? saith the LORD; and like a hammer that breaketh\u2026",
@@ -1097,6 +1394,9 @@
             "negative": 0.5579062104225159,
             "neutral": 0.3936493694782257,
             "positive": 0.04844444617629051
-        }
+        },
+        "normalized_likes": 0.011049081181670155,
+        "normalized_replies": 0.01348314606741573,
+        "normalized_retweets": 0.019204389574759947
     }
 }
