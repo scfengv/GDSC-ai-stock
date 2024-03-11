@@ -11,7 +11,12 @@
         },
         "normalized_likes": 0.0018588235294117648,
         "normalized_replies": 0.00125,
-        "normalized_retweets": 0.00359375
+        "normalized_retweets": 0.00359375,
+        "weighted_sentiment_score": {
+            "positive": 0.002510291878239197,
+            "neutral": 0.00019879870378467093,
+            "negative": 8.041897443643608e-06
+        }
     },
     "tweet_2": {
         "text": "Tesla on Track to Produce & Deliver 500K Cars as Elon Musk Predicted in 2014 $TSLA ",
@@ -25,7 +30,12 @@
         },
         "normalized_likes": 0.0009529411764705883,
         "normalized_replies": 0.00046875,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0001638702032978044,
+            "positive": 7.069339879624107e-05,
+            "negative": 1.3555330204989707e-06
+        }
     },
     "tweet_3": {
         "text": "Don't overpay on Amazon again! You're welcome.",
@@ -39,7 +49,12 @@
         },
         "normalized_likes": 0.03882352941176471,
         "normalized_replies": 0.53125,
-        "normalized_retweets": 0.28125
+        "normalized_retweets": 0.28125,
+        "weighted_sentiment_score": {
+            "positive": 0.22319286408231537,
+            "neutral": 0.09901754840178524,
+            "negative": 0.009796931180897552
+        }
     },
     "tweet_4": {
         "text": "Tesla $TSLA CEO Elon Musk said meeting with Larry Ellison to seek some advice ",
@@ -53,7 +68,12 @@
         },
         "normalized_likes": 0.00011764705882352942,
         "normalized_replies": 0.00046875,
-        "normalized_retweets": 0.000625
+        "normalized_retweets": 0.000625,
+        "weighted_sentiment_score": {
+            "neutral": 0.0004761458597310326,
+            "positive": 4.552336276700611e-05,
+            "negative": 5.7204779814449415e-06
+        }
     },
     "tweet_5": {
         "text": "$TSLA - ELON MUSK SAYS STARLINK LIKELY TO LIST ONCE REVENUE GROWTH PREDICTABLE",
@@ -67,7 +87,12 @@
         },
         "normalized_likes": 0.00037647058823529414,
         "normalized_replies": 0.0003125,
-        "normalized_retweets": 0.00078125
+        "normalized_retweets": 0.00078125,
+        "weighted_sentiment_score": {
+            "neutral": 0.0003123772263526916,
+            "positive": 0.00028234416439691006,
+            "negative": 5.425654659595559e-06
+        }
     },
     "tweet_6": {
         "text": "Is it just me, or \"valid criticism\" doesn't rhyme with calling those you disagree with \"fainbois\"?There is Freudian slip somewhere in a journalist calling above \"relatable content\".Why so many in MSM are weirdly allergic to $TSLA and Elon Musk?",
@@ -81,7 +106,12 @@
         },
         "normalized_likes": 0.0004823529411764706,
         "normalized_replies": 0.00046875,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "negative": 0.0002871336787522716,
+            "neutral": 8.47795440201812e-05,
+            "positive": 4.44705802570645e-06
+        }
     },
     "tweet_7": {
         "text": "$ALPP Martin Eberhard standing with Elon Musk.......Mr. Eberhard was a co founder of $TSLA and is now a shareholder in Alpine 4 ",
@@ -95,7 +125,12 @@
         },
         "normalized_likes": 0.0004,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0025
+        "normalized_retweets": 0.0025,
+        "weighted_sentiment_score": {
+            "neutral": 0.001230499600172043,
+            "positive": 0.00030206706047058106,
+            "negative": 7.433309955522419e-06
+        }
     },
     "tweet_8": {
         "text": "Super fun conversation with @GerberKawasaki...Ross Gerber Interview: My Stock Market Advantage, TSLA, & Elon Musk (Ep. 224)",
@@ -109,7 +144,12 @@
         },
         "normalized_likes": 0.0031058823529411766,
         "normalized_replies": 0.003125,
-        "normalized_retweets": 0.00234375
+        "normalized_retweets": 0.00234375,
+        "weighted_sentiment_score": {
+            "positive": 0.0024802651240720466,
+            "neutral": 0.0001681544221395298,
+            "negative": 5.9187675699735445e-06
+        }
     },
     "tweet_9": {
         "text": " - Should Elon Musk Combine All His Companies? (Company X)NEW$TSLA @elonmusk",
@@ -123,7 +163,12 @@
         },
         "normalized_likes": 0.0013647058823529413,
         "normalized_replies": 0.0034375,
-        "normalized_retweets": 0.00171875
+        "normalized_retweets": 0.00171875,
+        "weighted_sentiment_score": {
+            "neutral": 0.0020043592816065344,
+            "positive": 0.00016297462589162239,
+            "negative": 3.163691215559512e-05
+        }
     },
     "tweet_10": {
         "text": "$TSLA Elon Musk Floats Idea Of Starting One Parent Company To Hold Tesla, SpaceX, Boring, Neuralink",
@@ -137,7 +182,12 @@
         },
         "normalized_likes": 0.0002235294117647059,
         "normalized_replies": 0.00078125,
-        "normalized_retweets": 0.00125
+        "normalized_retweets": 0.00125,
+        "weighted_sentiment_score": {
+            "neutral": 0.0006856060844791286,
+            "positive": 0.00031031057669178526,
+            "negative": 1.0811323134625769e-05
+        }
     },
     "tweet_11": {
         "text": "$tsla Elon Musk might due it, $btc would go crazy ",
@@ -151,7 +201,12 @@
         },
         "normalized_likes": 1.1764705882352942e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 8.971495488110711e-07,
+            "neutral": 2.58002544150633e-07,
+            "negative": 2.1318506230326263e-08
+        }
     },
     "tweet_12": {
         "text": " $TSLA Elon Musk- visionary. Cofounder of PayPal. He must really like $TSNP and we all better buckle up for one heck of a ride w/ HUMBL  cool video below",
@@ -165,7 +220,12 @@
         },
         "normalized_likes": 0.00028235294117647056,
         "normalized_replies": 0.0003125,
-        "normalized_retweets": 0.0009375
+        "normalized_retweets": 0.0009375,
+        "weighted_sentiment_score": {
+            "positive": 0.0006557138227496076,
+            "neutral": 2.6347056037253316e-05,
+            "negative": 2.4244064061135488e-06
+        }
     },
     "tweet_13": {
         "text": "How is project 1 million robotaxis in 2020 going for Elon Musk? $TSLA",
@@ -179,7 +239,12 @@
         },
         "normalized_likes": 0.00010588235294117647,
         "normalized_replies": 0.00046875,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0001241306869510342,
+            "positive": 2.4354728965417425e-05,
+            "negative": 2.727814026190625e-06
+        }
     },
     "tweet_14": {
         "text": "It ought to be called The Elon Musk Stimulus Check . $tsla",
@@ -193,7 +258,12 @@
         },
         "normalized_likes": 1.1764705882352942e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 9.133808051838596e-07,
+            "positive": 1.7198895706849942e-07,
+            "negative": 9.110079968676848e-08
+        }
     },
     "tweet_15": {
         "text": "\"Tesla will have over 1 million robotaxis on the road next year\"-Elon Musk, 22 Apr 2019Days elapsed: 618 (99.8%)Days left: 1 (0.2%)Robotaxis on the road: 0 (0% of target)Robotaxis missing: >1,000,000",
@@ -207,7 +277,12 @@
         },
         "normalized_likes": 0.0010352941176470587,
         "normalized_replies": 0.00046875,
-        "normalized_retweets": 0.00328125
+        "normalized_retweets": 0.00328125,
+        "weighted_sentiment_score": {
+            "positive": 0.0013511808241925697,
+            "neutral": 0.0008424554621406338,
+            "negative": 1.9268183137481924e-05
+        }
     },
     "tweet_16": {
         "text": "$TSLA - Elon Musk promises 3 free months of Tesla's 'self-driving' software for vehicles delivered in the final 3 days of 2020",
@@ -221,7 +296,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_17": {
         "text": "Tesla Full Self-Driving FSD Beta Is Launching in Canada Very Soon, Says Elon Musk $TSLA",
@@ -235,7 +315,12 @@
         },
         "normalized_likes": 3.529411764705882e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 1.7965374974643482e-06,
+            "positive": 1.7205811248106114e-06,
+            "negative": 1.2293149004964266e-08
+        }
     },
     "tweet_18": {
         "text": "Tesla is just $23 billion or 6.4% away from the highest market cap target set forth in Elon Musk\u2018s 2018 compensation plan. But still 2-3 years away from the operating milestones.However, hitting the market cap milestone in just over two years is mind-blowing!$TSLA",
@@ -249,7 +334,12 @@
         },
         "normalized_likes": 0.0011176470588235294,
         "normalized_replies": 0.00046875,
-        "normalized_retweets": 0.00046875
+        "normalized_retweets": 0.00046875,
+        "weighted_sentiment_score": {
+            "positive": 0.00034683449761394193,
+            "neutral": 0.00017214690875809859,
+            "negative": 1.465832336586626e-05
+        }
     },
     "tweet_19": {
         "text": "Tesla (TSLA) CEO Elon Musk said meeting with Larry Ellison to seek some advice  via @Street_Insider",
@@ -263,7 +353,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0,
+            "positive": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_20": {
         "text": "Why would wonderboy, who pissed on Apple talent and technology, go to Apple, if true? Time to short $TSLA yet? \u201cElon Musk says he tried to sell Tesla to Apple in 2018\u201d - CNBC",
@@ -277,7 +372,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "negative": 0.0,
+            "neutral": 0.0,
+            "positive": 0.0
+        }
     },
     "tweet_21": {
         "text": "Is anyone still doubting Elon Musk?   #Tesla #TSLA #stockmarket #2021 #bestpicks #SandP #forecast",
@@ -291,7 +391,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0,
+            "negative": 0.0,
+            "positive": 0.0
+        }
     },
     "tweet_22": {
         "text": "They did it!",
@@ -305,7 +410,12 @@
         },
         "normalized_likes": 0.0013058823529411765,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0009375
+        "normalized_retweets": 0.0009375,
+        "weighted_sentiment_score": {
+            "positive": 0.0005097425039375529,
+            "neutral": 0.0001776443412154913,
+            "negative": 5.701379813253879e-06
+        }
     },
     "tweet_23": {
         "text": "$ALPP Martin Eberhard standing with Elon MuskMr. Eberhard was a co-founder of $TSLA and is now a shareholder in @alpine4tech  @FahimArianus @QasimTradeX @AlexDelarge6553 @Cesear96355841 @KingShard1 @FSTrades @Block30Labs",
@@ -319,7 +429,12 @@
         },
         "normalized_likes": 4.705882352941177e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 3.863303801592659e-06,
+            "positive": 8.202404835644891e-07,
+            "negative": 2.233797355609782e-08
+        }
     },
     "tweet_24": {
         "text": "$TSLA Nitin Gadkari Confirms That Elon Musk's Tesla Motors Will Be Coming To India In 2021",
@@ -333,7 +448,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "neutral": 5.9760745614767076e-05,
+            "positive": 3.349221032112837e-05,
+            "negative": 4.9704393313732e-07
+        }
     },
     "tweet_25": {
         "text": "I got my model 3 almost 3 years ago.  The car has improved dramatically over the 3 years. I\u2019ve had zero issues (this was one of the first model 3s too) - there has been zero depreciation or maintenance costs. The car is better than when I bought it. @elonmusk $tsla",
@@ -347,7 +467,12 @@
         },
         "normalized_likes": 0.05647058823529412,
         "normalized_replies": 0.0303125,
-        "normalized_retweets": 0.03125
+        "normalized_retweets": 0.03125,
+        "weighted_sentiment_score": {
+            "positive": 0.032707435014822026,
+            "neutral": 0.0006299825841629439,
+            "negative": 0.00015338980536548392
+        }
     },
     "tweet_26": {
         "text": "$TSLA (+0.5% pre) Elon Musk Says Taking Tesla Private 'Impossible' Now - BZ",
@@ -361,7 +486,12 @@
         },
         "normalized_likes": 5.882352941176471e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00046875
+        "normalized_retweets": 0.00046875,
+        "weighted_sentiment_score": {
+            "neutral": 0.00023836877828135208,
+            "positive": 2.9068231618250994e-05,
+            "negative": 1.9695332345059686e-05
+        }
     },
     "tweet_27": {
         "text": "Reach an international audience through our open access publication model. We have calls for papers in your subject area.",
@@ -375,7 +505,12 @@
         },
         "normalized_likes": 0.00047058823529411766,
         "normalized_replies": 0.00234375,
-        "normalized_retweets": 0.00125
+        "normalized_retweets": 0.00125,
+        "weighted_sentiment_score": {
+            "positive": 0.000775010988214875,
+            "neutral": 0.0007173248029697468,
+            "negative": 7.848026057592292e-06
+        }
     },
     "tweet_28": {
         "text": "$TSLA - Tesla\u2019s Elon Musk Says Apple CEO Turned Back On Takeover Call",
@@ -389,7 +524,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0,
+            "positive": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_29": {
         "text": "$TSLA - Elon Musk Says He Once Approached Apple CEO About Buying Tesla -- 2nd Update",
@@ -403,7 +543,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0,
+            "positive": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_30": {
         "text": "RT @Street_Insider: Tesla $TSLA CEO Elon Musk said meeting with Larry Ellison to seek some advice  ",
@@ -417,7 +562,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0,
+            "positive": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_31": {
         "text": "Elon Musk just announced that everyone who buys a Tesla $TSLA car in the last 3 days of 2020 will get full self-driving for 3 months for free",
@@ -431,7 +581,12 @@
         },
         "normalized_likes": 0.00028235294117647056,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "positive": 0.00019407330210375435,
+            "neutral": 6.74900784135303e-05,
+            "negative": 1.0469159238239038e-06
+        }
     },
     "tweet_32": {
         "text": "\u201cPDF GPT is one of the best new AI tools I've used for research.\u201dJust upload a PDF file, ask a question, and get an answer in seconds. It's like ChatGPT, but built for research.Try it for free.",
@@ -445,7 +600,12 @@
         },
         "normalized_likes": 2.3529411764705884e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 2.288169299854952e-06,
+            "neutral": 5.679578903843375e-08,
+            "negative": 7.976249736898087e-09
+        }
     },
     "tweet_33": {
         "text": "VIDEO: Elon Musk Vs. Steve Jobs - Who Wins In Innovation? Many people call Elon Musk the next Steve Jobs.  Who is more innovative?  #innovation #Tesla #Apple #innovate #genius #invention #invent #engineer #TSLA #CEO",
@@ -459,7 +619,12 @@
         },
         "normalized_likes": 7.058823529411764e-05,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.00046875
+        "normalized_retweets": 0.00046875,
+        "weighted_sentiment_score": {
+            "positive": 0.00023664226681651435,
+            "neutral": 9.673033471602726e-05,
+            "negative": 1.8112215286237185e-06
+        }
     },
     "tweet_34": {
         "text": "$TSLA (+0.5% pre) Elon Musk says Tesla can still achieve milestone of 500,000 cars in 2020, but will need to \u2018go all out\u2019 - Electrek",
@@ -473,7 +638,12 @@
         },
         "normalized_likes": 3.529411764705882e-05,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "positive": 7.769489379270989e-05,
+            "neutral": 6.52491846899776e-05,
+            "negative": 1.2103389206972413e-06
+        }
     },
     "tweet_35": {
         "text": "say it all together NowThe Emperor Has No Clothes$TSLA #Tesla Elon Musk @elonmusk #EVs $blnk $aapl $f",
@@ -487,7 +657,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0,
+            "positive": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_36": {
         "text": "Elon Musk Hopeful #Tesla $TSLA Can Deliver 500,000 Vehicles By End Of Year, Encourages Employees To \u2018Make It Happen\u2019  #StockMarket",
@@ -501,7 +676,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 4.35984805226326e-05,
+            "neutral": 3.133591264486313e-06,
+            "negative": 1.4293065760284663e-07
+        }
     },
     "tweet_37": {
         "text": "Elon Musk @elonmusk might be crazy enough to use $TSLA ($600b cap) to buy at $BA Boeing ($125b).  Stay tuned!",
@@ -515,7 +695,12 @@
         },
         "normalized_likes": 0.00011764705882352942,
         "normalized_replies": 0.0003125,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "positive": 9.896154609673164e-05,
+            "neutral": 9.60330149925807e-05,
+            "negative": 4.270128833184786e-06
+        }
     },
     "tweet_38": {
         "text": "$TSLA   Elon Musk Floats Idea Of Starting One Parent Company To Hold Tesla, SpaceX, Boring, Neuralink",
@@ -529,7 +714,12 @@
         },
         "normalized_likes": 1.1764705882352942e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 8.288509705487421e-07,
+            "positive": 3.375370712841259e-07,
+            "negative": 1.0082561741856968e-08
+        }
     },
     "tweet_39": {
         "text": "New post (Tesla Motors, Inc. (NASDAQ:TSLA) - Elon Musk Hopeful Tesla Can Deliver 500,000 Vehicles By End Of Year, Encourages Employees To 'Make It Happen') has been published on FUNDSWIFT - ",
@@ -543,7 +733,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_40": {
         "text": "\"I always deliver. Maybe not on time all the time but I always do\" - Elon Musk#Tesla $TSLA   @28delayslater@Sofiaan @arctechinc#Tesla Software team be like:",
@@ -557,7 +752,12 @@
         },
         "normalized_likes": 1.1764705882352942e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 1.0442827729617848e-06,
+            "neutral": 1.2467838385525874e-07,
+            "negative": 7.509358008118238e-09
+        }
     },
     "tweet_41": {
         "text": "$TSLALeaked Elon Musk email hints that Tesla\u2019s 500K delivery goal for 2020 is within reach | TESLARATI ",
@@ -571,7 +771,12 @@
         },
         "normalized_likes": 2.3529411764705884e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 1.2210847349727855e-06,
+            "neutral": 1.119272498523488e-06,
+            "negative": 1.2583913391127308e-08
+        }
     },
     "tweet_42": {
         "text": "the incredibly fallacious nature of net worth numbers bites even intelligent conscientious people Elon Musk doesn't have any more \"personal wealth\" than he did 18 months ago before TSLA went on its crazy runhis 52% of Tesla is not $100B in the bank, they can't be compared",
@@ -585,7 +790,12 @@
         },
         "normalized_likes": 0.0002,
         "normalized_replies": 0.00046875,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "negative": 0.00011800316836684941,
+            "neutral": 3.7510708356276154e-05,
+            "positive": 5.1111190882511434e-06
+        }
     },
     "tweet_43": {
         "text": "$SPY $TSLA ELON MUSK SAYS STARLINK LIKELY TO LIST ONCE REVENUE GROWTH PREDICTABLE",
@@ -599,7 +809,12 @@
         },
         "normalized_likes": 8.23529411764706e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 4.425408068825218e-06,
+            "positive": 3.7158737463109637e-06,
+            "negative": 9.401207241941902e-08
+        }
     },
     "tweet_44": {
         "text": "$TSLA stock currently higher than Elon Musk on Joe Rogan!",
@@ -613,7 +828,12 @@
         },
         "normalized_likes": 3.529411764705882e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 2.9813689344069533e-06,
+            "neutral": 5.228641453911276e-07,
+            "negative": 2.5178678333759307e-08
+        }
     },
     "tweet_45": {
         "text": "Still wasting time reading 100-page documents? This AI tool is like ChatGPT for reading faster. Just upload any PDF and ask a question. It will give you an answer with page citations in seconds. Try it for free.",
@@ -627,7 +847,12 @@
         },
         "normalized_likes": 0.011764705882352941,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.02375
+        "normalized_retweets": 0.02375,
+        "weighted_sentiment_score": {
+            "positive": 0.00805163402154165,
+            "neutral": 0.006945270934963927,
+            "negative": 0.0004295656604637556
+        }
     },
     "tweet_46": {
         "text": "Elon Musk pushes $TSLA to have more in-car gaming in preparation for self-driving future",
@@ -641,7 +866,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 2.7994075790047645e-05,
+            "neutral": 1.864802185446024e-05,
+            "negative": 2.3289940872928128e-07
+        }
     },
     "tweet_47": {
         "text": "I bought a single share of $TSLA in August 2018 after Elon Musk's \"Funding secured\" tweet for about $370. It has been a rollercoaster ride ever since but I finally sold today for about $3470.",
@@ -655,7 +885,12 @@
         },
         "normalized_likes": 2.3529411764705884e-05,
         "normalized_replies": 0.0003125,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 6.535241798004684e-05,
+            "positive": 2.2831110118285698e-05,
+            "negative": 7.91941164609264e-06
+        }
     },
     "tweet_48": {
         "text": "Ross Gerber Interview: My Stock Market Advantage, TSLA, & Elon Musk (Ep....  via @YouTube",
@@ -669,7 +904,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0,
+            "positive": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_49": {
         "text": "Entry Signal Time: 30/12 7:10BATS:TSLAAsset: TeslaDirection: LongTimeframe: 5 minutesTP price: 681.78Pips/Points gained: 10.1% move: 1.5%Subscribe now to our trading signals: ",
@@ -683,7 +923,12 @@
         },
         "normalized_likes": 1.1764705882352942e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 1.0734064438763788e-06,
+            "positive": 8.432143751312706e-08,
+            "negative": 1.874270903713563e-08
+        }
     },
     "tweet_50": {
         "text": "The 50CAL Speaker320Watts up to 78hr battery340ft Bluetooth rangeGuitar inputUSB C+A charge ports to charge your devices in the wild100+ reviews scoring \u2605\u2605\u2605\u2605\u2605Shop now: #AmmoCanSpeaker #bluetoothspeaker #outdoors #adventure #tacticool",
@@ -697,7 +942,12 @@
         },
         "normalized_likes": 0.0027294117647058825,
         "normalized_replies": 0.006875,
-        "normalized_retweets": 0.00421875
+        "normalized_retweets": 0.00421875,
+        "weighted_sentiment_score": {
+            "positive": 0.0029123637404424303,
+            "neutral": 0.0019286782122710172,
+            "negative": 2.56492940102608e-05
+        }
     },
     "tweet_51": {
         "text": "$AAPL $TSLA - Elon Musk says Apple wouldn't take meeting on Tesla acquisition  #AAPL #Apple #EV #ElectricVehicle #ElectricCar #ElonMusk #TSLA #Tesla  $AAPL #ProjectTitan #ProLuxRE  ",
@@ -711,7 +961,12 @@
         },
         "normalized_likes": 1.1764705882352942e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "neutral": 7.85099531622494e-05,
+            "negative": 8.485789314350662e-06,
+            "positive": 7.930725282605957e-06
+        }
     },
     "tweet_52": {
         "text": "Daily reminder not to put your life savings in $TSLA just because Elon Musk liked a \"stonks only go up\" tweet  ",
@@ -725,7 +980,12 @@
         },
         "normalized_likes": 1.1764705882352942e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "negative": 6.382984273573932e-07,
+            "neutral": 4.784128595800961e-07,
+            "positive": 5.975928376702701e-08
+        }
     },
     "tweet_53": {
         "text": "VIDEO: Elon Musk discusses Tesla, autopilot, and artificial intelligence at the China AI conference.  With the progress Elon Musk has done with Tesla and SpaceX it is hard to bet against him.   #ElonMusk #AI #TSLA #engineer",
@@ -739,7 +999,12 @@
         },
         "normalized_likes": 3.529411764705882e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.000625
+        "normalized_retweets": 0.000625,
+        "weighted_sentiment_score": {
+            "positive": 0.0002926076130656635,
+            "neutral": 8.385971199063694e-05,
+            "negative": 2.0620724308194924e-06
+        }
     },
     "tweet_54": {
         "text": "I love $TSLA and Elon MuskBut... Still think they are overvalued. Got too hot too fast. They need to be cut in half at least back down to 420s.",
@@ -753,7 +1018,12 @@
         },
         "normalized_likes": 2.3529411764705884e-05,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "negative": 2.721822924254572e-05,
+            "neutral": 1.5187767204992912e-05,
+            "positive": 6.821946196038933e-06
+        }
     },
     "tweet_55": {
         "text": "ChatGPT is always making up information.Use this AI tool instead.Coral AI always gives you accurate answers, pulled directly from the source.It also gives you a page citation with every answer, so you can verify it.Try it for free.",
@@ -767,7 +1037,12 @@
         },
         "normalized_likes": 0.0002705882352941176,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00078125
+        "normalized_retweets": 0.00078125,
+        "weighted_sentiment_score": {
+            "positive": 0.00029842120433993196,
+            "neutral": 0.000186532317774699,
+            "negative": 1.0855286638526354e-05
+        }
     },
     "tweet_56": {
         "text": "Elon Musk Hopeful Tesla $TSLA Can Deliver 500,000 Vehicles By End Of Year, Encourages Employees To \u2018Make It Happen\u2019  #StockMarket #Stocks",
@@ -781,7 +1056,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_57": {
         "text": "I still remember one of my colleagues in 2017 strongly recommending $TSLA based on vision of Elon Musk alone. I was reading operational costs of tsla and didn't buy it at all. It turns around it was one of my biggest life's mistakes.",
@@ -795,7 +1075,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "negative": 2.8634109534323215e-05,
+            "neutral": 1.4688240364193917e-05,
+            "positive": 3.552650101482868e-06
+        }
     },
     "tweet_58": {
         "text": "Good jobs Elon Musk. $TSLA ",
@@ -809,7 +1094,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_59": {
         "text": "Ross Gerber Interview: My Stock Market Advantage, TSLA, & Elon Musk (Ep....  via @YouTube",
@@ -823,7 +1113,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0,
+            "positive": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_60": {
         "text": "Apple Snubbed Chance to Buy Tesla At $65 Billion, Says Elon Musk@mdbaccardax$AAPL $TSLA",
@@ -837,7 +1132,12 @@
         },
         "normalized_likes": 0.00035294117647058826,
         "normalized_replies": 0.00046875,
-        "normalized_retweets": 0.00140625
+        "normalized_retweets": 0.00140625,
+        "weighted_sentiment_score": {
+            "neutral": 0.0008427726301857653,
+            "negative": 0.00010428556402433006,
+            "positive": 7.261095382547115e-05
+        }
     },
     "tweet_61": {
         "text": "Elon Musk has a wide assortment of Tesla quotes. Here are a few quotes that pertain to the Tesla Supply Chain and manufacturing.  \u201cGreat companies are built on great products.\u201d ~Elon Musk #supplychain #SCM #logistics #gigafactory #TSLA",
@@ -851,7 +1151,12 @@
         },
         "normalized_likes": 3.529411764705882e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "positive": 0.0001476856501926394,
+            "neutral": 4.2470288925311144e-05,
+            "negative": 8.734718461603146e-07
+        }
     },
     "tweet_62": {
         "text": "$TSLA Elon Musk Hopeful Tesla Can Deliver 500,000 Vehicles By End Of Year, Encourages Employees To 'Make It Happen'",
@@ -865,7 +1170,12 @@
         },
         "normalized_likes": 3.529411764705882e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 3.0218418906716736e-06,
+            "neutral": 4.931364339940688e-07,
+            "negative": 1.4433484414921086e-08
+        }
     },
     "tweet_63": {
         "text": "All Tesla cars delivered in the final three days of the year will get three months of the Full Self-Driving option for free.- Elon Musk$TSLA FSD is so advanced and fascinating once you try it you would never give it back.",
@@ -879,7 +1189,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_64": {
         "text": "Come on internet, where are the proper conspiracy theories on this #Bitcoin rally?  \"Capital outflows out of the US ahead of expected January coup d'\u00e9tat\".  \"Elon Musk putting 1% of the $TSLA balance sheet in bitcoin\".",
@@ -893,7 +1208,12 @@
         },
         "normalized_likes": 1.1764705882352942e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "negative": 5.1978484843583666e-05,
+            "neutral": 4.054051577606622e-05,
+            "positive": 2.407472620800357e-06
+        }
     },
     "tweet_65": {
         "text": "Yes. Seasoned LT investors tend to invest more on person than ideas.Currently Only way to invest on Elon Musk (SpaceX, Neuralink, Boring ) is through $TSLAHence If SpaceX, which is more loved, has more potential than Tesla goes public, lot of  will flow there from Tesla.",
@@ -907,7 +1227,12 @@
         },
         "normalized_likes": 8.23529411764706e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 4.506201463587145e-06,
+            "positive": 3.435229168218725e-06,
+            "negative": 2.9386320973143863e-07
+        }
     },
     "tweet_66": {
         "text": "Elon was later officially added as co-founder of $TSLA through a lawsuit. but for me, Elon is the soul ofTesla.  Elon Musk's Tesla Inc was founded by others and he was credited as co-founder through a lawsuit settlement",
@@ -921,7 +1246,12 @@
         },
         "normalized_likes": 4.705882352941177e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00046875
+        "normalized_retweets": 0.00046875,
+        "weighted_sentiment_score": {
+            "positive": 0.00018386612313635209,
+            "neutral": 9.958605399026589e-05,
+            "negative": 2.5037009652484863e-06
+        }
     },
     "tweet_67": {
         "text": "$tsla WILL partner with a legacy automaker. Elon Musk saying he was willing to have that conversation was not a passing comment, it was a direct message to negotiate. My guess would be #Daimler or #Volkswagen. I also think TSLA will acquire a Chinese automaker if possible.",
@@ -935,7 +1265,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "neutral": 5.7100743055343626e-05,
+            "positive": 3.556083608418703e-05,
+            "negative": 1.0884228686336429e-06
+        }
     },
     "tweet_68": {
         "text": "Bare Metal Server Sale",
@@ -949,7 +1284,12 @@
         },
         "normalized_likes": 1.0,
         "normalized_replies": 1.0,
-        "normalized_retweets": 1.0
+        "normalized_retweets": 1.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.8708569407463074,
+            "positive": 0.07393915206193924,
+            "negative": 0.05520381033420563
+        }
     },
     "tweet_69": {
         "text": "$TSLA Tesla's Elon Musk asks about converting 'large transactions' to bitcoin",
@@ -963,7 +1303,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0,
+            "positive": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_70": {
         "text": "VIDEO: Elon Musk Vs. Steve Jobs - Who Wins In Innovation? Many people call Elon Musk the next Steve Jobs.  Who is more innovative?  #innovation #Tesla #Apple #innovate #genius #invention #invent #engineer #TSLA #CEO",
@@ -977,7 +1322,12 @@
         },
         "normalized_likes": 3.529411764705882e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00078125
+        "normalized_retweets": 0.00078125,
+        "weighted_sentiment_score": {
+            "positive": 0.00033343276949928085,
+            "neutral": 0.0001362946012681898,
+            "negative": 2.5520403374684973e-06
+        }
     },
     "tweet_71": {
         "text": "Really informative take on tesla and investing. Check it out. Ross Gerber Interview: My Stock Market Advantage, TSLA, & Elon Musk (Ep....  via @YouTube $tsla @elonmusk #tesla",
@@ -991,7 +1341,12 @@
         },
         "normalized_likes": 0.000811764705882353,
         "normalized_replies": 0.00171875,
-        "normalized_retweets": 0.00046875
+        "normalized_retweets": 0.00046875,
+        "weighted_sentiment_score": {
+            "positive": 0.0007773053502357182,
+            "neutral": 9.850415963980863e-05,
+            "negative": 2.241932295925354e-06
+        }
     },
     "tweet_72": {
         "text": "I know you don\u2019t like $tsla / Elon Musk either but he did right by his company to pump up the stock by any means necessary and then raise capital with much less dilution",
@@ -1005,7 +1360,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 2.8098740614950658e-05,
+            "negative": 1.0566002922132612e-05,
+            "positive": 8.210257859900595e-06
+        }
     },
     "tweet_73": {
         "text": "We'll unlock your inner fictional character, showing some hidden talents, traits, and ambitions you might not have even known were there!",
@@ -1019,7 +1379,12 @@
         },
         "normalized_likes": 0.0011529411764705881,
         "normalized_replies": 0.008125,
-        "normalized_retweets": 0.006875
+        "normalized_retweets": 0.006875,
+        "weighted_sentiment_score": {
+            "positive": 0.005187621175348759,
+            "neutral": 0.0014394424408959118,
+            "negative": 5.073063511476743e-05
+        }
     },
     "tweet_74": {
         "text": "I got deep into BABA because of Jack Ma as much as got into TSLA because of Elon Musk. They are exceptional and is worth betting on them",
@@ -1033,7 +1398,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_75": {
         "text": "#TSLA #TESLA @elonmuskXFive easy ways for Elon Musk to combine his companies into a superconglomerate",
@@ -1047,7 +1417,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_76": {
         "text": "You dont think at that point they get a bit worried if influential megacaps start dumping USD in favour of the bitmoney?(I am talking about $tsla / elon musk obviously)",
@@ -1061,7 +1436,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0,
+            "negative": 0.0,
+            "positive": 0.0
+        }
     },
     "tweet_77": {
         "text": "Easy to do a sentiment analysis of Tsla shares and Elon Musk tweets :D :P",
@@ -1075,7 +1455,12 @@
         },
         "normalized_likes": 3.529411764705882e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 2.2726714611053463e-06,
+            "neutral": 1.2242181511486278e-06,
+            "negative": 3.252214587786618e-08
+        }
     },
     "tweet_78": {
         "text": "Learn how today's top startups use data to to build successful products \u2014 and how you can too.",
@@ -1089,7 +1474,12 @@
         },
         "normalized_likes": 0.00010588235294117647,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 7.999660618164961e-06,
+            "neutral": 2.499210729318507e-06,
+            "negative": 8.936363108017866e-08
+        }
     },
     "tweet_79": {
         "text": "VIDEO: Elon Musk Vs. Steve Jobs - Who Wins In Innovation? Many people call Elon Musk the next Steve Jobs.  Who is more innovative?  #innovation #Tesla #Apple #innovate #genius #invention #invent #engineer #TSLA #CEO",
@@ -1103,7 +1493,12 @@
         },
         "normalized_likes": 3.529411764705882e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.000625
+        "normalized_retweets": 0.000625,
+        "weighted_sentiment_score": {
+            "positive": 0.0002672445737789659,
+            "neutral": 0.00010923939083428944,
+            "negative": 2.0454466226510705e-06
+        }
     },
     "tweet_80": {
         "text": "VIDEO: Elon Musk Vs. Steve Jobs - Who Wins In Innovation? Many people call Elon Musk the next Steve Jobs.  Who is more innovative?  #innovation #Tesla #Apple #innovate #genius #invention #invent #engineer #TSLA #CEO",
@@ -1117,7 +1512,12 @@
         },
         "normalized_likes": 1.1764705882352942e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "positive": 0.00013320698840653197,
+            "neutral": 5.444993723403005e-05,
+            "negative": 1.0195446840953082e-06
+        }
     },
     "tweet_81": {
         "text": "Hey Elon - Maybe Tim read our report and decided he wanted nothing to do with you.  \"As Elon Musk Hyped and Happy-Talked Investors and Fans, Tesla Kept Quiet About a Year-Long Formal SEC Probe into the Model 3.\"  $TSLA  ",
@@ -1131,7 +1531,12 @@
         },
         "normalized_likes": 0.0002941176470588235,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.00109375
+        "normalized_retweets": 0.00109375,
+        "weighted_sentiment_score": {
+            "neutral": 0.0005339096444385016,
+            "negative": 0.0001443931250148179,
+            "positive": 5.423395704779336e-05
+        }
     },
     "tweet_82": {
         "text": "Elon Musk is in good company. They said Crazy Eddie Antar was going to be the next Sam Walton.$TSLA $TSLAQ",
@@ -1145,7 +1550,12 @@
         },
         "normalized_likes": 0.00012941176470588234,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "positive": 9.630793178782744e-05,
+            "neutral": 9.730531165157172e-06,
+            "negative": 6.527199265752535e-07
+        }
     },
     "tweet_83": {
         "text": "Tesla (NASDAQ: TSLA) CEO Elon Musk said he was meeting with Larry Ellison to seek some advice. He added that he will be \"Back working on Tesla end of quarter tomorrow.\"  ELLISON IS A TESLA BOARD MEMBER",
@@ -1159,7 +1569,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0,
+            "positive": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_84": {
         "text": "via GerberKawasaki: Really informative take on tesla and investing. Check it out. Ross Gerber Interview: My Stock Market Advantage, TSLA, & Elon Musk (Ep....  via @YouTube $tsla @elonmusk #tesla $tsla",
@@ -1173,7 +1588,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_85": {
         "text": "$TSLA Tesla\u2019s Elon Musk says Apple boss snubbed proposed takeover deal  @Tesla #TSLA",
@@ -1187,7 +1607,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0,
+            "negative": 0.0,
+            "positive": 0.0
+        }
     },
     "tweet_86": {
         "text": "$BB Elon Musk says $TSLA  Tesla auto pilot does not work as well in China   so my guess and a good guess $BIDU QNX AV would work very well in China and QNX AV works very well in North America hmmm  $600B ??  @BlackBerry @BlackBerrySpark @QNX_News @JohnChen",
@@ -1201,7 +1626,12 @@
         },
         "normalized_likes": 5.882352941176471e-05,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 3.110762659241172e-05,
+            "negative": 1.3964399399564547e-05,
+            "positive": 7.68532773534603e-06
+        }
     },
     "tweet_87": {
         "text": "Elon Musk has a wide assortment of Tesla quotes. Here are a few quotes that pertain to the Tesla Supply Chain and manufacturing.  \u201cGreat companies are built on great products.\u201d ~Elon Musk #supplychain #SCM #logistics #gigafactory #TSLA",
@@ -1215,7 +1645,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 0.0
+        }
     },
     "tweet_88": {
         "text": "How Apple may have missed an opportunity to buy Tesla $TSLATesla CEO Elon Musk tweeted that he once reached out to Tim Cook to discuss the possibility of Apple acquiring Tesla. CNBC's \"Squawk on the Street\" crew discusses.See it here  ",
@@ -1229,7 +1664,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0,
+            "negative": 0.0,
+            "positive": 0.0
+        }
     },
     "tweet_89": {
         "text": "Elon Musk has a wide assortment of Tesla quotes. Here are a few quotes that pertain to the Tesla Supply Chain and manufacturing.  \u201cGreat companies are built on great products.\u201d ~Elon Musk #supplychain #SCM #logistics #gigafactory #TSLA",
@@ -1243,7 +1683,12 @@
         },
         "normalized_likes": 2.3529411764705884e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00046875
+        "normalized_retweets": 0.00046875,
+        "weighted_sentiment_score": {
+            "positive": 0.0002192546392582795,
+            "neutral": 6.30515413336894e-05,
+            "negative": 1.296759395935463e-06
+        }
     },
     "tweet_90": {
         "text": "Elon Musk has a wide assortment of Tesla quotes. Here are a few quotes that pertain to the Tesla Supply Chain and manufacturing.  \u201cGreat companies are built on great products.\u201d ~Elon Musk #supplychain #SCM #logistics #gigafactory #TSLA",
@@ -1257,7 +1702,12 @@
         },
         "normalized_likes": 1.1764705882352942e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "positive": 7.338805789018379e-05,
+            "neutral": 2.110436605180011e-05,
+            "negative": 4.340462484191555e-07
+        }
     },
     "tweet_91": {
         "text": "Experience Nohgaku in the Metaverse!The exhibition space will be open for a limited time only, utilizing the Metaverse (virtual space service) to \u201cmake you want to see NOHGAKU and come to Japan\u201d.Metaverse open dates: 2024/1/10 - 2024/3/22#NOHGAKU #NOH #metaverse",
@@ -1271,7 +1721,12 @@
         },
         "normalized_likes": 0.08705882352941176,
         "normalized_replies": 0.0725,
-        "normalized_retweets": 0.0553125
+        "normalized_retweets": 0.0553125,
+        "weighted_sentiment_score": {
+            "positive": 0.050594323977828023,
+            "neutral": 0.012904627843321683,
+            "negative": 0.000144428101618199
+        }
     },
     "tweet_92": {
         "text": "Moshe, I made that point in the blog post. It is one of several sensors needed, but not the only one. I also disagree with $TSLA founder Elon Musk that it is not at all needed.The tech (if made less expensive) has its place in the Level 5 autonomous car. I believe that",
@@ -1285,7 +1740,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 3.111394308507443e-05,
+            "negative": 1.2561857700347901e-05,
+            "positive": 3.199197817593813e-06
+        }
     },
     "tweet_93": {
         "text": "Tesla ( $TSLA ) CEO Elon Musk is known for his eccentric behavior on Twitter, but sometimes he delivers on his jokes.",
@@ -1299,6 +1759,11 @@
         },
         "normalized_likes": 8.23529411764706e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "positive": 6.703511572059463e-05,
+            "neutral": 3.373263482442674e-05,
+            "negative": 1.2175458521746538e-06
+        }
     }
 }

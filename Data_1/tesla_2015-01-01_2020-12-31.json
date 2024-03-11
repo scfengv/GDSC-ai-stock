@@ -11,7 +11,12 @@
         },
         "normalized_likes": 0.006847219934586696,
         "normalized_replies": 0.0059375,
-        "normalized_retweets": 0.00953125
+        "normalized_retweets": 0.00953125,
+        "weighted_sentiment_score": {
+            "neutral": 0.006917530932150357,
+            "positive": 0.0011021709301512227,
+            "negative": 0.00016501979576196953
+        }
     },
     "tweet_2": {
         "text": "So @BeartikalRBLX and I have finally decided to end the year off by getting our dream car, a 2021 Tesla Model 3! Thank you so much to @Roblox @robloxdevrel for making this possible.Here's to the years ahead! #Roblox #Tesla",
@@ -25,7 +30,12 @@
         },
         "normalized_likes": 0.004764817995717546,
         "normalized_replies": 0.00765625,
-        "normalized_retweets": 0.0028125
+        "normalized_retweets": 0.0028125,
+        "weighted_sentiment_score": {
+            "positive": 0.004386947706106321,
+            "neutral": 6.726902795835762e-05,
+            "negative": 6.639964760531999e-06
+        }
     },
     "tweet_3": {
         "text": " The G-BOX Era is live! C\u061c\u00ad\u00adla\u061c\u00ad\u00ad\u00adi\u061cm your G-BOX now.Each G-BOX contains one of three r\u00ade\u061c\u00ad\u00adw\u061c\u00ad\u00ad\u061ca\u061c\u00ad\u00adr\u00ad\u061cd\u061c\u061c\u061c\u061c\u00ad\u00adsDon't miss out, supp\u061c\u061c\u061c\u061c\u061c\u061c\u061cly is li\u00ad\u061cm\u061c\u061c\u061ci\u00adte\u00ad\u061cd",
@@ -39,7 +49,12 @@
         },
         "normalized_likes": 0.002564766229793642,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0028125
+        "normalized_retweets": 0.0028125,
+        "weighted_sentiment_score": {
+            "neutral": 0.0010737305457967767,
+            "positive": 0.0008569373027752545,
+            "negative": 1.3308727335130883e-05
+        }
     },
     "tweet_4": {
         "text": "Tesla Model Y is currently only being manufactured out of one facility. By this time next year it will be manufactured out of 4 facilities.  $TSLA",
@@ -53,7 +68,12 @@
         },
         "normalized_likes": 0.00791783336078496,
         "normalized_replies": 0.00171875,
-        "normalized_retweets": 0.005625
+        "normalized_retweets": 0.005625,
+        "weighted_sentiment_score": {
+            "neutral": 0.0032029127809273515,
+            "positive": 0.0014179542297642132,
+            "negative": 6.154108118030587e-05
+        }
     },
     "tweet_5": {
         "text": "Sooo! My sister took delivery of her #M3 today. She was told that the Trial FSD would not start until the middle of January. Why would @Tesla wait? Unless it is an official 1.0 release of FSD and not just EAP? @greentheonly",
@@ -67,7 +87,12 @@
         },
         "normalized_likes": 0.006635450245888138,
         "normalized_replies": 0.00390625,
-        "normalized_retweets": 0.004375
+        "normalized_retweets": 0.004375,
+        "weighted_sentiment_score": {
+            "negative": 0.0026448426820978015,
+            "neutral": 0.0016887397524074819,
+            "positive": 0.00012683774793894562
+        }
     },
     "tweet_6": {
         "text": "What, no marshmallows!? Jk Thanks @Tesla!",
@@ -81,7 +106,12 @@
         },
         "normalized_likes": 0.0010353184780818373,
         "normalized_replies": 0.00078125,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "positive": 0.0003336632507850689,
+            "neutral": 0.00013331327971291502,
+            "negative": 5.843032905395789e-05
+        }
     },
     "tweet_7": {
         "text": "New York : homelessness, unemployment out the ass, housing crisis, poor and struggling college students, restaurant + small business closures.New York Government: yo NYPD, y\u2019all want some Tesla\u2019s ??????",
@@ -95,7 +125,12 @@
         },
         "normalized_likes": 0.0009059036683216076,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00265625
+        "normalized_retweets": 0.00265625,
+        "weighted_sentiment_score": {
+            "negative": 0.001416236528707505,
+            "neutral": 0.00024815705544964703,
+            "positive": 1.9946676005842763e-05
+        }
     },
     "tweet_8": {
         "text": "They did it!",
@@ -109,7 +144,12 @@
         },
         "normalized_likes": 0.0019412221464034447,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.000625
+        "normalized_retweets": 0.000625,
+        "weighted_sentiment_score": {
+            "positive": 0.000418569769279298,
+            "neutral": 0.0001458708079902442,
+            "negative": 4.68162889022038e-06
+        }
     },
     "tweet_9": {
         "text": "I am never buying a Tesla, a Patagonia vest, or a vape pen because if I do this cartoon will decease me ",
@@ -123,7 +163,12 @@
         },
         "normalized_likes": 0.00167062754417751,
         "normalized_replies": 0.0034375,
-        "normalized_retweets": 0.00125
+        "normalized_retweets": 0.00125,
+        "weighted_sentiment_score": {
+            "negative": 0.0016850248491676204,
+            "neutral": 0.0002306889253134005,
+            "positive": 3.2599005339837395e-05
+        }
     },
     "tweet_10": {
         "text": "This car costs 1.3 #bitcoin#tesla",
@@ -137,7 +182,12 @@
         },
         "normalized_likes": 0.0001529447751711805,
         "normalized_replies": 0.0009375,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.00024803000492733837,
+            "positive": 3.366446155183347e-05,
+            "negative": 1.4850011037946146e-05
+        }
     },
     "tweet_11": {
         "text": "Number of Teslas registered in Norway today was 313 with 2 Model S, 3 Model X and 308 Model 3 making it a total of 58239 Source:  #Tesla #Norway $TSLA",
@@ -151,7 +201,12 @@
         },
         "normalized_likes": 0.0002470646368149839,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "neutral": 0.0001605709980977892,
+            "positive": 5.068938692448275e-05,
+            "negative": 9.460993118404912e-07
+        }
     },
     "tweet_12": {
         "text": "So Earldomish of you ~",
@@ -165,7 +220,12 @@
         },
         "normalized_likes": 0.00017647474058213135,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "neutral": 0.00015745477061855883,
+            "positive": 5.842164229879951e-05,
+            "negative": 3.614605362999976e-05
+        }
     },
     "tweet_13": {
         "text": "Thanks tesla. With the way the pandemic has hit the economy so hard, you've helped me right from the start. Originally, goal was to be up by 10% and be grateful. Instead, you've got me up by almost 50% in a very short matter of time.Let's go 700+ & beyond!",
@@ -179,7 +239,12 @@
         },
         "normalized_likes": 8.235487893832797e-05,
         "normalized_replies": 0.0003125,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "positive": 0.00017865356600183386,
+            "neutral": 1.1656190926525881e-05,
+            "negative": 5.425724038343667e-06
+        }
     },
     "tweet_14": {
         "text": "There was a Porsche and Tesla racing on the expressway right now & my man really had me chasing them in my weak ass car to see who\u2019d win lmfao",
@@ -193,7 +258,12 @@
         },
         "normalized_likes": 0.00023529965410950846,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 3.136543841079425e-05,
+            "positive": 2.5156641380379337e-05,
+            "negative": 1.3882887718008738e-05
+        }
     },
     "tweet_15": {
         "text": "Want to get better at Starcraft?Here's some SpeCial advice!Industry professionals hate him for letting out this secret! Try it out now and see your MMR rocket up like Tesla stocks!By: Professor @SpeCial_SC2",
@@ -207,7 +277,12 @@
         },
         "normalized_likes": 0.002058871973458199,
         "normalized_replies": 0.0009375,
-        "normalized_retweets": 0.00296875
+        "normalized_retweets": 0.00296875,
+        "weighted_sentiment_score": {
+            "negative": 0.0008839810161892259,
+            "neutral": 0.0007970695902063048,
+            "positive": 0.0005873366585534954
+        }
     },
     "tweet_16": {
         "text": "Tesla Driver Charged With Dangerous Driving For Speeding While Sleeping ",
@@ -221,7 +296,12 @@
         },
         "normalized_likes": 0.00011764982705475423,
         "normalized_replies": 0.000625,
-        "normalized_retweets": 0.00046875
+        "normalized_retweets": 0.00046875,
+        "weighted_sentiment_score": {
+            "negative": 0.00038100521116310156,
+            "neutral": 9.483786388028515e-05,
+            "positive": 4.671913927291013e-06
+        }
     },
     "tweet_17": {
         "text": "Im a simple man. I\u2019m just tryna have a 3000 sqft home and a Tesla.",
@@ -235,7 +315,12 @@
         },
         "normalized_likes": 2.3529965410950846e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "neutral": 9.326336805265891e-05,
+            "positive": 8.072684931164335e-05,
+            "negative": 1.5862780591307885e-05
+        }
     },
     "tweet_18": {
         "text": "i\u2019m sorry but why are police getting brand new tesla\u2019s when schools around the country don\u2019t have updated textbooks or resources to start music programs or countless other things...",
@@ -249,7 +334,12 @@
         },
         "normalized_likes": 0.00010588484434927881,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "negative": 0.00016529838476350117,
+            "neutral": 3.111936873148784e-05,
+            "positive": 1.6707278037061776e-06
+        }
     },
     "tweet_19": {
         "text": "Good Morning Shanghai and Tesla Fam it\u2019s the last day of the year. Not far from 7000 Followers on Twitter it\u2019s an amazing experience so far. It\u2019s been a pleasure to meet and talk to you all. #Tesla #TeslaChina #Model3 #ShanghaiTower #\u7279\u65af\u62c9 #\u4e2d\u56fd $TSLA",
@@ -263,7 +353,12 @@
         },
         "normalized_likes": 0.0005058942563354432,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 9.622480122483349e-05,
+            "neutral": 1.0443847262053667e-06,
+            "negative": 1.9523466741766715e-07
+        }
     },
     "tweet_20": {
         "text": "My fun Wednesday day off was venturing Eastern Colorado in my Tesla on pretty much autopilot.  Always nice way to clear the head. #Tesla #Model3 #Colorado",
@@ -277,7 +372,12 @@
         },
         "normalized_likes": 0.0001529447751711805,
         "normalized_replies": 0.000625,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "positive": 0.0002898539920941908,
+            "neutral": 5.9442437561709995e-06,
+            "negative": 7.462468451043795e-07
+        }
     },
     "tweet_21": {
         "text": "Does the Elon/Tesla fan club have a name? Cuz I\u2019m proposing musk rats.",
@@ -291,7 +391,12 @@
         },
         "normalized_likes": 8.235487893832797e-05,
         "normalized_replies": 0.0003125,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 8.000832068631292e-05,
+            "negative": 1.437315035377306e-05,
+            "positive": 7.604016853746822e-06
+        }
     },
     "tweet_22": {
         "text": "If Tesla didn't exist, what company(s) would you be investing in? @vincent13031925 @jasondebolt @stevenmarkryan @heydave7 @HyperChangeTV @AlternateJones @garyblack00 @Real_Futurist @GerberKawasaki @ParikPatelCFA @ICannot_Enough @MatchasmMatt @JosephVVallace @jeremyjudkins",
@@ -305,7 +410,12 @@
         },
         "normalized_likes": 0.00014117979246570508,
         "normalized_replies": 0.00265625,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "neutral": 0.0006965799225926103,
+            "negative": 0.00012523486083862984,
+            "positive": 8.292817559274892e-05
+        }
     },
     "tweet_23": {
         "text": "Prime members have access to a lot of great deals, but some of the best ones are hidden. Here's how to find them.",
@@ -319,7 +429,12 @@
         },
         "normalized_likes": 0.007353114190922139,
         "normalized_replies": 0.061875,
-        "normalized_retweets": 0.0209375
+        "normalized_retweets": 0.0209375,
+        "weighted_sentiment_score": {
+            "positive": 0.02670728146102284,
+            "neutral": 0.004889495003469452,
+            "negative": 0.00026353634919460425
+        }
     },
     "tweet_24": {
         "text": "This is pure clown shit. No cop needs a damn Tesla ",
@@ -333,7 +448,12 @@
         },
         "normalized_likes": 0.0008941386856161322,
         "normalized_replies": 0.00078125,
-        "normalized_retweets": 0.000625
+        "normalized_retweets": 0.000625,
+        "weighted_sentiment_score": {
+            "negative": 0.0006512545520793787,
+            "neutral": 4.098206292121271e-05,
+            "positive": 6.552316037615294e-06
+        }
     },
     "tweet_25": {
         "text": "Cathie Wood & @ARKInvest trade activity from today 12/30Bought: $KSPI $TCS Novartis $NVS Roche $RHHBY Repare $RPTX Takeda $TAK Nintendo $NTDOY Baidu $BIDUSold: Tesla $TSLA Taiwan Semi $TSM Exone $XONE Twilio $TWLO",
@@ -347,7 +467,12 @@
         },
         "normalized_likes": 0.0008117838066778041,
         "normalized_replies": 0.001875,
-        "normalized_retweets": 0.0015625
+        "normalized_retweets": 0.0015625,
+        "weighted_sentiment_score": {
+            "neutral": 0.0014491210087603317,
+            "positive": 0.00010875998339983806,
+            "negative": 2.3297345802584034e-05
+        }
     },
     "tweet_26": {
         "text": "Bikers:What cars make the scariest drivers? Here's my ranking1. Dodge Charger2. White guy in a BMW/Audi3. Lifted pickup truck4. Middle-aged lady in a Prius5. Police cruiser6. Fedex truck7. Amazon delivery van8. ",
@@ -361,7 +486,12 @@
         },
         "normalized_likes": 0.0009059036683216076,
         "normalized_replies": 0.004375,
-        "normalized_retweets": 0.00078125
+        "normalized_retweets": 0.00078125,
+        "weighted_sentiment_score": {
+            "negative": 0.0010095188119504492,
+            "neutral": 0.0007955920357266902,
+            "positive": 6.672953310131889e-05
+        }
     },
     "tweet_27": {
         "text": "Alright so who's the next Dev to buy a Tesla, don't let the trend stop! ",
@@ -375,7 +505,12 @@
         },
         "normalized_likes": 0.0005411892044518695,
         "normalized_replies": 0.0015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.0003115760621391078,
+            "positive": 0.0001982522196811344,
+            "negative": 1.3040606485609216e-05
+        }
     },
     "tweet_28": {
         "text": "Reach an international audience through our open access publication model. We have calls for papers in your subject area.",
@@ -389,7 +524,12 @@
         },
         "normalized_likes": 0.0014941528035953787,
         "normalized_replies": 0.00234375,
-        "normalized_retweets": 0.0053125
+        "normalized_retweets": 0.0053125,
+        "weighted_sentiment_score": {
+            "positive": 0.002087127964587041,
+            "neutral": 0.001931777327981519,
+            "negative": 2.113497085936449e-05
+        }
     },
     "tweet_29": {
         "text": "I truly cannot find any logical reason as to why a police dept would need a Tesla...???? Tf",
@@ -403,7 +543,12 @@
         },
         "normalized_likes": 1.1764982705475423e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "negative": 8.533030367844057e-05,
+            "neutral": 8.861258542672689e-06,
+            "positive": 7.349381712068635e-07
+        }
     },
     "tweet_30": {
         "text": "What are the best sounds you\u2019ve seen or want to see for Tesla Boombox?",
@@ -417,7 +562,12 @@
         },
         "normalized_likes": 0.00023529965410950846,
         "normalized_replies": 0.0025,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "positive": 0.0007694465445920005,
+            "neutral": 9.469107700592325e-05,
+            "negative": 3.142342601450919e-06
+        }
     },
     "tweet_31": {
         "text": "Grayscale, MicroStrategy and Tesla are tying to buy btc, but there is not much at sale. Once their purchase goes through, ati ni problem ",
@@ -431,7 +581,12 @@
         },
         "normalized_likes": 0.00010588484434927881,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.00046875
+        "normalized_retweets": 0.00046875,
+        "weighted_sentiment_score": {
+            "neutral": 0.00018089033600572553,
+            "negative": 0.00014897339593639662,
+            "positive": 8.849768265381411e-06
+        }
     },
     "tweet_32": {
         "text": "my boss stopped me from getting hit by a tesla and i\u2019ve never been so angry in my life",
@@ -445,7 +600,12 @@
         },
         "normalized_likes": 7.058989623285254e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "negative": 5.305251524519586e-06,
+            "neutral": 1.2762413821183035e-06,
+            "positive": 4.77496348492367e-07
+        }
     },
     "tweet_33": {
         "text": "Coral AI is one of the best new AI tools for research. Just upload a PDF file, ask a question, and get an answer in seconds. It's like ChatGPT, but built for researchers. Try it for free.",
@@ -459,7 +619,12 @@
         },
         "normalized_likes": 0.019976940633897267,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.04609375
+        "normalized_retweets": 0.04609375,
+        "weighted_sentiment_score": {
+            "positive": 0.028217242492366405,
+            "neutral": 0.0013027644220108736,
+            "negative": 0.00013393771516889054
+        }
     },
     "tweet_34": {
         "text": "Tesla Geeks Show Feat. Trevor of Tesla Owners Online!",
@@ -473,7 +638,12 @@
         },
         "normalized_likes": 0.00029412456763688557,
         "normalized_replies": 0.00046875,
-        "normalized_retweets": 0.00046875
+        "normalized_retweets": 0.00046875,
+        "weighted_sentiment_score": {
+            "neutral": 0.00027948633342833286,
+            "positive": 0.00016833090546386357,
+            "negative": 3.470236994878039e-06
+        }
     },
     "tweet_35": {
         "text": "i\u2019ve been here two days, and nichole has almost hit a tesla and a bentley",
@@ -487,7 +657,12 @@
         },
         "normalized_likes": 9.411986164380338e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 4.950361046056955e-06,
+            "negative": 2.924285862551804e-06,
+            "positive": 1.5373392557715802e-06
+        }
     },
     "tweet_36": {
         "text": "NAHHHH I JUST TOOK A PICTURE WITH FLASH AND THERE WAS AN ORB ITS NICOLA TESLA",
@@ -501,7 +676,12 @@
         },
         "normalized_likes": 3.529494811642627e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 2.4225118482877806e-06,
+            "negative": 5.890705591987314e-07,
+            "positive": 5.179123515625439e-07
+        }
     },
     "tweet_37": {
         "text": "Hey Siri, bring the car aroundTesla will be facing some major competition from Apple in the EV market in a few years' time as Project Titan seems to be moving forward. TSLA investors beware!",
@@ -515,7 +695,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "neutral": 0.00010359224304556847,
+            "positive": 5.6137986481189726e-05,
+            "negative": 2.7769767679274084e-05
+        }
     },
     "tweet_38": {
         "text": ".@RiskReversal says he\u2019s never seen a frenzy like Tesla\u2019s rally this year. He breaks down the rising trend and warns investors to not get too excited. $TSLA",
@@ -529,7 +714,12 @@
         },
         "normalized_likes": 0.0006588390315066237,
         "normalized_replies": 0.003125,
-        "normalized_retweets": 0.00140625
+        "normalized_retweets": 0.00140625,
+        "weighted_sentiment_score": {
+            "neutral": 0.0009257714390268121,
+            "positive": 0.0008689775094534985,
+            "negative": 5.238495811090661e-05
+        }
     },
     "tweet_39": {
         "text": "Need to clear snow  off your driveway? Tesla Model Y will handle this without any problems @elonmusk ",
@@ -543,7 +733,12 @@
         },
         "normalized_likes": 0.00016470975787665593,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "positive": 0.00016006513816662601,
+            "neutral": 8.644528158259573e-05,
+            "negative": 4.335542488569688e-06
+        }
     },
     "tweet_40": {
         "text": "if i get pulled over by a tesla there will be hell to pay ",
@@ -557,7 +752,12 @@
         },
         "normalized_likes": 9.411986164380338e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "negative": 8.439106639293972e-06,
+            "neutral": 8.769150512263748e-07,
+            "positive": 9.596462287511032e-08
+        }
     },
     "tweet_41": {
         "text": "I wanna create an app when the Tesla App Store is releasedI just have no idea what app would be cool to have in Teslas ",
@@ -571,7 +771,12 @@
         },
         "normalized_likes": 4.705993082190169e-05,
         "normalized_replies": 0.00078125,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.00012223101729363768,
+            "positive": 9.25343039978045e-05,
+            "negative": 2.4315668228163548e-05
+        }
     },
     "tweet_42": {
         "text": "How much longer do I have to pretend that the BMW driver stereotype hasn\u2019t been replaced by Tesla drivers",
@@ -585,7 +790,12 @@
         },
         "normalized_likes": 3.529494811642627e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "negative": 1.8566460460098344e-06,
+            "neutral": 1.5534363246479608e-06,
+            "positive": 1.194125856171524e-07
+        }
     },
     "tweet_43": {
         "text": "\"Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.\" ~ Nikola Tesla",
@@ -599,7 +809,12 @@
         },
         "normalized_likes": 5.8824913527377115e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "positive": 5.712341123604103e-05,
+            "neutral": 4.110711989413496e-05,
+            "negative": 1.401961428831562e-06
+        }
     },
     "tweet_44": {
         "text": "All I can say is \" Tesla is real.\"",
@@ -613,7 +828,12 @@
         },
         "normalized_likes": 0.00038824442928068895,
         "normalized_replies": 0.0003125,
-        "normalized_retweets": 0.00046875
+        "normalized_retweets": 0.00046875,
+        "weighted_sentiment_score": {
+            "positive": 0.0003009633141873937,
+            "neutral": 0.00010614951152972716,
+            "negative": 6.7116071904428e-06
+        }
     },
     "tweet_45": {
         "text": "no one cares but in my dream justin bieber drove me around new york in a tesla",
@@ -627,7 +847,12 @@
         },
         "normalized_likes": 1.1764982705475423e-05,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 3.2208633211442936e-05,
+            "positive": 1.265428521563658e-05,
+            "negative": 3.188581633525827e-06
+        }
     },
     "tweet_46": {
         "text": "Experience Nohgaku in the Metaverse!The exhibition space will be open for a limited time only, utilizing the Metaverse (virtual space service) to \u201cmake you want to see NOHGAKU and come to Japan\u201d.Metaverse open dates: 2024/1/10 - 2024/3/22#NOHGAKU #NOH #metaverse",
@@ -641,7 +866,12 @@
         },
         "normalized_likes": 0.08703734205510717,
         "normalized_replies": 0.0725,
-        "normalized_retweets": 0.0553125
+        "normalized_retweets": 0.0553125,
+        "weighted_sentiment_score": {
+            "positive": 0.050592616273695545,
+            "neutral": 0.012904192274970068,
+            "negative": 0.00014442322675385478
+        }
     },
     "tweet_47": {
         "text": "Just saw a Tesla with \u201cKIDMD\u201d and first thing I thought was, \u201cHmm, you think Doogie Howser lives in OKC?\u201d @ActuallyNPH Took me a minute to realize it was probably a pediatrician.",
@@ -655,7 +885,12 @@
         },
         "normalized_likes": 5.8824913527377115e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 4.809028165626925e-06,
+            "negative": 7.045480806762077e-07,
+            "positive": 3.689149749506507e-07
+        }
     },
     "tweet_48": {
         "text": "Sorry TJ, all he's asking is for you to back up a controversial point you brought up. Its too big for TwitterThe gist is that like Tesla/Edison we had Pasteur/Bechamp: On Spanish Flu read The Invisible Rainbow or this ok summary: ",
@@ -669,7 +904,12 @@
         },
         "normalized_likes": 4.705993082190169e-05,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 2.6193079517803158e-05,
+            "negative": 2.410604538937583e-05,
+            "positive": 1.2818696161674784e-06
+        }
     },
     "tweet_49": {
         "text": "Siri, could you drive me to the airport? According to a recent @Reuters report, @apple expects to have a self-driving car ready by 2024! Read our article to learn more!   #innotechtoday #electriccar #Apple #appletech #applecar #tesla #teslamodels",
@@ -683,7 +923,12 @@
         },
         "normalized_likes": 1.1764982705475423e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "positive": 0.00012199992343854205,
+            "neutral": 6.615553098422873e-05,
+            "negative": 5.210445506514916e-07
+        }
     },
     "tweet_50": {
         "text": "#Tesla factory being built in Gruenheide 30km south-east of #Berlin is expected to go online next summer ",
@@ -697,7 +942,12 @@
         },
         "normalized_likes": 0.00028235958493141015,
         "normalized_replies": 0.0003125,
-        "normalized_retweets": 0.00203125
+        "normalized_retweets": 0.00203125,
+        "weighted_sentiment_score": {
+            "neutral": 0.0010706073928163935,
+            "positive": 0.000264542490833661,
+            "negative": 5.58612666237963e-06
+        }
     },
     "tweet_51": {
         "text": "The 50CAL Speaker320Watts up to 78hr battery340ft Bluetooth rangeGuitar inputUSB C+A charge ports to charge your devices in the wild100+ reviews scoring \u2605\u2605\u2605\u2605\u2605Shop now: #AmmoCanSpeaker #bluetoothspeaker #outdoors #adventure #tacticool",
@@ -711,7 +961,12 @@
         },
         "normalized_likes": 0.002270641662156757,
         "normalized_replies": 0.00390625,
-        "normalized_retweets": 0.0053125
+        "normalized_retweets": 0.0053125,
+        "weighted_sentiment_score": {
+            "positive": 0.002744653120792135,
+            "neutral": 0.0018176138511837386,
+            "negative": 2.4172260447344665e-05
+        }
     },
     "tweet_52": {
         "text": "I'm watching Goldfinger right now (James Bond flick from 1965). Villain plans to detonate a dirty nuke inside Fort Knox so the value of his Gold goes up 10x.1. He could have just waited 15 years for a 25x increaseOR2. Bought Tesla in 2020 for the same 10x increase",
@@ -725,7 +980,12 @@
         },
         "normalized_likes": 3.529494811642627e-05,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 3.872562599239736e-05,
+            "positive": 7.0141073490584755e-06,
+            "negative": 4.6647625968150406e-06
+        }
     },
     "tweet_53": {
         "text": "Can somebody send me a link to the tesla truck",
@@ -739,7 +999,12 @@
         },
         "normalized_likes": 0.00017647474058213135,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "neutral": 0.000133742311104038,
+            "positive": 1.6102251604854267e-05,
+            "negative": 8.427919014262745e-06
+        }
     },
     "tweet_54": {
         "text": "Let's all congratulate @TeslaPodcast on his very first Tesla: a 2021 red Model 3 I think you're going to get along splendidly.",
@@ -753,7 +1018,12 @@
         },
         "normalized_likes": 0.0006235440833901974,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.000625
+        "normalized_retweets": 0.000625,
+        "weighted_sentiment_score": {
+            "positive": 0.00047643920790437215,
+            "neutral": 6.572361978761174e-06,
+            "negative": 1.2178511958956794e-06
+        }
     },
     "tweet_55": {
         "text": "All's well that ends well. With only 2 days to go, #Tesla could beat its 2018 self in The Netherlands. They have a shot for the same in Norway tomorrow.(for US bros: Tesla hasn't sold M3 in 2018 in Europe, it was all SuX)$TSLA $TSLAQ",
@@ -767,7 +1037,12 @@
         },
         "normalized_likes": 0.00016470975787665593,
         "normalized_replies": 0.0003125,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "positive": 0.0001816341497799773,
+            "neutral": 2.1093477098119478e-05,
+            "negative": 1.2433521389359945e-06
+        }
     },
     "tweet_56": {
         "text": "ChatGPT is always making up information.Use this AI tool instead.Coral AI always gives you accurate answers, pulled directly from the source.It also gives you a page citation with every answer, so you can verify it.Try it for free.",
@@ -781,7 +1056,12 @@
         },
         "normalized_likes": 0.0002470646368149839,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00078125
+        "normalized_retweets": 0.00078125,
+        "weighted_sentiment_score": {
+            "positive": 0.0002970053480147902,
+            "neutral": 0.00018564731711749428,
+            "negative": 1.0803783843065221e-05
+        }
     },
     "tweet_57": {
         "text": "I already have it. Thanks.",
@@ -795,7 +1075,12 @@
         },
         "normalized_likes": 0.00017647474058213135,
         "normalized_replies": 0.0009375,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 0.00022274984667832945,
+            "neutral": 7.403858963032583e-05,
+            "negative": 2.109038584667708e-06
+        }
     },
     "tweet_58": {
         "text": "OH ok",
@@ -809,7 +1094,12 @@
         },
         "normalized_likes": 7.058989623285254e-05,
         "normalized_replies": 0.0003125,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 6.290729841798864e-05,
+            "positive": 2.851458554382036e-05,
+            "negative": 9.387110167989264e-06
+        }
     },
     "tweet_59": {
         "text": "Tesla is now worth more than Toyota and Japan's six other major car manufacturers combined. That's despite the fact that Tesla sold about 367,500 vehicles, or 3.4 percent of Toyota's output of 10.74 million units, last year.A lot of people will get their finger burned....",
@@ -823,7 +1113,12 @@
         },
         "normalized_likes": 8.235487893832797e-05,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.00046875
+        "normalized_retweets": 0.00046875,
+        "weighted_sentiment_score": {
+            "neutral": 0.00017536269192567838,
+            "positive": 0.00010340390624914327,
+            "negative": 5.759388470684926e-05
+        }
     },
     "tweet_60": {
         "text": "This is one of my favorite ones of 2020 showing the fun I had before taking this picture @TeslaClubNorway event ",
@@ -837,7 +1132,12 @@
         },
         "normalized_likes": 7.058989623285254e-05,
         "normalized_replies": 0.0003125,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 9.90080908845474e-05,
+            "neutral": 1.526832614969313e-06,
+            "negative": 2.740735642092972e-07
+        }
     },
     "tweet_61": {
         "text": "No, I don't have a Founders Series Roadster reservation but I was bored on a Wednesday afternoon. cc Tesla peeps @SawyerMerritt @vincent13031925 @heydave7 @EmmetPeppers @ValueAnalyst1 @garyblack00 @slye @ChrisDungeon @truth_tesla @FrankPeelen @freshjiva @jpr007 @ICannot_Enough",
@@ -851,7 +1151,12 @@
         },
         "normalized_likes": 0.0003529494811642627,
         "normalized_replies": 0.0003125,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 7.602570968687074e-05,
+            "negative": 4.357951086986351e-05,
+            "positive": 9.439729482611592e-06
+        }
     },
     "tweet_62": {
         "text": "Based on Tesla labeling Model Y Shanghai as construction, which will start deliveries in January/February. It leads me to believe that Texas will start to deliver Model Y before Cybertruck.",
@@ -865,7 +1170,12 @@
         },
         "normalized_likes": 9.411986164380338e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "neutral": 0.00018063737367854174,
+            "positive": 1.4570358957422642e-05,
+            "negative": 1.7042518779187838e-06
+        }
     },
     "tweet_63": {
         "text": "Y\u2019all are really more mad that people wanna reallocate police resources than u are that police forces are literally spending their money to buy themselves Tesla\u2019s LOL. Are y\u2019all ok ??????????",
@@ -879,7 +1189,12 @@
         },
         "normalized_likes": 5.8824913527377115e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "negative": 5.291064023023471e-06,
+            "neutral": 5.419625063111253e-07,
+            "positive": 4.9464861752594265e-08
+        }
     },
     "tweet_64": {
         "text": "JAILBREAK THE TESLA",
@@ -893,7 +1208,12 @@
         },
         "normalized_likes": 3.529494811642627e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "neutral": 7.234314481800687e-05,
+            "negative": 1.4740386173537471e-05,
+            "positive": 1.0195961645732139e-05
+        }
     },
     "tweet_65": {
         "text": "$AVZ The Goat is back +80% for the last week of the year.Couldn't be happier for long term holders and Believers.$CXO will also be heading to the high teens with there indirect links to supplying Tesla through the Tesla/Yahua 5 year deal..Yahua are also CXO largest holder",
@@ -907,7 +1227,12 @@
         },
         "normalized_likes": 0.00022353467140403304,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.000625
+        "normalized_retweets": 0.000625,
+        "weighted_sentiment_score": {
+            "positive": 0.0003883181441023144,
+            "neutral": 8.15222760672276e-06,
+            "negative": 8.831069033580274e-07
+        }
     },
     "tweet_66": {
         "text": "But they can\u2019t get the American people 2K but they can get the pigs a Tesla with our tax money.... makes sense",
@@ -921,7 +1246,12 @@
         },
         "normalized_likes": 0.00021176968869855763,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "negative": 7.329027312795797e-05,
+            "neutral": 3.786341730669057e-05,
+            "positive": 3.773276722661946e-06
+        }
     },
     "tweet_67": {
         "text": " if you don\u2019t have to be present?",
@@ -935,7 +1265,12 @@
         },
         "normalized_likes": 0.0002588296195204593,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 1.9485318253170972e-05,
+            "negative": 5.187131342639581e-06,
+            "positive": 1.210510909912174e-06
+        }
     },
     "tweet_68": {
         "text": "Tesla will cancel all service appointments regarding the Pedestrian Warning Speaker at this time! Please wait for a later date!",
@@ -949,7 +1284,12 @@
         },
         "normalized_likes": 2.3529965410950846e-05,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "negative": 2.872323455074819e-05,
+            "neutral": 1.9765723626603528e-05,
+            "positive": 7.390374009533353e-07
+        }
     },
     "tweet_69": {
         "text": "Bare Metal Server Sale",
@@ -963,7 +1303,12 @@
         },
         "normalized_likes": 1.0,
         "normalized_replies": 1.0,
-        "normalized_retweets": 1.0
+        "normalized_retweets": 1.0,
+        "weighted_sentiment_score": {
+            "neutral": 0.8708569407463074,
+            "positive": 0.07393915206193924,
+            "negative": 0.05520381033420563
+        }
     },
     "tweet_70": {
         "text": "Okay and the only people He inconvenienced were filthy authorities who lie everyday and get a tesla and nobody gaf about them so boohoo",
@@ -977,7 +1322,12 @@
         },
         "normalized_likes": 0.0001529447751711805,
         "normalized_replies": 0.0003125,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "negative": 9.49478475692306e-05,
+            "neutral": 1.2712849002899638e-05,
+            "positive": 1.3837746485416423e-06
+        }
     },
     "tweet_71": {
         "text": "Quite a thread from this member of the National Transportation Safety Board. She's clearly had it with Tesla, and also with @NHTSAgov.She has every right to be pissed. NTSB has been sounding every alarm it can about Autopilot and Full-Self Driving.",
@@ -991,7 +1341,12 @@
         },
         "normalized_likes": 0.0003411844984587873,
         "normalized_replies": 0.0003125,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "negative": 0.0002532258376628778,
+            "neutral": 5.531448535494942e-05,
+            "positive": 6.82812800289058e-06
+        }
     },
     "tweet_72": {
         "text": "I disagree! Tesla still has a low bagholder to bullshit ratio. It\u2019s hasn\u2019t conned enough investors yet.$TSLA $TSLAQ",
@@ -1005,7 +1360,12 @@
         },
         "normalized_likes": 0.0001529447751711805,
         "normalized_replies": 0.0009375,
-        "normalized_retweets": 0.00109375
+        "normalized_retweets": 0.00109375,
+        "weighted_sentiment_score": {
+            "negative": 0.0006882428574150335,
+            "neutral": 0.00023832679661296095,
+            "positive": 2.622483768686766e-05
+        }
     },
     "tweet_73": {
         "text": "Tesla Drivers Can Now Use A Fart Noise As A Horn ",
@@ -1019,7 +1379,12 @@
         },
         "normalized_likes": 7.058989623285254e-05,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0009375
+        "normalized_retweets": 0.0009375,
+        "weighted_sentiment_score": {
+            "neutral": 0.0004796765426851781,
+            "negative": 0.00010817021565975106,
+            "positive": 2.8587219796378268e-05
+        }
     },
     "tweet_74": {
         "text": "Say goodbye to Salesforce security woes with SpinSPM by @spintechinc! Get ahead of threats with automated tools, complete config visibility, and seamless management. Dive in   #cybersecurity",
@@ -1033,7 +1398,12 @@
         },
         "normalized_likes": 0.0006235440833901974,
         "normalized_replies": 0.00046875,
-        "normalized_retweets": 0.00046875
+        "normalized_retweets": 0.00046875,
+        "weighted_sentiment_score": {
+            "positive": 0.00030936166287446216,
+            "neutral": 0.00016427003482543637,
+            "negative": 1.0597698913802899e-05
+        }
     },
     "tweet_75": {
         "text": "\"Tesla publishes its first-ever diversity report revealing Black employees are 10% of the workforce and 4% of leadership...\"via: @CNBC ",
@@ -1047,7 +1417,12 @@
         },
         "normalized_likes": 1.1764982705475423e-05,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.00078125
+        "normalized_retweets": 0.00078125,
+        "weighted_sentiment_score": {
+            "neutral": 0.0003180325655965699,
+            "positive": 0.00019595768823767399,
+            "negative": 2.811198952612441e-06
+        }
     },
     "tweet_76": {
         "text": "Yes, your name means \"Leader\" in Martian.There is also a currency of M.U.S.K. (Martian Universal Solar Karat) and it's value always mimics the Tesla stock.#ElonvonMars #Leader #Mars ",
@@ -1061,7 +1436,12 @@
         },
         "normalized_likes": 8.235487893832797e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "neutral": 5.751905639089478e-05,
+            "positive": 4.36600015334058e-05,
+            "negative": 8.064300645136143e-07
+        }
     },
     "tweet_77": {
         "text": "One of the most amazing things I've ever seen is how well the traffic flows at major intersections in cities like Mumbai and Delhi.To a westerner, looks like utter chaos ... but it somehow works.",
@@ -1075,7 +1455,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.00046875,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "positive": 0.0003008677018806338,
+            "neutral": 2.179396105930209e-05,
+            "negative": 5.463343171868473e-06
+        }
     },
     "tweet_78": {
         "text": "\"We are entering a golden age for EVs\". Dan Ives from Wedbush Securities speaks with @adsteel . Tesla\u2019s target of delivering 500,000 cars this year is possible with strong 4Q delivery figures, Credit Suisse and Wedbush said in separate notes this week ",
@@ -1089,7 +1474,12 @@
         },
         "normalized_likes": 3.529494811642627e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "positive": 7.47104671188408e-05,
+            "neutral": 2.2211738746259923e-05,
+            "negative": 3.572901243235705e-07
+        }
     },
     "tweet_79": {
         "text": "We'll unlock your inner fictional character, showing some hidden talents, traits, and ambitions you might not have even known were there!",
@@ -1103,7 +1493,12 @@
         },
         "normalized_likes": 0.0007647238758559025,
         "normalized_replies": 0.00375,
-        "normalized_retweets": 0.0046875
+        "normalized_retweets": 0.0046875,
+        "weighted_sentiment_score": {
+            "positive": 0.003118240512997615,
+            "neutral": 0.0008652381474304639,
+            "negative": 3.04938075310274e-05
+        }
     },
     "tweet_80": {
         "text": "I wish every FSD beta tester had the exact same camera set up!FIRST IMPRESSIONS TESLA FSDBETA 9 2020.48.26.1  via @YouTube",
@@ -1117,7 +1512,12 @@
         },
         "normalized_likes": 2.3529965410950846e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "neutral": 4.1514370426027724e-05,
+            "negative": 3.5579707299891934e-05,
+            "positive": 1.9008915951082933e-05
+        }
     },
     "tweet_81": {
         "text": "High time we got our fairytale, I agree.",
@@ -1131,7 +1531,12 @@
         },
         "normalized_likes": 0.0001529447751711805,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 3.406975795164367e-05,
+            "positive": 2.1302717712641482e-05,
+            "negative": 6.797005095223812e-06
+        }
     },
     "tweet_82": {
         "text": "Absolutely NO Tesla\u2019s for CPD.",
@@ -1145,7 +1550,12 @@
         },
         "normalized_likes": 5.8824913527377115e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "negative": 4.156780929020588e-06,
+            "neutral": 1.535112023221742e-06,
+            "positive": 1.905986196352607e-07
+        }
     },
     "tweet_83": {
         "text": "(this will be our last post regarding the PWS/external speakers until there's another update from Tesla or Elon allowing for retrofits to continue!) ",
@@ -1159,7 +1569,12 @@
         },
         "normalized_likes": 0.00017647474058213135,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0003125
+        "normalized_retweets": 0.0003125,
+        "weighted_sentiment_score": {
+            "neutral": 0.0001571014585953141,
+            "positive": 4.661840514874582e-05,
+            "negative": 1.4276039136943241e-06
+        }
     },
     "tweet_84": {
         "text": "Tesla\u2019s car horns can now fart, bark, or do whatever else you want  \u2014 via @drivingdotca#Tesla",
@@ -1173,7 +1588,12 @@
         },
         "normalized_likes": 0.00011764982705475423,
         "normalized_replies": 0.0021875,
-        "normalized_retweets": 0.00078125
+        "normalized_retweets": 0.00078125,
+        "weighted_sentiment_score": {
+            "neutral": 0.0009130506578280368,
+            "positive": 0.00015063844364800977,
+            "negative": 7.307592357722433e-05
+        }
     },
     "tweet_85": {
         "text": "Honorable mentions: Ori & The Will of the Wisps, @RocketArena, @DOOM Eternal, @Atomicrops, @HyperScapeGame, HyperDot, @roundguardgame, @NeonAbyssGame, Swimsanity, Dirt 5, @ForegoneGame, @undermine_game, Tesla Force and more! So many great @ID_Xbox & retail games! ",
@@ -1187,7 +1607,12 @@
         },
         "normalized_likes": 5.8824913527377115e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "positive": 9.615031023940389e-05,
+            "neutral": 3.1674638251666657e-06,
+            "negative": 3.1471376214760426e-07
+        }
     },
     "tweet_86": {
         "text": "Very rare clip of Trevor being honest about Nikola",
@@ -1201,7 +1626,12 @@
         },
         "normalized_likes": 4.705993082190169e-05,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 3.6093440516395044e-05,
+            "positive": 8.851112359702577e-06,
+            "negative": 6.636445586409394e-06
+        }
     },
     "tweet_87": {
         "text": "I guess there\u2019s two types of people in this world. There\u2019s people who enjoy making noises with Tesla Boombox",
@@ -1215,7 +1645,12 @@
         },
         "normalized_likes": 7.058989623285254e-05,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 3.124304004438232e-05,
+            "positive": 1.4541722537164766e-05,
+            "negative": 8.14922864909632e-06
+        }
     },
     "tweet_88": {
         "text": "Tesla makes real things and will change the world for the better. Bitcoin is a construct. Bitcoin like gold and other currencies is a store of wealth but does nothing to create wealth - unless you are a Bitcoin miner.",
@@ -1229,7 +1664,12 @@
         },
         "normalized_likes": 2.3529965410950846e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 1.0868625564124602e-06,
+            "positive": 9.54010284138572e-07,
+            "negative": 3.1212363041929116e-07
+        }
     },
     "tweet_89": {
         "text": "Sci-fi Merc: @Mercedes AMG CLA combines Tesla Autopilot features w Cadillac Augmented Reality in MBUX self-driving upgrade. Cool. Doesn't work in snow, though. Oakland Co, MI @DetroitNews",
@@ -1243,7 +1683,12 @@
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "positive": 5.722862854599953e-05,
+            "neutral": 3.505895845592022e-05,
+            "negative": 1.4624099421780557e-06
+        }
     },
     "tweet_90": {
         "text": "I feel about Peloton now the way I felt about Tesla five years ago - loved the product but didn\u2019t understand the valuation. That is to say I probably need to dive into $PTON more.",
@@ -1257,7 +1702,12 @@
         },
         "normalized_likes": 5.8824913527377115e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "neutral": 2.330029314272673e-06,
+            "negative": 1.7777882272174642e-06,
+            "positive": 1.7746739865594782e-06
+        }
     },
     "tweet_91": {
         "text": "sounds like Tesla the last few years and Apple post iPod.  Human beings just don't understand exponential math. Nothing is guaranteed but the supply/demand equation right now is clear.",
@@ -1271,7 +1721,12 @@
         },
         "normalized_likes": 0.00014117979246570508,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "negative": 7.395025988468647e-05,
+            "neutral": 3.10171708629328e-05,
+            "positive": 2.9005442796361122e-06
+        }
     },
     "tweet_92": {
         "text": "A new set of Japanese banknotes featuring famous Japanese people and national icons will go into circulation from July 2024.",
@@ -1285,7 +1740,12 @@
         },
         "normalized_likes": 0.019976940633897267,
         "normalized_replies": 0.00984375,
-        "normalized_retweets": 0.02375
+        "normalized_retweets": 0.02375,
+        "weighted_sentiment_score": {
+            "neutral": 0.015119367110616977,
+            "positive": 0.0039980910626492925,
+            "negative": 8.336125670765844e-05
+        }
     },
     "tweet_93": {
         "text": "Tesla's FSD autopilot is smart enough to fold in the mirrors before squeezing past a tow truck.  Kim is not driving in this video, she is \"supervising\" ",
@@ -1299,7 +1759,12 @@
         },
         "normalized_likes": 4.705993082190169e-05,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.00015625
+        "normalized_retweets": 0.00015625,
+        "weighted_sentiment_score": {
+            "positive": 6.9516990531898e-05,
+            "neutral": 6.832453290503659e-05,
+            "negative": 7.489479390458073e-06
+        }
     },
     "tweet_94": {
         "text": "Boy i tweeted something -ve 2 years ago about George glassier at $2 on western.The hate i got then was less visceral than saying anything -ve on UUUU - the best someone told me recently is that its \u201cTesla of U\u201d. LOL. Funny thing most contrarians who own U wouldn\u2019t touch Tsla",
@@ -1313,7 +1778,12 @@
         },
         "normalized_likes": 2.3529965410950846e-05,
         "normalized_replies": 0.0003125,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "negative": 6.131686339476406e-05,
+            "neutral": 2.879850149377134e-05,
+            "positive": 5.987623776305357e-06
+        }
     },
     "tweet_95": {
         "text": "Nikola cheerleaders keep taking Nikola at its word when it has been proven that Nikola lies a lotNikola: It would cost $200 million to adapt blablablaCheerleader: Proof of why Nikola dumped Republic Services",
@@ -1327,7 +1797,12 @@
         },
         "normalized_likes": 4.705993082190169e-05,
         "normalized_replies": 0.00015625,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "negative": 3.939010514860972e-05,
+            "neutral": 1.1597308320497098e-05,
+            "positive": 5.935794209291746e-07
+        }
     },
     "tweet_96": {
         "text": "I fell deeply, madly in love for the first time in years.Got an apartment with amazing views in a great town.A few investments paid off. Finally bought a Tesla (yes, these two things are related as I put down a deposit four years ago )",
@@ -1341,7 +1816,12 @@
         },
         "normalized_likes": 5.8824913527377115e-05,
         "normalized_replies": 0.0,
-        "normalized_retweets": 0.0
+        "normalized_retweets": 0.0,
+        "weighted_sentiment_score": {
+            "positive": 5.787930916852369e-06,
+            "neutral": 7.779644327336596e-08,
+            "negative": 1.6764261058328933e-08
+        }
     },
     "tweet_97": {
         "text": "\"My friends think I'm a crypto genius, (I'm not) it's because I read WAGMI\u2019s weekly newsletter (and they have no idea it exists)\" - Every Crypto Degen",
@@ -1355,6 +1835,11 @@
         },
         "normalized_likes": 0.014094449281159556,
         "normalized_replies": 0.0115625,
-        "normalized_retweets": 0.0090625
+        "normalized_retweets": 0.0090625,
+        "weighted_sentiment_score": {
+            "neutral": 0.0047383643342962835,
+            "positive": 0.0039572647075187435,
+            "negative": 0.0016200658863009284
+        }
     }
 }
