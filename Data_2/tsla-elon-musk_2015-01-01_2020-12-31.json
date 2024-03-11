@@ -5,17 +5,17 @@
         "replies": 8,
         "retweets": 23,
         "sentiment_score": {
-            "neutral": 0.027520708208645096,
-            "positive": 0.049224220588768235,
-            "negative": 0.010203303257630154
+            "neutral": 0.31651830673217773,
+            "positive": 0.5661324858665466,
+            "negative": 0.11734917014837265
         },
         "normalized_likes": 0.0018588235294117648,
         "normalized_replies": 0.00125,
         "normalized_retweets": 0.00359375,
         "weighted_sentiment_score": {
-            "neutral": 7.477740664956341e-05,
-            "positive": 0.00013374872231005535,
-            "negative": 2.7723725388176994e-05
+            "neutral": 0.0008600221315201592,
+            "positive": 0.0015382568933990073,
+            "negative": 0.0003188532268009423
         }
     },
     "tweet_2": {
@@ -24,17 +24,17 @@
         "replies": 3,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0010952887685290154,
-            "positive": 0.0010016948958398665,
-            "negative": 2.6288481462500334e-05
+            "neutral": 0.5158494710922241,
+            "positive": 0.47176945209503174,
+            "negative": 0.012381117790937424
         },
         "normalized_likes": 0.0009529411764705883,
         "normalized_replies": 0.00046875,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 2.58399559840099e-07,
-            "positive": 2.363189759781038e-07,
-            "negative": 6.201955350914142e-09
+            "neutral": 0.0001216987520587795,
+            "positive": 0.00011129943287109627,
+            "negative": 2.9209423847222594e-6
         }
     },
     "tweet_3": {
@@ -43,17 +43,17 @@
         "replies": 3400,
         "retweets": 1800,
         "sentiment_score": {
-            "neutral": 153.18474097073076,
-            "positive": 523.5779091017298,
-            "negative": 130.01521757459815
+            "neutral": 0.18987226486206055,
+            "positive": 0.6489740610122681,
+            "negative": 0.1611536741256714
         },
         "normalized_likes": 0.03882352941176471,
         "normalized_replies": 0.53125,
         "normalized_retweets": 0.28125,
         "weighted_sentiment_score": {
-            "neutral": 50.8584603606721,
-            "positive": 173.8317156593412,
-            "negative": 43.16600822901346
+            "neutral": 0.06303898805379868,
+            "positive": 0.21546416012416866,
+            "negative": 0.053504204763209114
         }
     },
     "tweet_4": {
@@ -62,17 +62,17 @@
         "replies": 3,
         "retweets": 4,
         "sentiment_score": {
-            "neutral": 0.0021309892705247244,
-            "positive": 0.00011586077681324882,
-            "negative": 2.092586959078771e-05
+            "neutral": 0.9396825432777405,
+            "positive": 0.0510900504887104,
+            "negative": 0.009227486327290535
         },
         "normalized_likes": 0.00011764705882352942,
         "normalized_replies": 0.00046875,
         "normalized_retweets": 0.000625,
         "weighted_sentiment_score": {
-            "neutral": 1.1238618046204843e-06,
-            "positive": 6.110378100684024e-08,
-            "negative": 1.1036088208818005e-08
+            "neutral": 0.000495578900122029,
+            "positive": 2.6944366700755544e-5,
+            "negative": 4.866481300183189e-6
         }
     },
     "tweet_5": {
@@ -81,17 +81,17 @@
         "replies": 2,
         "retweets": 5,
         "sentiment_score": {
-            "neutral": 0.001687174891769886,
-            "positive": 0.00020929655758664015,
-            "negative": 0.0021845284746289254
+            "neutral": 0.4134219288825989,
+            "positive": 0.05128560587763786,
+            "negative": 0.5352924466133118
         },
         "normalized_likes": 0.00037647058823529414,
         "normalized_replies": 0.0003125,
         "normalized_retweets": 0.00078125,
         "weighted_sentiment_score": {
-            "neutral": 1.0125530490166036e-06,
-            "positive": 1.2560871345751152e-07,
-            "negative": 1.3110383389648006e-06
+            "neutral": 0.00024811395467204205,
+            "positive": 3.0778905527447075e-5,
+            "negative": 0.00032125418744543015
         }
     },
     "tweet_6": {
@@ -100,17 +100,17 @@
         "replies": 3,
         "retweets": 2,
         "sentiment_score": {
-            "neutral": 0.0002613770896834595,
-            "positive": 2.802519368213218e-05,
-            "negative": 0.002044031531471102
+            "neutral": 0.11201392859220505,
+            "positive": 0.012010280042886734,
+            "negative": 0.8759757876396179
         },
         "normalized_likes": 0.0004823529411764706,
         "normalized_replies": 0.00046875,
         "normalized_retweets": 0.0003125,
         "weighted_sentiment_score": {
-            "neutral": 9.837195834888144e-08,
-            "positive": 1.0547570136911292e-08,
-            "negative": 7.692923083702085e-07
+            "neutral": 4.2157595110235406e-5,
+            "positive": 4.520192529376158e-6,
+            "negative": 0.00032968250507598416
         }
     },
     "tweet_7": {
@@ -119,17 +119,17 @@
         "replies": 0,
         "retweets": 16,
         "sentiment_score": {
-            "neutral": 0.016007978976964952,
-            "positive": 0.003610817130804062,
-            "negative": 0.0004012056448683143
+            "neutral": 0.7995993494987488,
+            "positive": 0.18036049604415894,
+            "negative": 0.0200402420014143
         },
         "normalized_likes": 0.0004,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0025,
         "weighted_sentiment_score": {
-            "neutral": 2.465228762452603e-05,
-            "positive": 5.560658381438256e-06,
-            "negative": 6.178566930972041e-07
+            "neutral": 0.0012313829982280732,
+            "positive": 0.00027775516390800476,
+            "negative": 3.086197268217802e-5
         }
     },
     "tweet_8": {
@@ -138,17 +138,17 @@
         "replies": 20,
         "retweets": 15,
         "sentiment_score": {
-            "neutral": 0.002624687839894775,
-            "positive": 0.10686595186013072,
-            "negative": 0.00039896551827534775
+            "neutral": 0.023884769529104233,
+            "positive": 0.9724846482276917,
+            "negative": 0.003630602965131402
         },
         "normalized_likes": 0.0031058823529411766,
         "normalized_replies": 0.003125,
         "normalized_retweets": 0.00234375,
         "weighted_sentiment_score": {
-            "neutral": 6.966809289144226e-06,
-            "positive": 0.0002836583820734455,
-            "negative": 1.0589894297221896e-06
+            "neutral": 6.339825700228923e-5,
+            "positive": 0.0025813031850273117,
+            "negative": 9.636848267520476e-6
         }
     },
     "tweet_9": {
@@ -157,17 +157,17 @@
         "replies": 22,
         "retweets": 11,
         "sentiment_score": {
-            "neutral": 0.04957399748469102,
-            "positive": 0.003143967886555722,
-            "negative": 0.0018165044043616343
+            "neutral": 0.9090396761894226,
+            "positive": 0.05765102058649063,
+            "negative": 0.03330928832292557
         },
         "normalized_likes": 0.0013647058823529413,
         "normalized_replies": 0.0034375,
         "normalized_retweets": 0.00171875,
         "weighted_sentiment_score": {
-            "neutral": 0.00010901176241008601,
-            "positive": 6.913492912892312e-06,
-            "negative": 3.994439758591106e-06
+            "neutral": 0.001998951511479476,
+            "positive": 0.00012677289865144038,
+            "negative": 7.324614533716266e-5
         }
     },
     "tweet_10": {
@@ -176,17 +176,17 @@
         "replies": 5,
         "retweets": 8,
         "sentiment_score": {
-            "neutral": 0.0054885082050965105,
-            "positive": 0.0021249103496828498,
-            "negative": 0.0006417506243735003
+            "neutral": 0.6648571491241455,
+            "positive": 0.2574036121368408,
+            "negative": 0.07773924618959427
         },
         "normalized_likes": 0.0002235294117647059,
         "normalized_replies": 0.00078125,
         "normalized_retweets": 0.00125,
         "weighted_sentiment_score": {
-            "neutral": 5.5254345654469755e-06,
-            "positive": 2.1392066215207893e-06,
-            "negative": 6.460682848242485e-07
+            "neutral": 0.0006693302689142087,
+            "positive": 0.00025913540849790853,
+            "negative": 7.826227126506102e-5
         }
     },
     "tweet_11": {
@@ -195,17 +195,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 3.799316812964047e-08,
-            "positive": 5.115987974054674e-08,
-            "negative": 2.8494005694108853e-08
+            "neutral": 0.32294192910194397,
+            "positive": 0.4348589777946472,
+            "negative": 0.24219904839992523
         },
-        "normalized_likes": 1.1764705882352942e-05,
+        "normalized_likes": 1.1764705882352942e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 4.469784485840056e-14,
-            "positive": 6.018809381240794e-14,
-            "negative": 3.3522359640128064e-14
+            "neutral": 3.799316812964047e-7,
+            "positive": 5.115987974054673e-7,
+            "negative": 2.8494005694108854e-7
         }
     },
     "tweet_12": {
@@ -214,17 +214,17 @@
         "replies": 2,
         "retweets": 6,
         "sentiment_score": {
-            "neutral": 0.0010069133261970298,
-            "positive": 0.0031820659671417052,
-            "negative": 0.0003286235805202056
+            "neutral": 0.22288663685321808,
+            "positive": 0.7043704390525818,
+            "negative": 0.07274290919303894
         },
         "normalized_likes": 0.00028235294117647056,
         "normalized_replies": 0.0003125,
         "normalized_retweets": 0.0009375,
         "weighted_sentiment_score": {
-            "neutral": 6.892173642329522e-07,
-            "positive": 2.178077359420745e-06,
-            "negative": 2.2493800816636717e-07
+            "neutral": 0.00015256262518136815,
+            "positive": 0.0004821312071426826,
+            "negative": 4.979145159397054e-5
         }
     },
     "tweet_13": {
@@ -233,17 +233,17 @@
         "replies": 3,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0002398018283094553,
-            "positive": 2.014891996322309e-05,
-            "negative": 1.2233052949530673e-05
+            "neutral": 0.881028950214386,
+            "positive": 0.07402688264846802,
+            "negative": 0.04494408518075943
         },
         "normalized_likes": 0.00010588235294117647,
         "normalized_replies": 0.00046875,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 3.626121028811726e-08,
-            "positive": 3.046783375321197e-09,
-            "negative": 1.8497995140227814e-09
+            "neutral": 0.0001332232379496974,
+            "positive": 1.1193844424012828e-5,
+            "negative": 6.796140527517041e-6
         }
     },
     "tweet_14": {
@@ -252,17 +252,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 8.548594923580396e-08,
-            "positive": 1.4815064037547393e-08,
-            "negative": 1.734603853786693e-08
+            "neutral": 0.7266305685043335,
+            "positive": 0.12592804431915283,
+            "negative": 0.1474413275718689
         },
-        "normalized_likes": 1.1764705882352942e-05,
+        "normalized_likes": 1.1764705882352942e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 1.0057170498329878e-13,
-            "positive": 1.7429487102996935e-14,
-            "negative": 2.0407104162196393e-14
+            "neutral": 8.548594923580395e-7,
+            "positive": 1.4815064037547393e-7,
+            "negative": 1.734603853786693e-7
         }
     },
     "tweet_15": {
@@ -271,17 +271,17 @@
         "replies": 3,
         "retweets": 21,
         "sentiment_score": {
-            "neutral": 0.03105093857288405,
-            "positive": 0.003677813706807409,
-            "negative": 0.014619013896644335
+            "neutral": 0.629226803779602,
+            "positive": 0.07452847063541412,
+            "negative": 0.29624468088150024
         },
         "normalized_likes": 0.0010352941176470587,
         "normalized_replies": 0.00046875,
         "normalized_retweets": 0.00328125,
         "weighted_sentiment_score": {
-            "neutral": 6.871275895737e-05,
-            "positive": 8.138650177442822e-06,
-            "negative": 3.2350480347533796e-05
+            "neutral": 0.0013924187700844863,
+            "positive": 0.00016492438147118425,
+            "negative": 0.0006555611612844994
         }
     },
     "tweet_16": {
@@ -290,9 +290,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.5109416842460632,
+            "positive": 0.4688056707382202,
+            "negative": 0.02025257609784603
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -309,17 +309,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 4.1443780239890606e-07,
-            "positive": 6.359184349284453e-07,
-            "negative": 8.46727630671333e-09
+            "neutral": 0.39141348004341125,
+            "positive": 0.6005896329879761,
+            "negative": 0.007996872067451477
         },
-        "normalized_likes": 3.529411764705882e-05,
+        "normalized_likes": 3.529411764705882e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 1.4627216555255507e-12,
-            "positive": 2.2444180056298065e-12,
-            "negative": 2.988450461192939e-14
+            "neutral": 1.3814593413296866e-6,
+            "positive": 2.1197281164281507e-6,
+            "negative": 2.8224254355711093e-8
         }
     },
     "tweet_18": {
@@ -328,17 +328,17 @@
         "replies": 3,
         "retweets": 3,
         "sentiment_score": {
-            "neutral": 0.001154170178092797,
-            "positive": 0.0007941240708135507,
-            "negative": 0.004562109968833187
+            "neutral": 0.17728087306022644,
+            "positive": 0.12197768688201904,
+            "negative": 0.7007414102554321
         },
         "normalized_likes": 0.0011176470588235294,
         "normalized_replies": 0.00046875,
         "normalized_retweets": 0.00046875,
         "weighted_sentiment_score": {
-            "neutral": 6.15911034375623e-07,
-            "positive": 4.2377613558304e-07,
-            "negative": 2.4345230219710925e-06
+            "neutral": 9.460411295842598e-5,
+            "positive": 6.509213695193038e-5,
+            "negative": 0.000373943440068294
         }
     },
     "tweet_19": {
@@ -347,9 +347,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.9462118744850159,
+            "positive": 0.045074865221977234,
+            "negative": 0.008713241666555405
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -366,9 +366,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.12010591477155685,
+            "positive": 0.017265258356928825,
+            "negative": 0.8626288771629333
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -385,9 +385,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.7891287803649902,
+            "positive": 0.1563246250152588,
+            "negative": 0.05454657971858978
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -404,17 +404,17 @@
         "replies": 0,
         "retweets": 6,
         "sentiment_score": {
-            "neutral": 0.0009853477022876854,
-            "positive": 0.008982244715197122,
-            "negative": 0.00022080486906714302
+            "neutral": 0.09671273082494736,
+            "positive": 0.8816151022911072,
+            "negative": 0.021672189235687256
         },
         "normalized_likes": 0.0013058823529411765,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0009375,
         "weighted_sentiment_score": {
-            "neutral": 6.829329001296855e-07,
-            "positive": 6.225488138635888e-06,
-            "negative": 1.5303725704609487e-07
+            "neutral": 6.703045593793778e-5,
+            "positive": 0.0006110370554555865,
+            "negative": 1.5020739392322652e-5
         }
     },
     "tweet_23": {
@@ -423,17 +423,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 1.6239492752972774e-06,
-            "positive": 2.3567569957059977e-07,
-            "negative": 2.2728097789427816e-08
+            "neutral": 0.8627230525016785,
+            "positive": 0.1252027153968811,
+            "negative": 0.012074301950633526
         },
-        "normalized_likes": 4.705882352941177e-05,
+        "normalized_likes": 4.705882352941177e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 7.642114236693071e-12,
-            "positive": 1.1090621156263519e-12,
-            "negative": 1.0695575430318973e-13
+            "neutral": 4.059873188243193e-6,
+            "positive": 5.891892489264993e-7,
+            "negative": 5.682024447356954e-8
         }
     },
     "tweet_24": {
@@ -442,17 +442,17 @@
         "replies": 0,
         "retweets": 1,
         "sentiment_score": {
-            "neutral": 4.345808252692222e-05,
-            "positive": 1.2455235701054335e-05,
-            "negative": 3.3668381511233747e-07
+            "neutral": 0.7725881338119507,
+            "positive": 0.22142641246318817,
+            "negative": 0.005985490046441555
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00015625,
         "weighted_sentiment_score": {
-            "neutral": 4.074195236898959e-09,
-            "positive": 1.167678346973844e-09,
-            "negative": 3.1564107666781637e-11
+            "neutral": 7.243013754487037e-5,
+            "positive": 2.0758726168423892e-5,
+            "negative": 5.611396918538958e-7
         }
     },
     "tweet_25": {
@@ -461,17 +461,17 @@
         "replies": 194,
         "retweets": 200,
         "sentiment_score": {
-            "neutral": 3.3486941120084976,
-            "positive": 17.317920206566136,
-            "negative": 1.3770358848344342
+            "neutral": 0.15191195905208588,
+            "positive": 0.7856194376945496,
+            "negative": 0.062468595802783966
         },
         "normalized_likes": 0.05647058823529412,
         "normalized_replies": 0.0303125,
         "normalized_retweets": 0.03125,
         "weighted_sentiment_score": {
-            "neutral": 0.11215047431375517,
-            "positive": 0.5799911548592434,
-            "negative": 0.04611804556212969
+            "neutral": 0.0050876543786212355,
+            "positive": 0.026311030395876834,
+            "negative": 0.0020921237995053694
         }
     },
     "tweet_26": {
@@ -480,17 +480,17 @@
         "replies": 0,
         "retweets": 3,
         "sentiment_score": {
-            "neutral": 0.0001549436631650828,
-            "positive": 1.751804019036867e-05,
-            "negative": 0.00048794271086945244
+            "neutral": 0.2346193641424179,
+            "positive": 0.026526231318712234,
+            "negative": 0.7388544082641602
         },
-        "normalized_likes": 5.882352941176471e-05,
+        "normalized_likes": 5.882352941176471e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00046875,
         "weighted_sentiment_score": {
-            "neutral": 4.448933857791531e-08,
-            "positive": 5.029996098778651e-09,
-            "negative": 1.4010413867244203e-07
+            "neutral": 6.736681007177514e-5,
+            "positive": 7.6165392132037695e-6,
+            "negative": 0.0002121490047258489
         }
     },
     "tweet_27": {
@@ -499,17 +499,17 @@
         "replies": 15,
         "retweets": 8,
         "sentiment_score": {
-            "neutral": 0.013148770160755033,
-            "positive": 0.006528153255178648,
-            "negative": 0.00027552136267884635
+            "neutral": 0.6590054631233215,
+            "positive": 0.32718563079833984,
+            "negative": 0.013808902353048325
         },
         "normalized_likes": 0.00047058823529411766,
         "normalized_replies": 0.00234375,
         "normalized_retweets": 0.00125,
         "weighted_sentiment_score": {
-            "neutral": 1.9725572294470923e-05,
-            "positive": 9.79342991093988e-06,
-            "negative": 4.1333269132758547e-07
+            "neutral": 0.0009886293353951153,
+            "positive": 0.0004908385906149359,
+            "negative": 2.0715891930740326e-5
         }
     },
     "tweet_28": {
@@ -518,9 +518,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.8718534111976624,
+            "positive": 0.03415030241012573,
+            "negative": 0.0939963087439537
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -537,9 +537,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.9089507460594177,
+            "positive": 0.07992622256278992,
+            "negative": 0.011123047210276127
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -556,9 +556,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.9596633315086365,
+            "positive": 0.033301468938589096,
+            "negative": 0.007035201881080866
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -575,17 +575,17 @@
         "replies": 1,
         "retweets": 2,
         "sentiment_score": {
-            "neutral": 0.0006071719834059477,
-            "positive": 0.0003965269305132987,
-            "negative": 2.048122932420879e-05
+            "neutral": 0.5928370952606201,
+            "positive": 0.38716521859169006,
+            "negative": 0.01999768242239952
         },
         "normalized_likes": 0.00028235294117647056,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0003125,
         "weighted_sentiment_score": {
-            "neutral": 1.5944961314223103e-07,
-            "positive": 1.0413205384766517e-07,
-            "negative": 5.378581656721448e-09
+            "neutral": 0.000155685123950243,
+            "positive": 0.00010167357192648684,
+            "negative": 5.251597262617639e-6
         }
     },
     "tweet_32": {
@@ -594,17 +594,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 8.294000345117906e-08,
-            "positive": 3.666169783648323e-07,
-            "negative": 2.1031256984261907e-08
+            "neutral": 0.1762475073337555,
+            "positive": 0.7790610790252686,
+            "negative": 0.04469142109155655
         },
-        "normalized_likes": 2.3529411764705884e-05,
+        "normalized_likes": 2.3529411764705884e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 1.9515294929689193e-13,
-            "positive": 8.626281843878408e-13,
-            "negative": 4.948531055120449e-14
+            "neutral": 4.147000172558953e-7,
+            "positive": 1.8330848918241614e-6,
+            "negative": 1.0515628492130953e-7
         }
     },
     "tweet_33": {
@@ -613,17 +613,17 @@
         "replies": 1,
         "retweets": 3,
         "sentiment_score": {
-            "neutral": 0.00023267953181212,
-            "positive": 0.000646197408602299,
-            "negative": 2.6119394914801783e-05
+            "neutral": 0.2571054995059967,
+            "positive": 0.7140331864356995,
+            "negative": 0.028861327096819878
         },
-        "normalized_likes": 7.058823529411764e-05,
+        "normalized_likes": 7.058823529411764e-5,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.00046875,
         "weighted_sentiment_score": {
-            "neutral": 7.799041512981977e-08,
-            "positive": 2.1659491817011615e-07,
-            "negative": 8.754798655817934e-09
+            "neutral": 8.617760437485925e-5,
+            "positive": 0.00023933237355640703,
+            "negative": 9.673849968445103e-6
         }
     },
     "tweet_34": {
@@ -632,17 +632,17 @@
         "replies": 1,
         "retweets": 1,
         "sentiment_score": {
-            "neutral": 7.93330535073491e-05,
-            "positive": 7.965028364518113e-05,
-            "negative": 1.400195954279865e-05
+            "neutral": 0.45861154794692993,
+            "positive": 0.4604454040527344,
+            "negative": 0.08094306290149689
         },
-        "normalized_likes": 3.529411764705882e-05,
+        "normalized_likes": 3.529411764705882e-5,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.00015625,
         "weighted_sentiment_score": {
-            "neutral": 1.1436209661849847e-08,
-            "positive": 1.1481939785763059e-08,
-            "negative": 2.01844424144535e-09
+            "neutral": 6.61108779227909e-5,
+            "positive": 6.637523637098426e-5,
+            "negative": 1.1668299618998873e-5
         }
     },
     "tweet_35": {
@@ -651,9 +651,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.23975573480129242,
+            "positive": 0.05130768194794655,
+            "negative": 0.7089365720748901
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -670,17 +670,17 @@
         "replies": 1,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 4.089212883263826e-06,
-            "positive": 9.633872006088496e-06,
-            "negative": 3.394152678083628e-07
+            "neutral": 0.290788471698761,
+            "positive": 0.6850753426551819,
+            "negative": 0.024136196821928024
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 1.9168185390299185e-10,
-            "positive": 4.5158775028539824e-10,
-            "negative": 1.591009067851701e-11
+            "neutral": 1.3630709610879422e-5,
+            "positive": 3.211290668696165e-5,
+            "negative": 1.1313842260278761e-6
         }
     },
     "tweet_37": {
@@ -689,17 +689,17 @@
         "replies": 2,
         "retweets": 1,
         "sentiment_score": {
-            "neutral": 0.00019326700928456645,
-            "positive": 0.00014265024250044545,
-            "negative": 0.00010246510768857074
+            "neutral": 0.44086402654647827,
+            "positive": 0.3254014253616333,
+            "negative": 0.23373456299304962
         },
         "normalized_likes": 0.00011764705882352942,
         "normalized_replies": 0.0003125,
         "normalized_retweets": 0.00015625,
         "weighted_sentiment_score": {
-            "neutral": 3.851129376185111e-08,
-            "positive": 2.8425158615897587e-08,
-            "negative": 2.0417679546766668e-08
+            "neutral": 8.784864058389383e-5,
+            "positive": 6.484101931838428e-5,
+            "negative": 4.657504894935033e-5
         }
     },
     "tweet_38": {
@@ -708,17 +708,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 7.821848813225242e-08,
-            "positive": 3.028277789845187e-08,
-            "negative": 9.145793669364033e-09
+            "neutral": 0.6648571491241455,
+            "positive": 0.2574036121368408,
+            "negative": 0.07773924618959427
         },
-        "normalized_likes": 1.1764705882352942e-05,
+        "normalized_likes": 1.1764705882352942e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 9.202175074382638e-14,
-            "positive": 3.5626797527590436e-14,
-            "negative": 1.0759757258075333e-14
+            "neutral": 7.821848813225242e-7,
+            "positive": 3.0282777898451863e-7,
+            "negative": 9.145793669364033e-8
         }
     },
     "tweet_39": {
@@ -727,9 +727,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.4507555067539215,
+            "positive": 0.5229609608650208,
+            "negative": 0.026283493265509605
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -746,17 +746,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 3.078131465350881e-08,
-            "positive": 8.500887365902174e-08,
-            "negative": 1.856864375226638e-09
+            "neutral": 0.26164117455482483,
+            "positive": 0.7225754261016846,
+            "negative": 0.015783347189426422
         },
-        "normalized_likes": 1.1764705882352942e-05,
+        "normalized_likes": 1.1764705882352942e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 3.6213311357069194e-14,
-            "positive": 1.0001043959884911e-13,
-            "negative": 2.184546323796045e-15
+            "neutral": 3.0781314653508806e-7,
+            "positive": 8.500887365902172e-7,
+            "negative": 1.856864375226638e-8
         }
     },
     "tweet_41": {
@@ -765,17 +765,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 3.7939809350406426e-07,
-            "positive": 7.247074211345001e-08,
-            "negative": 1.8719417207381308e-08
+            "neutral": 0.8062209486961365,
+            "positive": 0.15400032699108124,
+            "negative": 0.03977876156568527
         },
-        "normalized_likes": 2.3529411764705884e-05,
+        "normalized_likes": 2.3529411764705884e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 8.927013964801513e-13,
-            "positive": 1.7051939320811768e-13,
-            "negative": 4.404568754677955e-14
+            "neutral": 1.8969904675203214e-6,
+            "positive": 3.6235371056725e-7,
+            "negative": 9.359708603690653e-8
         }
     },
     "tweet_42": {
@@ -784,17 +784,17 @@
         "replies": 3,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 6.72559513747692e-05,
-            "positive": 2.3109505027998237e-05,
-            "negative": 0.0003272595762684941
+            "neutral": 0.16104388236999512,
+            "positive": 0.05533554032444954,
+            "negative": 0.7836206555366516
         },
         "normalized_likes": 0.0002,
         "normalized_replies": 0.00046875,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 1.0802987189572302e-08,
-            "positive": 3.7119642451222166e-09,
-            "negative": 5.2566069438126867e-08
+            "neutral": 2.5867673605680463e-5,
+            "positive": 8.888271164614707e-6,
+            "negative": 0.00012586906779557465
         }
     },
     "tweet_43": {
@@ -803,17 +803,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 2.0538413314258355e-06,
-            "positive": 1.7260271266979333e-07,
-            "negative": 3.5382616449804875e-06
+            "neutral": 0.35627859830856323,
+            "positive": 0.029941286891698837,
+            "negative": 0.6137800812721252
         },
-        "normalized_likes": 8.23529411764706e-05,
+        "normalized_likes": 8.23529411764706e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 1.691398743527159e-11,
-            "positive": 1.4214341043394746e-12,
-            "negative": 2.913862531160402e-11
+            "neutral": 2.9340590448940506e-6,
+            "positive": 2.4657530381399044e-7,
+            "negative": 5.054659492829267e-6
         }
     },
     "tweet_44": {
@@ -822,17 +822,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 5.787488222122193e-07,
-            "positive": 2.9917353041031784e-07,
-            "negative": 1.809011452338275e-07
+            "neutral": 0.546596109867096,
+            "positive": 0.2825527787208557,
+            "negative": 0.17085108160972595
         },
-        "normalized_likes": 3.529411764705882e-05,
+        "normalized_likes": 3.529411764705882e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 2.0426429019254797e-12,
-            "positive": 1.0559065779187687e-12,
-            "negative": 6.384746302370382e-13
+            "neutral": 1.9291627407073975e-6,
+            "positive": 9.97245101367726e-7,
+            "negative": 6.030038174460916e-7
         }
     },
     "tweet_45": {
@@ -841,17 +841,17 @@
         "replies": 0,
         "retweets": 152,
         "sentiment_score": {
-            "neutral": 0.5450497145368772,
-            "positive": 0.14866219362971536,
-            "negative": 2.255829169412921
+            "neutral": 0.18479135632514954,
+            "positive": 0.050401803106069565,
+            "negative": 0.7648068070411682
         },
         "normalized_likes": 0.011764705882352941,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.02375,
         "weighted_sentiment_score": {
-            "neutral": 0.00840819339042918,
-            "positive": 0.0022933329576113443,
-            "negative": 0.03479948233403168
+            "neutral": 0.0028506784233100274,
+            "positive": 0.0007775219332098084,
+            "negative": 0.011798269714502726
         }
     },
     "tweet_46": {
@@ -860,17 +860,17 @@
         "replies": 1,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 9.934479743242264e-06,
-            "positive": 3.3960640663281087e-06,
-            "negative": 7.319565047509968e-07
+            "neutral": 0.7064518928527832,
+            "positive": 0.24149788916110992,
+            "negative": 0.05205024033784866
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 4.656787379644811e-10,
-            "positive": 1.591905031091301e-10,
-            "negative": 3.4310461160202974e-11
+            "neutral": 3.311493247747421e-5,
+            "positive": 1.1320213554427028e-5,
+            "negative": 2.439855015836656e-6
         }
     },
     "tweet_47": {
@@ -879,17 +879,17 @@
         "replies": 2,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 4.407246022014057e-05,
-            "positive": 2.110183995085604e-05,
-            "negative": 1.1708049333270859e-05
+            "neutral": 0.5732454657554626,
+            "positive": 0.2744692265987396,
+            "negative": 0.15228526294231415
         },
-        "normalized_likes": 2.3529411764705884e-05,
+        "normalized_likes": 2.3529411764705884e-5,
         "normalized_replies": 0.0003125,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 4.235493052038509e-09,
-            "positive": 2.027948883512415e-09,
-            "negative": 1.125177976366545e-09
+            "neutral": 5.509057527517571e-5,
+            "positive": 2.6377299938570053e-5,
+            "negative": 1.4635061666588573e-5
         }
     },
     "tweet_48": {
@@ -898,9 +898,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.8888166546821594,
+            "positive": 0.10066363215446472,
+            "negative": 0.010519766248762608
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -917,17 +917,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 1.01765092681436e-07,
-            "positive": 1.2155787033193254e-08,
-            "negative": 3.726182615055758e-09
+            "neutral": 0.8650032877922058,
+            "positive": 0.10332418978214264,
+            "negative": 0.03167255222797394
         },
-        "normalized_likes": 1.1764705882352942e-05,
+        "normalized_likes": 1.1764705882352942e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 1.1972363844874824e-13,
-            "positive": 1.430092592140383e-14,
-            "negative": 4.383744253006775e-15
+            "neutral": 1.0176509268143598e-6,
+            "positive": 1.2155787033193253e-7,
+            "negative": 3.7261826150557576e-8
         }
     },
     "tweet_50": {
@@ -936,17 +936,17 @@
         "replies": 44,
         "retweets": 27,
         "sentiment_score": {
-            "neutral": 0.17934059164722002,
-            "positive": 0.07109528018229982,
-            "negative": 0.0055520916818687155
+            "neutral": 0.7005821466445923,
+            "positive": 0.27772900462150574,
+            "negative": 0.021688878536224365
         },
         "normalized_likes": 0.0027294117647058825,
         "normalized_replies": 0.006875,
         "normalized_retweets": 0.00421875,
         "weighted_sentiment_score": {
-            "neutral": 0.0008727952749525405,
-            "positive": 0.00034599877275190286,
-            "negative": 2.7020315599106228e-05
+            "neutral": 0.003409516951468061,
+            "positive": 0.0013516212962414412,
+            "negative": 0.00010555307379978545
         }
     },
     "tweet_51": {
@@ -955,17 +955,17 @@
         "replies": 0,
         "retweets": 1,
         "sentiment_score": {
-            "neutral": 3.3235920872320146e-05,
-            "positive": 1.7703008235651342e-06,
-            "negative": 3.1442304992938736e-05
+            "neutral": 0.500175416469574,
+            "positive": 0.026641685515642166,
+            "negative": 0.4731828570365906
         },
-        "normalized_likes": 1.1764705882352942e-05,
+        "normalized_likes": 1.1764705882352942e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00015625,
         "weighted_sentiment_score": {
-            "neutral": 3.154968665159214e-09,
-            "positive": 1.6804840906048444e-10,
-            "negative": 2.9847070401385227e-09
+            "neutral": 4.7479886960457355e-5,
+            "positive": 2.5290011765216205e-6,
+            "negative": 4.4917578561341065e-5
         }
     },
     "tweet_52": {
@@ -974,17 +974,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 5.755077390109792e-08,
-            "positive": 1.4097398694823774e-08,
-            "negative": 4.5998881844913266e-08
+            "neutral": 0.4891815781593323,
+            "positive": 0.11982788890600204,
+            "negative": 0.3909904956817627
         },
-        "normalized_likes": 1.1764705882352942e-05,
+        "normalized_likes": 1.1764705882352942e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 6.770679282482109e-14,
-            "positive": 1.6585174935086794e-14,
-            "negative": 5.4116331582250906e-14
+            "neutral": 5.755077390109792e-7,
+            "positive": 1.4097398694823772e-7,
+            "negative": 4.5998881844913263e-7
         }
     },
     "tweet_53": {
@@ -993,17 +993,17 @@
         "replies": 0,
         "retweets": 4,
         "sentiment_score": {
-            "neutral": 0.0007768997545312433,
-            "positive": 0.0001532029289682122,
-            "negative": 9.192675110938796e-05
+            "neutral": 0.7601540088653564,
+            "positive": 0.14990070462226868,
+            "negative": 0.08994530886411667
         },
-        "normalized_likes": 3.529411764705882e-05,
+        "normalized_likes": 3.529411764705882e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.000625,
         "weighted_sentiment_score": {
-            "neutral": 2.9407940708285593e-07,
-            "positive": 5.799181458296739e-08,
-            "negative": 3.479697902287715e-08
+            "neutral": 0.0002877406498263864,
+            "positive": 5.674182554378229e-5,
+            "negative": 3.404694485532887e-5
         }
     },
     "tweet_54": {
@@ -1012,17 +1012,17 @@
         "replies": 1,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 4.535803280989914e-06,
-            "positive": 7.382789649178876e-06,
-            "negative": 1.2695376924513018e-05
+            "neutral": 0.18427759408950806,
+            "positive": 0.29994305968284607,
+            "negative": 0.5157793164253235
         },
-        "normalized_likes": 2.3529411764705884e-05,
+        "normalized_likes": 2.3529411764705884e-5,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 2.2328825710461377e-10,
-            "positive": 3.6343953456803365e-10,
-            "negative": 6.249672684530489e-10
+            "neutral": 9.071606561979827e-6,
+            "positive": 1.4765579298357753e-5,
+            "negative": 2.5390753849026035e-5
         }
     },
     "tweet_55": {
@@ -1031,17 +1031,17 @@
         "replies": 0,
         "retweets": 5,
         "sentiment_score": {
-            "neutral": 0.0012296576663275412,
-            "positive": 0.0009538055548545193,
-            "negative": 0.0004443233085813768
+            "neutral": 0.4679442346096039,
+            "positive": 0.36296916007995605,
+            "negative": 0.1690865159034729
         },
         "normalized_likes": 0.0002705882352941176,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00078125,
         "weighted_sentiment_score": {
-            "neutral": 6.096751208857801e-07,
-            "positive": 4.7290521002823696e-07,
-            "negative": 2.2029941689442818e-07
+            "neutral": 0.00023201088043915872,
+            "positive": 0.00017996331223670172,
+            "negative": 8.383458652478806e-5
         }
     },
     "tweet_56": {
@@ -1050,9 +1050,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.3483150005340576,
+            "positive": 0.6221703886985779,
+            "negative": 0.029514610767364502
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -1069,17 +1069,17 @@
         "replies": 1,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 1.086336455773562e-06,
-            "positive": 1.606498088221997e-07,
-            "negative": 1.2815513368695973e-05
+            "neutral": 0.07725059241056442,
+            "positive": 0.011423986405134201,
+            "negative": 0.9113253951072693
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 5.092202136438572e-11,
-            "positive": 7.53045978854061e-12,
-            "negative": 6.007271891576237e-10
+            "neutral": 3.6211215192452073e-6,
+            "positive": 5.354993627406656e-7,
+            "negative": 4.2718377895653246e-5
         }
     },
     "tweet_58": {
@@ -1088,9 +1088,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.07331205159425735,
+            "positive": 0.9033189415931702,
+            "negative": 0.023368975147604942
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -1107,9 +1107,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.8888166546821594,
+            "positive": 0.10066363215446472,
+            "negative": 0.010519766248762608
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -1126,17 +1126,17 @@
         "replies": 3,
         "retweets": 9,
         "sentiment_score": {
-            "neutral": 0.0014903095713298873,
-            "positive": 0.000302024757858667,
-            "negative": 0.007690588676888933
+            "neutral": 0.15715719759464264,
+            "positive": 0.03184933215379715,
+            "negative": 0.810993492603302
         },
         "normalized_likes": 0.00035294117647058826,
         "normalized_replies": 0.00046875,
         "normalized_retweets": 0.00140625,
         "weighted_sentiment_score": {
-            "neutral": 1.5196226456189125e-06,
-            "positive": 3.0796531835331357e-07,
-            "negative": 7.8418557703498e-06
+            "neutral": 0.00016024834100321372,
+            "positive": 3.247578041491043e-5,
+            "negative": 0.0008269450190203154
         }
     },
     "tweet_61": {
@@ -1145,17 +1145,17 @@
         "replies": 0,
         "retweets": 2,
         "sentiment_score": {
-            "neutral": 1.9768358321641297e-05,
-            "positive": 0.00026134312863297323,
-            "negative": 5.432623220224152e-06
+            "neutral": 0.06898888200521469,
+            "positive": 0.9120519757270813,
+            "negative": 0.01895911619067192
         },
-        "normalized_likes": 3.529411764705882e-05,
+        "normalized_likes": 3.529411764705882e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0003125,
         "weighted_sentiment_score": {
-            "neutral": 3.7763378617370654e-09,
-            "positive": 4.992422413150474e-08,
-            "negative": 1.0377908180987021e-09
+            "neutral": 1.3178905547760866e-5,
+            "positive": 0.00017422875242198215,
+            "negative": 3.6217488134827685e-6
         }
     },
     "tweet_62": {
@@ -1164,17 +1164,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 3.2986099930370556e-07,
-            "positive": 7.004350283566644e-07,
-            "negative": 2.8527482029269726e-08
+            "neutral": 0.31153538823127747,
+            "positive": 0.6615219712257385,
+            "negative": 0.026942621916532516
         },
-        "normalized_likes": 3.529411764705882e-05,
+        "normalized_likes": 3.529411764705882e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 1.1642152916601372e-12,
-            "positive": 2.4721236294941093e-12,
-            "negative": 1.006852306915402e-13
+            "neutral": 1.099536664345685e-6,
+            "positive": 2.3347834278555475e-6,
+            "negative": 9.509160676423241e-8
         }
     },
     "tweet_63": {
@@ -1183,9 +1183,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.11819876730442047,
+            "positive": 0.8540768623352051,
+            "negative": 0.027724312618374825
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -1202,17 +1202,17 @@
         "replies": 0,
         "retweets": 1,
         "sentiment_score": {
-            "neutral": 1.1873739299857442e-05,
-            "positive": 8.379120942177798e-07,
-            "negative": 5.373687987423995e-05
+            "neutral": 0.17869077622890472,
+            "positive": 0.012609941884875298,
+            "negative": 0.8086993098258972
         },
-        "normalized_likes": 1.1764705882352942e-05,
+        "normalized_likes": 1.1764705882352942e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00015625,
         "weighted_sentiment_score": {
-            "neutral": 1.127132164420291e-09,
-            "positive": 7.954003776729071e-11,
-            "negative": 5.101052346885572e-09
+            "neutral": 1.6962484714082058e-5,
+            "positive": 1.1970172774539714e-6,
+            "negative": 7.676697124891421e-5
         }
     },
     "tweet_65": {
@@ -1221,17 +1221,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 1.8855568310793712e-06,
-            "positive": 2.8467523806235374e-06,
-            "negative": 1.0323966706500337e-06
+            "neutral": 0.3270863890647888,
+            "positive": 0.49382439255714417,
+            "negative": 0.17908921837806702
         },
-        "normalized_likes": 8.23529411764706e-05,
+        "normalized_likes": 8.23529411764706e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 1.5528115079477175e-11,
-            "positive": 2.3443843134546782e-11,
-            "negative": 8.502090228882631e-12
+            "neutral": 2.693652615827673e-6,
+            "positive": 4.066789115176482e-6,
+            "negative": 1.474852386642905e-6
         }
     },
     "tweet_66": {
@@ -1240,17 +1240,17 @@
         "replies": 0,
         "retweets": 3,
         "sentiment_score": {
-            "neutral": 0.0003487215160525897,
-            "positive": 0.0002519658707034061,
-            "negative": 2.8415523953790607e-05
+            "neutral": 0.5543155074119568,
+            "positive": 0.4005161225795746,
+            "negative": 0.04516832157969475
         },
-        "normalized_likes": 4.705882352941177e-05,
+        "normalized_likes": 4.705882352941177e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00046875,
         "weighted_sentiment_score": {
-            "neutral": 9.971896881827362e-08,
-            "positive": 7.205112287981959e-08,
-            "negative": 8.125586224727328e-09
+            "neutral": 0.0001585097800239044,
+            "positive": 0.00011452994122882099,
+            "negative": 1.2916147251723005e-5
         }
     },
     "tweet_67": {
@@ -1259,17 +1259,17 @@
         "replies": 0,
         "retweets": 1,
         "sentiment_score": {
-            "neutral": 4.182249829173088e-05,
-            "positive": 1.1738282907754183e-05,
-            "negative": 2.6892194291576744e-06
+            "neutral": 0.7435110807418823,
+            "positive": 0.20868058502674103,
+            "negative": 0.04780834540724754
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00015625,
         "weighted_sentiment_score": {
-            "neutral": 3.92085921484977e-09,
-            "positive": 1.1004640226019546e-09,
-            "negative": 2.5211432148353197e-10
+            "neutral": 6.970416381955147e-5,
+            "positive": 1.9563804846256972e-5,
+            "negative": 4.482032381929457e-6
         }
     },
     "tweet_68": {
@@ -1278,17 +1278,17 @@
         "replies": 6400,
         "retweets": 6400,
         "sentiment_score": {
-            "neutral": 11271.518334150314,
-            "positive": 1367.3408338427544,
-            "negative": 1621.1409382522106
+            "neutral": 0.7904290556907654,
+            "positive": 0.09588645398616791,
+            "negative": 0.11368449777364731
         },
         "normalized_likes": 1.0,
         "normalized_replies": 1.0,
         "normalized_retweets": 1.0,
         "weighted_sentiment_score": {
-            "neutral": 11271.518334150314,
-            "positive": 1367.3408338427544,
-            "negative": 1621.1409382522106
+            "neutral": 0.7904290556907654,
+            "positive": 0.09588645398616791,
+            "negative": 0.11368449777364731
         }
     },
     "tweet_69": {
@@ -1297,9 +1297,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.8935968279838562,
+            "positive": 0.059338416904211044,
+            "negative": 0.04706479609012604
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -1316,17 +1316,17 @@
         "replies": 0,
         "retweets": 5,
         "sentiment_score": {
-            "neutral": 0.0004007045924249379,
-            "positive": 0.0011128364717920911,
-            "negative": 4.498101492731503e-05
+            "neutral": 0.2571054995059967,
+            "positive": 0.7140331864356995,
+            "negative": 0.028861327096819878
         },
-        "normalized_likes": 3.529411764705882e-05,
+        "normalized_likes": 3.529411764705882e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00078125,
         "weighted_sentiment_score": {
-            "neutral": 1.8924452920186588e-07,
-            "positive": 5.255697542882795e-07,
-            "negative": 2.1243607270451795e-08
+            "neutral": 0.000121425634068163,
+            "positive": 0.0003372231732703307,
+            "negative": 1.3630610584034859e-5
         }
     },
     "tweet_71": {
@@ -1335,17 +1335,17 @@
         "replies": 11,
         "retweets": 3,
         "sentiment_score": {
-            "neutral": 0.003938154120804633,
-            "positive": 0.006407642480266445,
-            "negative": 0.00019082092823186783
+            "neutral": 0.37375885248184204,
+            "positive": 0.6081308722496033,
+            "negative": 0.018110264092683792
         },
         "normalized_likes": 0.000811764705882353,
         "normalized_replies": 0.00171875,
         "normalized_retweets": 0.00046875,
         "weighted_sentiment_score": {
-            "neutral": 3.457902017175627e-06,
-            "positive": 5.6262399028016e-06,
-            "negative": 1.6755059665300367e-07
+            "neutral": 0.0003281795100670527,
+            "positive": 0.0005339702066888705,
+            "negative": 1.5901744019322317e-5
         }
     },
     "tweet_72": {
@@ -1354,17 +1354,17 @@
         "replies": 1,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 7.453788444399833e-06,
-            "positive": 2.0369344856590035e-06,
-            "negative": 4.5717770699411634e-06
+            "neutral": 0.5300471782684326,
+            "positive": 0.14484867453575134,
+            "negative": 0.32510414719581604
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 3.493963333312422e-10,
-            "positive": 9.548130401526579e-11,
-            "negative": 2.1430205015349203e-10
+            "neutral": 2.484596148133278e-5,
+            "positive": 6.789781618863344e-6,
+            "negative": 1.5239256899803877e-5
         }
     },
     "tweet_73": {
@@ -1373,17 +1373,17 @@
         "replies": 52,
         "retweets": 44,
         "sentiment_score": {
-            "neutral": 0.18576831099976862,
-            "positive": 0.13681667259563154,
-            "negative": 0.02332474396703239
+            "neutral": 0.5370427370071411,
+            "positive": 0.39552709460258484,
+            "negative": 0.06743014603853226
         },
         "normalized_likes": 0.0011529411764705881,
         "normalized_replies": 0.008125,
         "normalized_retweets": 0.006875,
         "weighted_sentiment_score": {
-            "neutral": 0.0012405225344394844,
-            "positive": 0.0009136335714551519,
-            "negative": 0.00015575783805867264
+            "neutral": 0.0035862608301113637,
+            "positive": 0.002641248505707173,
+            "negative": 0.0004502846325681929
         }
     },
     "tweet_74": {
@@ -1392,9 +1392,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.18706120550632477,
+            "positive": 0.7742761969566345,
+            "negative": 0.038662634789943695
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -1411,9 +1411,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.3936358094215393,
+            "positive": 0.5839589834213257,
+            "negative": 0.02240517921745777
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -1430,9 +1430,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.1618155837059021,
+            "positive": 0.009239082224667072,
+            "negative": 0.8289453983306885
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -1449,17 +1449,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 6.148878967060762e-07,
-            "positive": 3.804131921599893e-07,
-            "negative": 6.352242871242411e-08
+            "neutral": 0.5807274580001831,
+            "positive": 0.3592791259288788,
+            "negative": 0.059993404895067215
         },
-        "normalized_likes": 3.529411764705882e-05,
+        "normalized_likes": 3.529411764705882e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 2.170192576609681e-12,
-            "positive": 1.3426347958587857e-12,
-            "negative": 2.2419680722032036e-13
+            "neutral": 2.0496263223535874e-6,
+            "positive": 1.2680439738666309e-6,
+            "negative": 2.1174142904141368e-7
         }
     },
     "tweet_78": {
@@ -1468,17 +1468,17 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 4.3560918183887715e-06,
-            "positive": 4.22096159177668e-06,
-            "negative": 9.52358851537985e-07
+            "neutral": 0.45712074637413025,
+            "positive": 0.4429404139518738,
+            "negative": 0.09993889182806015
         },
         "normalized_likes": 0.00010588235294117647,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 4.612332513588111e-11,
-            "positive": 4.4692534501164853e-11,
-            "negative": 1.0083799604519843e-11
+            "neutral": 4.840102020431968e-6,
+            "positive": 4.689957324196311e-6,
+            "negative": 1.0581765017088722e-6
         }
     },
     "tweet_79": {
@@ -1487,17 +1487,17 @@
         "replies": 0,
         "retweets": 4,
         "sentiment_score": {
-            "neutral": 0.0002627693824215847,
-            "positive": 0.0007297629175133565,
-            "negative": 2.949712515551159e-05
+            "neutral": 0.2571054995059967,
+            "positive": 0.7140331864356995,
+            "negative": 0.028861327096819878
         },
-        "normalized_likes": 3.529411764705882e-05,
+        "normalized_likes": 3.529411764705882e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.000625,
         "weighted_sentiment_score": {
-            "neutral": 9.94659397578175e-08,
-            "positive": 2.762367278940264e-07,
-            "negative": 1.1165529433865712e-08
+            "neutral": 9.732199348947581e-5,
+            "positive": 0.0002702825620419839,
+            "negative": 1.0924861168707995e-5
         }
     },
     "tweet_80": {
@@ -1506,17 +1506,17 @@
         "replies": 0,
         "retweets": 2,
         "sentiment_score": {
-            "neutral": 6.306268568030176e-05,
-            "positive": 0.00017513763994942696,
-            "negative": 7.079089333056747e-06
+            "neutral": 0.2571054995059967,
+            "positive": 0.7140331864356995,
+            "negative": 0.028861327096819878
         },
-        "normalized_likes": 1.1764705882352942e-05,
+        "normalized_likes": 1.1764705882352942e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.0003125,
         "weighted_sentiment_score": {
-            "neutral": 1.1898444959974583e-08,
-            "positive": 3.3044351772811e-08,
-            "negative": 1.3356575903399716e-09
+            "neutral": 4.850975821561673e-5,
+            "positive": 0.00013472126149955918,
+            "negative": 5.445453333120574e-6
         }
     },
     "tweet_81": {
@@ -1525,17 +1525,17 @@
         "replies": 1,
         "retweets": 7,
         "sentiment_score": {
-            "neutral": 0.002653510733233655,
-            "positive": 0.0017055435829028925,
-            "negative": 0.0007687032660332454
+            "neutral": 0.5174797773361206,
+            "positive": 0.33261004090309143,
+            "negative": 0.14991022646427155
         },
         "normalized_likes": 0.0002941176470588235,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.00109375,
         "weighted_sentiment_score": {
-            "neutral": 1.9437941676353154e-06,
-            "positive": 1.2493733782845637e-06,
-            "negative": 5.631034035188388e-07
+            "neutral": 0.0003790729618905222,
+            "positive": 0.0002436490832718418,
+            "negative": 0.00010981475229046362
         }
     },
     "tweet_82": {
@@ -1544,17 +1544,17 @@
         "replies": 0,
         "retweets": 1,
         "sentiment_score": {
-            "neutral": 6.223863075952978e-06,
-            "positive": 0.00017375423456728463,
-            "negative": 1.396904214867391e-06
+            "neutral": 0.03431488946080208,
+            "positive": 0.9579833745956421,
+            "negative": 0.007701746188104153
         },
         "normalized_likes": 0.00012941176470588234,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00015625,
         "weighted_sentiment_score": {
-            "neutral": 6.640312737652772e-10,
-            "positive": 1.8538043702730145e-08,
-            "negative": 1.490373541009253e-10
+            "neutral": 3.661095927031163e-6,
+            "positive": 0.00010220837327487329,
+            "negative": 8.217083616867005e-7
         }
     },
     "tweet_83": {
@@ -1563,9 +1563,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.8283422589302063,
+            "positive": 0.15308144688606262,
+            "negative": 0.018576305359601974
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -1582,9 +1582,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.4963085353374481,
+            "positive": 0.4833349287509918,
+            "negative": 0.020356547087430954
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -1601,9 +1601,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.37194693088531494,
+            "positive": 0.02251484990119934,
+            "negative": 0.6055382490158081
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -1620,17 +1620,17 @@
         "replies": 1,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 1.688532293719404e-05,
-            "positive": 2.0996665582060814e-06,
-            "negative": 2.3220893486457714e-05
+            "neutral": 0.4000703692436218,
+            "positive": 0.049748197197914124,
+            "negative": 0.5501814484596252
         },
-        "normalized_likes": 5.882352941176471e-05,
+        "normalized_likes": 5.882352941176471e-5,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 8.908249417232885e-10,
-            "positive": 1.1077284967006349e-10,
-            "negative": 1.2250728732745154e-09
+            "neutral": 2.110665367149255e-5,
+            "positive": 2.6245831977576017e-6,
+            "negative": 2.902611685807214e-5
         }
     },
     "tweet_87": {
@@ -1639,9 +1639,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.06898888200521469,
+            "positive": 0.9120519757270813,
+            "negative": 0.01895911619067192
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -1658,9 +1658,9 @@
         "replies": 0,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 0.0,
-            "positive": 0.0,
-            "negative": 0.0
+            "neutral": 0.7554543614387512,
+            "positive": 0.05879557877779007,
+            "negative": 0.18575012683868408
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.0,
@@ -1677,17 +1677,17 @@
         "replies": 0,
         "retweets": 3,
         "sentiment_score": {
-            "neutral": 3.9130899690310736e-05,
-            "positive": 0.0005173212456440223,
-            "negative": 1.0753722227561997e-05
+            "neutral": 0.06898888200521469,
+            "positive": 0.9120519757270813,
+            "negative": 0.01895911619067192
         },
-        "normalized_likes": 2.3529411764705884e-05,
+        "normalized_likes": 2.3529411764705884e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00046875,
         "weighted_sentiment_score": {
-            "neutral": 1.1097638243053566e-08,
-            "positive": 1.4671382679772015e-07,
-            "negative": 3.049787252331369e-09
+            "neutral": 1.956544984515537e-5,
+            "positive": 0.0002586606228220112,
+            "negative": 5.376861113780999e-6
         }
     },
     "tweet_90": {
@@ -1696,17 +1696,17 @@
         "replies": 0,
         "retweets": 1,
         "sentiment_score": {
-            "neutral": 4.584209755008273e-06,
-            "positive": 6.060451253415907e-05,
-            "negative": 1.2598053898169274e-06
+            "neutral": 0.06898888200521469,
+            "positive": 0.9120519757270813,
+            "negative": 0.01895911619067192
         },
-        "normalized_likes": 1.1764705882352942e-05,
+        "normalized_likes": 1.1764705882352942e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00015625,
         "weighted_sentiment_score": {
-            "neutral": 4.3516285247909416e-10,
-            "positive": 5.752972476588189e-09,
-            "negative": 1.1958887928335687e-10
+            "neutral": 6.548871078583248e-6,
+            "positive": 8.657787504879867e-5,
+            "negative": 1.7997219854527536e-6
         }
     },
     "tweet_91": {
@@ -1715,17 +1715,17 @@
         "replies": 464,
         "retweets": 354,
         "sentiment_score": {
-            "neutral": 30.62720805431184,
-            "positive": 38.08365577471729,
-            "negative": 0.7622560354486971
+            "neutral": 0.44084978103637695,
+            "positive": 0.5481783151626587,
+            "negative": 0.010971956886351109
         },
         "normalized_likes": 0.08705882352941176,
         "normalized_replies": 0.0725,
         "normalized_retweets": 0.0553125,
         "weighted_sentiment_score": {
-            "neutral": 1.949219112603648,
-            "positive": 2.4237726658681287,
-            "negative": 0.04851255231489851
+            "neutral": 0.028057171174708535,
+            "positive": 0.03488792210948818,
+            "negative": 0.0006982924472780295
         }
     },
     "tweet_92": {
@@ -1734,17 +1734,17 @@
         "replies": 1,
         "retweets": 0,
         "sentiment_score": {
-            "neutral": 6.234285654500127e-06,
-            "positive": 1.0735895717516542e-06,
-            "negative": 6.7546245642006395e-06
+            "neutral": 0.4433269798755646,
+            "positive": 0.07634414732456207,
+            "negative": 0.48032885789871216
         },
         "normalized_likes": 0.0,
         "normalized_replies": 0.00015625,
         "normalized_retweets": 0.0,
         "weighted_sentiment_score": {
-            "neutral": 2.9223214005469344e-10,
-            "positive": 5.032451117585879e-11,
-            "negative": 3.1662302644690497e-10
+            "neutral": 2.0780952181667088e-5,
+            "positive": 3.578631905838847e-6,
+            "negative": 2.2515415214002134e-5
         }
     },
     "tweet_93": {
@@ -1753,17 +1753,17 @@
         "replies": 0,
         "retweets": 1,
         "sentiment_score": {
-            "neutral": 2.736119624325896e-05,
-            "positive": 5.754487013334737e-06,
-            "negative": 9.946520107195658e-05
+            "neutral": 0.20637361705303192,
+            "positive": 0.04340359568595886,
+            "negative": 0.7502228021621704
         },
-        "normalized_likes": 8.23529411764706e-05,
+        "normalized_likes": 8.23529411764706e-5,
         "normalized_replies": 0.0,
         "normalized_retweets": 0.00015625,
         "weighted_sentiment_score": {
-            "neutral": 2.7904396462794248e-09,
-            "positive": 5.868730505511236e-10,
-            "negative": 1.0143987785794396e-08
+            "neutral": 2.1047074033276122e-5,
+            "positive": 4.426528471795951e-6,
+            "negative": 7.651169313227429e-5
         }
     }
 }

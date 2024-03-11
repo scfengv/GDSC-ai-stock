@@ -16,7 +16,6 @@ for data_folder in data_folder_list:
                         + tweet_info["normalized_replies"] * weights["replies"]
                         + tweet_info["normalized_retweets"] * weights["retweets"]
                     )
-                    print(weighted_sum)
                     for label, score in tweet_info["sentiment_score"].items():
                         weighted_sentiment_score[label] = (
                             tweet_info["sentiment_score"][label] * weighted_sum
