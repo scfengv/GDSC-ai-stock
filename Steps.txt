@@ -1,1 +1,0 @@
-Crawl the data -> Sentiment analyze -> Normalize -> Weight -> Sigmoid
