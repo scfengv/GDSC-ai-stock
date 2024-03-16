@@ -160,7 +160,7 @@ tuner = RandomSearch(
         max_trials = 10,
         executions_per_trial = 1,
         overwrite = True
-        )
+)
 
 tuner.search(
         x = x_train,
@@ -181,6 +181,8 @@ predicted_scaled = best_model.predict(x_new)
 predicted = scaler.inverse_transform(predicted_scaled)
 print(f'Predicted Close_TSLA for the next day: {predicted[0][0]}')
 
+### Predict for testing data
+
 predictions = best_model.predict(x_test)
 predictions = scaler.inverse_transform(predictions)
 
@@ -197,3 +199,13 @@ plt.plot(valid[['Close_TSLA', 'Predictions']])
 plt.legend(['Train', 'Val', 'Predictions'], loc = 'lower right')
 plt.show()
 
+### Simply predict for next 7 day
+
+result = []
+for i in range(7):
+    predicted_scaled = best_model.predict(x_new)
+    x_new[0, 0, 0] = predicted_scaled[0, 0]
+    predicted = scaler.inverse_transform(predicted_scaled)
+    result.append(predicted[0, 0])
+
+result
