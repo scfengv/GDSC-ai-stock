@@ -7,19 +7,27 @@ Original file is located at
     https://colab.research.google.com/drive/1y4soy--EofXHK_7oZgnk0bVigvZLl4jC
 """
 
+!pip install scikeras
+!pip install keras-tuner
+
 import os
+import keras
 import warnings
 import numpy as np
 import pandas as pd
 import yfinance as yf
+import keras_tuner as kt
 from sklearn import metrics
 import matplotlib.pyplot as plt
 from keras.models import Sequential
 from pandas_datareader import data as pdr
 from keras.callbacks import EarlyStopping
+from keras_tuner.tuners import RandomSearch
+from scikeras.wrappers import KerasRegressor
 from keras.layers import Dense, LSTM, Dropout
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.linear_model import LogisticRegression
+from keras_tuner.engine.hyperparameters import HyperParameters
 from sklearn.model_selection import GridSearchCV, train_test_split
 
 # Commented out IPython magic to ensure Python compatibility.
@@ -95,8 +103,6 @@ df.dropna(inplace = True)
 features = df[["Close_TSLA", "Volume", "Close_VIX", "Gross Margin (YoY%)", "Operating Margin (YoY%)", "Quick Ratio (YoY%)", "EPS Growth (USD)", "Open_Close", "High_Low"]]
 target = df['Target']
 
-features
-
 scaler = MinMaxScaler()
 features_scaled = scaler.fit_transform(features)
 target_scaled = scaler.fit_transform(target.values.reshape(-1, 1))
@@ -114,24 +120,68 @@ x_test = np.reshape(x_test, (x_test.shape[0], 1, x_test.shape[1]))
 
 x_train.shape, x_test.shape
 
-model = Sequential()
-model.add(LSTM(128, return_sequences = True, input_shape = (x_train.shape[1], x_train.shape[2])))
-model.add(LSTM(64, return_sequences = False))
-model.add(Dense(25))
-model.add(Dense(1))
-model.compile(loss = 'mean_squared_error',optimizer = 'adam')
+"""### RandomSearch"""
 
-history = model.fit(x_train, y_train, batch_size = 8, epochs = 10)
+def build_model(hp):
+    model = Sequential()
 
-loss = model.evaluate(x_test, y_test)
-print(f'Mean Squared Error on Test Data: {round(loss, 4)}')
+    model.add(
+        LSTM(hp.Int('input_unit', min_value = 32, max_value = 512, step = 32), return_sequences = True, input_shape = (x_train.shape[1], x_train.shape[2]))
+        )
+
+    for i in range(hp.Int('n_layers', 1, 4)):
+        model.add(
+            LSTM(hp.Int(f'lstm_{i}_units', min_value = 32, max_value = 512, step = 32), return_sequences = True)
+            )
+
+    model.add(
+        Dropout(hp.Float('Dropout_rate_1', min_value = 0, max_value = 0.5, step = 0.1))
+        )
+
+    model.add(
+        LSTM(hp.Int('layer_2_neurons', min_value = 32, max_value = 512, step = 32))
+        )
+
+    model.add(
+        Dropout(hp.Float('Dropout_rate_2', min_value = 0, max_value = 0.5, step = 0.1))
+        )
+
+    # model.add(Dense(25))
+    model.add(Dense(hp.Int('dense_1_units', min_value = 32, max_value = 512, step = 32)))
+    model.add(Dense(1))
+
+    model.compile(loss = 'mean_squared_error', optimizer = 'adam', metrics = ['mse'])
+
+    return model
+
+tuner = RandomSearch(
+        build_model,
+        objective = 'val_mse',
+        max_trials = 10,
+        executions_per_trial = 1,
+        overwrite = True
+        )
+
+tuner.search(
+        x = x_train,
+        y = y_train,
+        epochs = 20,
+        batch_size = 32,
+        validation_data = (x_test, y_test)
+)
+
+best_model = tuner.get_best_models(num_models = 1)[0]
+best_model.summary()
+
+loss = best_model.evaluate(x_test, y_test)
+print(f'Mean Squared Error on Test Data: {round(loss[0], 4)}')
 
 x_new = np.reshape(features_scaled[-1], (1, 1, features_scaled.shape[1]))
-predicted_scaled = model.predict(x_new)
+predicted_scaled = best_model.predict(x_new)
 predicted = scaler.inverse_transform(predicted_scaled)
 print(f'Predicted Close_TSLA for the next day: {predicted[0][0]}')
 
-predictions = model.predict(x_test)
+predictions = best_model.predict(x_test)
 predictions = scaler.inverse_transform(predictions)
 
 train = df[['Close_TSLA']][:num_train]
