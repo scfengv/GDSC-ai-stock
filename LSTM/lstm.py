@@ -18,6 +18,7 @@ import pandas as pd
 import yfinance as yf
 import keras_tuner as kt
 from sklearn import metrics
+from pickle import dump,load
 import matplotlib.pyplot as plt
 from keras.models import Sequential
 from pandas_datareader import data as pdr
@@ -26,6 +27,7 @@ from keras_tuner.tuners import RandomSearch
 from scikeras.wrappers import KerasRegressor
 from keras.layers import Dense, LSTM, Dropout
 from sklearn.preprocessing import MinMaxScaler
+from tensorflow.keras.models import save_model
 from sklearn.linear_model import LogisticRegression
 from keras_tuner.engine.hyperparameters import HyperParameters
 from sklearn.model_selection import GridSearchCV, train_test_split
@@ -103,9 +105,10 @@ df.dropna(inplace = True)
 features = df[["Close_TSLA", "Volume", "Close_VIX", "Gross Margin (YoY%)", "Operating Margin (YoY%)", "Quick Ratio (YoY%)", "EPS Growth (USD)", "Open_Close", "High_Low"]]
 target = df['Target']
 
-scaler = MinMaxScaler()
-features_scaled = scaler.fit_transform(features)
-target_scaled = scaler.fit_transform(target.values.reshape(-1, 1))
+f_scaler = MinMaxScaler()
+t_scaler = MinMaxScaler()
+features_scaled = f_scaler.fit_transform(features)
+target_scaled = t_scaler.fit_transform(target.values.reshape(-1, 1))
 
 num_train = int(len(features_scaled) * 0.9)
 
@@ -146,7 +149,6 @@ def build_model(hp):
         Dropout(hp.Float('Dropout_rate_2', min_value = 0, max_value = 0.5, step = 0.1))
         )
 
-    # model.add(Dense(25))
     model.add(Dense(hp.Int('dense_1_units', min_value = 32, max_value = 512, step = 32)))
     model.add(Dense(1))
 
@@ -157,9 +159,10 @@ def build_model(hp):
 tuner = RandomSearch(
         build_model,
         objective = 'val_mse',
-        max_trials = 10,
+        max_trials = 20,
         executions_per_trial = 1,
-        overwrite = True
+        overwrite = True,
+        project_name = "LSTM_0316v"
 )
 
 tuner.search(
@@ -178,13 +181,13 @@ print(f'Mean Squared Error on Test Data: {round(loss[0], 4)}')
 
 x_new = np.reshape(features_scaled[-1], (1, 1, features_scaled.shape[1]))
 predicted_scaled = best_model.predict(x_new)
-predicted = scaler.inverse_transform(predicted_scaled)
+predicted = t_scaler.inverse_transform(predicted_scaled)
 print(f'Predicted Close_TSLA for the next day: {predicted[0][0]}')
 
 ### Predict for testing data
 
 predictions = best_model.predict(x_test)
-predictions = scaler.inverse_transform(predictions)
+predictions = t_scaler.inverse_transform(predictions)
 
 train = df[['Close_TSLA']][:num_train]
 valid = df[['Close_TSLA']][num_train:]
@@ -205,7 +208,11 @@ result = []
 for i in range(7):
     predicted_scaled = best_model.predict(x_new)
     x_new[0, 0, 0] = predicted_scaled[0, 0]
-    predicted = scaler.inverse_transform(predicted_scaled)
+    predicted = t_scaler.inverse_transform(predicted_scaled)
     result.append(predicted[0, 0])
 
 result
+
+save_model(best_model, "GDSC_TSLA_LSTM.h5")
+dump(f_scaler, open('Features_Scaler.pkl', 'wb'))
+dump(t_scaler, open('Target_Scaler.pkl', 'wb'))
