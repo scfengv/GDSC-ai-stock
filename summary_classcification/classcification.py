@@ -34,9 +34,10 @@ def output_json(classified_texts):
         json.dump(classified_texts, f, ensure_ascii=False, indent=4)
 
 def main():
-    directory = '/Users/xuzhiwei/Desktop/vscode/summary_classcification'  # 指定包含檔案的目錄路徑
+    directory = '/Users/xuzhiwei/GDSC-ai-stock/summary_classcification'  # 指定包含檔案的目錄路徑
     process_files(directory)
 
 if __name__ == '__main__':
-    keywords = ['Automobiles', 'Energy', 'Full Self-Driving']
+    keywords = [ 'battery' ,'electric vehicle', 'Power', 'Full Self-Driving', 'Supercharger network', 'Destination charging',
+                'location network', 'Insurance services', 'Autopilot', 'North American Charging Standard']
     main()
