@@ -8,20 +8,19 @@ def process_files(directory):
 
     # 指定目錄，處理每個檔案
     for filename in os.listdir(directory):
-        if filename.endswith(".json"):
+        if filename.endswith(".txt"):
             filepath = os.path.join(directory, filename)
             with open(filepath, 'r', encoding='utf-8') as file:
                 for line in file:
-                    if "summary_text" in line:
-                        classified = False
                         for keyword in keywords:
                             if keyword in line:
                                 classified_texts[keyword].append(line.strip())
-                                classified = True
+                                classified = False
                                 break
-                        if not classified:
-                            most_similar_keyword = max(keywords, key=lambda x: similar(line, x))
-                            classified_texts[most_similar_keyword].append(line.strip())
+                            if not classified:
+                                most_similar_keyword = max(keywords, key=lambda x: similar(line, x))
+                                classified_texts[most_similar_keyword].append(line.strip())
+                                classified = False
 
     # 輸出分類結果
     output_json(classified_texts)
@@ -29,8 +28,9 @@ def process_files(directory):
 def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
-def output_json(classified_texts):
-    with open('classify.json', 'w', encoding='utf-8') as f:
+def output_json(classified_texts, idx):
+    filename = f'classify{idx}.json'
+    with open(filename , 'w', encoding='utf-8') as f:
         json.dump(classified_texts, f, ensure_ascii=False, indent=4)
 
 def main():
