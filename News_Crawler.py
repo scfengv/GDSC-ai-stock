@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 ## Yahoo Finance
 
 options = Options()
-options.add_argument('--headless')
+# options.add_argument('--headless')
 options.add_argument('window-size = 800x600')
 prefs = {"profile.managed_default_content_settings.images": 2}
 options.add_experimental_option("prefs", prefs)
@@ -36,7 +36,7 @@ for i in range(len(news_div)):
 
 driver.quit()
 
-## CNBC
+# CNBC
 
 options = Options()
 options.add_argument('--headless')
