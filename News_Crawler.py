@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 ## Yahoo Finance
 
 options = Options()
-# options.add_argument('--headless')
+options.add_argument('--headless')
 options.add_argument('window-size = 800x600')
 prefs = {"profile.managed_default_content_settings.images": 2}
 options.add_experimental_option("prefs", prefs)
@@ -28,9 +28,9 @@ for i in range(len(news_div)):
 
     ## "Cf" 下面有兩種 Class_
     try: 
-        title = news_div[i].find("div", class_ = "Py(14px) Pos(r)").find("div", class_ = "Cf").find("div", class_ =  ("Ov(h) Pend(44px) Pstart(25px)")).find("h3", class_ = "Mb(5px)").find("a").text
+        title = news_div[i].find("h3", class_ = "Mb(5px)").find("a").text
     except:
-        title = news_div[i].find("div", class_ = "Py(14px) Pos(r)").find("div", class_ = "Cf").find("div", class_ =  ("Ov(h) Pend(14%) Pend(44px)--sm1024")).find("h3", class_ = "Mb(5px)").find("a").text
+        continue
     title = str(title)
     title_list.append(title)
 
@@ -64,8 +64,7 @@ for i in range(len(news_div)):
     except:
         continue
     
-title_list = list(dict.fromkeys(title_list))
-
 driver.quit()
 
+title_list = list(dict.fromkeys(title_list))
 print(title_list)
