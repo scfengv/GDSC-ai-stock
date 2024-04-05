@@ -19,7 +19,7 @@ def pdf_to_text(pdf_path):
 
 #切割
 def split_text_by_operator(text):
-    paragraphs = text.split('Operator')
+    paragraphs = text.split('Martin Viecha - Tesla, Inc. - Senior Director for IR')
     # Remove leading and trailing whitespace from each paragraph
     paragraphs = [p.strip() for p in paragraphs]
     # Remove empty paragraphs
@@ -29,13 +29,13 @@ def split_text_by_operator(text):
     return numbered_paragraphs
 
 def main():
-    pdf_path = "2019 Q4.pdf"
+    pdf_path = "/Users/xuzhiwei/GDSC-ai-stock/summary_classcification/2020/Q4 2020 Tesla Inc Earnings Call Transcript.pdf"
     filename = os.path.basename(pdf_path)
     text = pdf_to_text(pdf_path)
     paragraphs = split_text_by_operator(text)
     # Add a dictionary containing the filename at the beginning of the list
     paragraphs.insert(0, {"filename": filename})
-    with open("2019Q4_split.json", "w") as f:
+    with open("2020Q4_split.json", "w") as f:
         json.dump(paragraphs, f, indent=4)
 
 if __name__ == "__main__":

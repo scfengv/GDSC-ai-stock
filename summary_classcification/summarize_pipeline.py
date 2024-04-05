@@ -1,20 +1,15 @@
-
 from transformers import pipeline
 import json
-import torch
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
  
-print("meow1")
 tokenizer = AutoTokenizer.from_pretrained("facebook/bart-large-cnn")
-print("meow2")
 model = AutoModelForSeq2SeqLM.from_pretrained("facebook/bart-large-cnn")
-print("meow3")
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
-output_filename = "2019Q3_split_paragraphs_summarize.json"
+output_filename = '2020Q4_split_paragraphs_summarize.json'
 processed_data = []
 
-with open("2019Q3_split_paragraphs.json", 'r', encoding='utf-8') as f:
+with open('2020Q4_split_paragraphs.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 for item in data:
@@ -39,7 +34,7 @@ for item in data:
             })
 
 with open(output_filename, 'w', encoding='utf-8') as f:
-    json.dump(processed_data, f, indent=4)
+    json.dump(processed_data, f, ensure_ascii=False, indent=4)
 
 print("finish!", output_filename)
 

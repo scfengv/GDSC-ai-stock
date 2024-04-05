@@ -11,14 +11,14 @@ def preprocess(text):
         new_text.append(t)
     return " ".join(new_text)
 
-MODEL = "austinmw/distilbert-base-uncased-finetuned-tweets-sentiment"
+MODEL = "cardiffnlp/twitter-roberta-base-sentiment-latest"
 tokenizer = AutoTokenizer.from_pretrained(MODEL)
 model = AutoModelForSequenceClassification.from_pretrained(MODEL)
 
 sentiment_task = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer)
 
 input_file = "merged2020_data.json"
-output_file = "2020_sentiment(distilbert).json"
+output_file = "2020_sentiment(twitter).json"
 
 with open(input_file, "r", encoding="utf-8") as file:
     data = json.load(file)
@@ -33,11 +33,11 @@ for item in data:
 
             summary_text = preprocess(summary_text)
             encoded_input = tokenizer(summary_text, return_tensors='pt')
-       
+
             output = model(**encoded_input)
             scores = output[0][0].detach().numpy()
             scores = softmax(scores)
-   
+
             sentiment_dict = {}
             for label, score in zip(["negative", "neutral", "positive"], scores):
                 sentiment_dict[label] = float(score)

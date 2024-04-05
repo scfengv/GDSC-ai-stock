@@ -1,7 +1,7 @@
 import json
 
-input_file = "2019Q4_split.json"
-output_file = "2019Q4_split_paragraphs.json"
+input_file = "2020Q4_split.json"
+output_file = "2020Q4_split_paragraphs.json"
 
 
 def split_text_averagely(text, max_words):
@@ -40,3 +40,4 @@ with open(output_file, "w") as file:
     json.dump(output_data, file, indent=4)
 
 print("finish", output_file)
+
