@@ -9,6 +9,7 @@ import numpy as np
 import pandas as pd
 
 from torch.utils.data import Dataset
+from transformers import TextClassificationPipeline
 from sklearn.model_selection import train_test_split
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trainer, TrainingArguments
 
@@ -89,11 +90,16 @@ trainer = Trainer(
 )
 
 trainer.train()
+# trainer.evaluate()
+# trainer.predict()
 
 model_path = "./MODEL_PATH"
 model.save_pretrained(model_path)
 tokenizer.save_pretrained(model_path)
 
-## Load the model ##
+## Load the model & Predict ##
 # tokenizer = AutoTokenizer.from_pretrained(model_path)
 # model = AutoModelForSequenceClassification.from_pretrained(model_path).to(device)
+# pipe = TextClassificationPipeline(model = model, tokenizer = tokenizer, return_all_scores = True)
+# text = str(input())
+# pipe(text)
