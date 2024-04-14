@@ -1,4 +1,6 @@
+import pandas as pd
 from bs4 import BeautifulSoup
+from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
@@ -67,4 +69,10 @@ for i in range(len(news_div)):
 driver.quit()
 
 title_list = list(dict.fromkeys(title_list))
-print(title_list)
+
+df = pd.DataFrame({
+    "Date": datetime.now().strftime('%Y-%m-%d'),
+    "News_Title": title_list
+})
+
+df.to_csv(f"News_Title_{datetime.now().strftime('%Y-%m-%d')}.csv")
