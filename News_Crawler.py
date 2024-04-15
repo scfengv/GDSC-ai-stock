@@ -17,20 +17,20 @@ options.add_experimental_option("prefs", prefs)
 
 driver = webdriver.Chrome(options = options)
 
-url = fr"https://finance.yahoo.com/quote/TSLA?.tsrc=fin-srch"
+url = fr"https://finance.yahoo.com/quote/TSLA/news"
 driver.get(url)
 page_source = driver.page_source
 soup = BeautifulSoup(page_source, 'html.parser')
 
 title_list = []
 
-news_div = soup.find("div", id = "quoteNewsStream-0-Stream", class_ = "tdv2-applet-stream Bdc(#e2e2e6) Pos(r) Z(1)").find("ul", class_ = "My(0) P(0) Wow(bw) Ov(h)").find_all("li", class_ = "js-stream-content Pos(r)")
+news_div = soup.find("div", class_ = "filtered-stories x-large svelte-7rcxn rulesBetween infiniteScroll").find_all("li", class_ = "stream-item svelte-7rcxn")
 
 for i in range(len(news_div)):
 
     ## "Cf" 下面有兩種 Class_
     try: 
-        title = news_div[i].find("h3", class_ = "Mb(5px)").find("a").text
+        title = news_div[i].find("h3", class_ = "clamp svelte-13zydns").text
     except:
         continue
     title = str(title)
