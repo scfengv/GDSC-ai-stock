@@ -1,13 +1,10 @@
 import time
+import find_csv
 import pandas as pd
 
-from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
-from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support import expected_conditions as EC
 
@@ -28,11 +25,13 @@ driver.get(url)
 wait = WebDriverWait(driver, 60)
 search_results = wait.until(EC.visibility_of_element_located((By.CLASS_NAME, "SearchResults-searchResultsContainer")))
 
-target_count = 17820
-current_count  = 0
+path = "/Users/shenchingfeng/GitHub/GDSC-ai-stock/News_History"
+conti = True
 output_count = 0
+current_count = 0
+target_count = 17820
 
-while (current_count < target_count):
+while conti:
 
     block = driver.find_elements(By.CLASS_NAME, "SearchResult-searchResultContent")
 
@@ -49,7 +48,6 @@ while (current_count < target_count):
                 title_list.append(title)
                 date_list.append(date)
                 current_count += 1
-                new_data_found = True
 
                 if current_count % 1000 == 0:
 
@@ -58,7 +56,7 @@ while (current_count < target_count):
                         "News Title": title_list
                     })
 
-                    df.to_csv(f"News_history_{output_count}.csv", index = False)
+                    df.to_csv(fr"{path}/News_history_{output_count}.csv", index = False)
                     output_count += 1
                     title_list.clear()
                     date_list.clear()
@@ -66,9 +64,11 @@ while (current_count < target_count):
         except Exception as e:
             print(e)
             continue
-
-    if not new_data_found:
-        break
+    
+    result = find_csv(path)
+    
+    if len(result) >= target_count:
+        conti = False
 
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     time.sleep(1)
