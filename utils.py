@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-def combine_csv_files(directory):
+def find_csv(directory):
 
     df_list = []
     for root, _, files in os.walk(directory):
@@ -12,4 +12,4 @@ def combine_csv_files(directory):
                 df_list.append(df)
     
     if df_list:
-        return pd.concat(df_list, ignore_index = True).drop_duplicates(subset = ["News Title"], inplace = True)
+        return pd.concat(df_list, ignore_index = True)
