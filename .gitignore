@@ -6,3 +6,6 @@ BERT_fine_tuned_1/
 temp/
 training_set.csv
 test.ipynb
+My_model/
+logs/
+results/
