@@ -29,7 +29,7 @@ path = "/Users/shenchingfeng/GitHub/GDSC-ai-stock/News_History"
 conti = True
 output_count = 0
 current_count = 0
-target_count = 17820
+target_count = 17859
 
 while conti:
 
