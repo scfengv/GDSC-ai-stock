@@ -3,6 +3,7 @@
 Chat_SentimentAnalysis.ipynb
 .ipynb_checkpoints/
 BERT_fine_tuned_1/
+BERT_fine_tuned_2/
 temp/
 training_set.csv
 test.ipynb
