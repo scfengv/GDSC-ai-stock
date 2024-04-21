@@ -75,4 +75,4 @@ df = pd.DataFrame({
     "News_Title": title_list
 })
 
-df.to_csv(f"News_Title_{datetime.now().strftime('%Y-%m-%d')}.csv")
+df.to_csv(f"News_History/News_Title_{datetime.now().strftime('%Y-%m-%d')}.csv")
