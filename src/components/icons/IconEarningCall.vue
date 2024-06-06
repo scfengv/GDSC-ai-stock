@@ -1,0 +1,15 @@
+<template>
+    <!-- src: https://fonts.google.com/icons?selected=Material+Symbols+Outlined:finance:FILL@0;wght@400;GRAD@0;opsz@24&icon.size=24&icon.color=%23e8eaed -->
+
+    <svg
+        xmlns="http://www.w3.org/2000/svg"
+        height="24px"
+        viewBox="0 -960 960 960"
+        width="24px"
+        fill="#e8eaed"
+    >
+        <path
+            d="M200-120q-33 0-56.5-23.5T120-200v-640h80v640h640v80H200Zm40-120v-360h160v360H240Zm200 0v-560h160v560H440Zm200 0v-200h160v200H640Z"
+        />
+    </svg>
+</template>
