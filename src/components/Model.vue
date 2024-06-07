@@ -1,39 +1,43 @@
 <template>
+    <h1 class="text-2xl font-bold pt-4 pb-3 text-center text-white">
+        {{ model.modelGroup }}
+    </h1>
     <section class="w-[94vw] mx-auto">
-        <h1 class="text-2xl font-bold mb-2 pl-2">
-            {{ model.modelGroup }}
-        </h1>
-        <div class="bg-[#4a4a4a] rounded-lg px-4 py-2 mb-2">
+        <!-- <div class="bg-[#4a4a4a] rounded-lg px-4 py-2 mb-2">
             <h2 class="text-white">Model Name: {{ model.modelName }}</h2>
             <p class="text-white">Model Founder: {{ model.modelFounder }}</p>
+        </div> -->
+
+        <div class="mb-2">
+            <h2 class="text-white font-bold text-xl my-3">Inference API</h2>
+            <div class="grid grid-rows-[repeat(2,auto)] gap-y-3 bg-[#4a4a4a] rounded-lg p-4">
+                <textarea
+                    ref="textInference"
+                    class="border border-white/5 bg-[#5b5b5b] px-3 py-2 min-h-24 rounded-lg text-white"
+                ></textarea>
+                <button @click="modelInference" class="bg-[#1387f8] rounded-lg h-10 text-white">
+                    Compute
+                </button>
+            </div>
         </div>
 
-        <div class="grid grid-rows-[repeat(2,auto)] gap-y-4 bg-[#4a4a4a] rounded-lg p-4 mb-2">
-            <textarea
-                ref="textInference"
-                class="border border-white/5 bg-[#5b5b5b] px-3 py-2 min-h-24 rounded-lg text-white"
-            ></textarea>
-            <button @click="modelInference" class="bg-[#1387f8] rounded-lg h-10 text-white">
-                Compute
-            </button>
-        </div>
-
-        <div class="bg-[#4a4a4a] rounded-lg px-4 py-2 mb-2">
+        <div
+            v-show="model.output"
+            class="bg-[#4a4a4a] rounded-lg px-4 py-3 mb-2 grid grid-rows-3 gap-y-1"
+        >
             <div
                 v-for="(output, index) in model.output"
                 :key="output.label"
-                class="grid grid-cols-2"
+                class="w-full grid grid-cols-2 justify-between col-span-2"
             >
-                <div class="w-full grid grid-cols-2 justify-between col-span-2">
-                    <div class="text-white">{{ output.label }}</div>
-                    <CountTo
-                        :start-val="0"
-                        :end-val="output.score"
-                        :duration="1000"
-                        :decimals="3"
-                        class="text-right text-white"
-                    ></CountTo>
-                </div>
+                <div class="text-white">{{ output.label }}</div>
+                <CountTo
+                    :start-val="0"
+                    :end-val="output.score"
+                    :duration="1000"
+                    :decimals="3"
+                    class="text-right text-white"
+                ></CountTo>
             </div>
         </div>
     </section>
@@ -59,7 +63,6 @@ export default {
             }
         }
     },
-    created() {},
     mounted() {
         const isNews = this.$route.path.includes('/News')
         const isTweets = this.$route.path.includes('/Tweets')

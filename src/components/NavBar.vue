@@ -2,14 +2,18 @@
     <nav
         class="fixed md:static top-0 left-0 mb-2 z-20 md:w-[100vw] md:border-b md:border-black/5 md:border-solid"
     >
-        <button class="h-12 w-12 grid place-items-center ml-3 md:hidden" @click="toggleMenu">
+        <button
+            class="bg-[rgba(63,63,63,0.9)] rounded-lg h-12 w-12 grid place-items-center ml-3 mt-2 md:hidden"
+            @click="toggleMenu"
+        >
             <IconMenu></IconMenu>
         </button>
+
         <div
             class="md:static md:flex md:justify-center fixed z-20 top-0 left-0 h-screen md:h-auto md:translate-x-0 -translate-x-full transition-transform bg-[#2f2f2f] pl-3 pr-5"
             :class="{ 'translate-x-0': isMenuVisible }"
         >
-            <button class="md:hidden h-12 w-12 grid place-items-center" @click="toggleMenu">
+            <button class="md:hidden h-12 w-12 grid place-items-center mt-2" @click="toggleMenu">
                 <IconMenu></IconMenu>
             </button>
             <router-link
@@ -18,8 +22,9 @@
                 :to="{ path: link.path }"
                 class="block px-5 py-3 font-semibold rounded-xl min-w-48 text-white md:text-center"
                 :class="['hover:bg-[#5f5f5f]']"
-                >{{ link.text }}</router-link
             >
+                {{ link.text }}
+            </router-link>
         </div>
     </nav>
     <div

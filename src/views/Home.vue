@@ -1,9 +1,9 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
-    <div class="w-[94vw] mx-auto mb-16">
+    <div class="mx-2 mb-16">
         <TimePriceChart></TimePriceChart>
     </div>
-    <div class="w-[94vw] mx-auto mb-4">
+    <div class="mx-2 mb-4">
         <ScrollReveal v-for="intro in introes" :key="intro.id">
             <section class="rounded-lg px-4 py-2 mb-6">
                 <div class="flex mb-3">

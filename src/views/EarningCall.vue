@@ -1,113 +1,109 @@
 <template>
     <Model></Model>
-    <!-- <ModelFlowChart /> -->
     <ProcessFlow :processes="processes"></ProcessFlow>
 </template>
 
 <script>
 import Model from '@/components/Model.vue'
 import ProcessFlow from '@/components/ProcessFlow.vue'
-// import ModelFlowChart from '@/components/ModelFlowChart.vue'
 
 export default {
     components: {
         Model,
         ProcessFlow
-        // ModelFlowChart
     },
     beforeCreate() {
         this.processes = [
-            // {
-            //     id: 'STEP1',
-            //     title: '',
-            //     text: 'PDF to .txt, clean, spilt, output .json\nsplit to paragraphs\nsummary using "facebook/bart-large-cnn"',
-            //     files: [
-            //         '1_pdf_split.py',
-            //         '2_Paragraphs.py',
-            //         '3_summary.py',
-            //         '4_merge_json.py',
-            //         '5_json_to_csv.py'
-            //     ]
-            // },
             {
                 id: 'STEP1',
-                title: '',
-                text: '這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述',
-                files: [
-                    '1_pdf_split.py',
-                    'https://github.com/scfengv/GDSC-ai-stock/tree/Earningscall/Data/split'
+                title: 'Raw Data',
+                text: '原始 15 ~ 23 年 Tesla earningscall 的資料集',
+                sources: [
+                    {
+                        name: 'EarningsCall raw data',
+                        url: 'https://github.com/scfengv/GDSC-ai-stock/tree/Earningscall/PDF'
+                    }
                 ]
             },
             {
                 id: 'STEP2',
-                title: '',
-                text: '這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述',
-                files: [
-                    '2_Paragraphs.py',
-                    'https://github.com/scfengv/GDSC-ai-stock/tree/Earningscall/Data/Paragraphs'
+                title: 'Preprocessing',
+                text: '進行資料預處理，根據 Topic 切割 Raw data 、去除無意義詞彙、去除 Stop word 。',
+                sources: [
+                    {
+                        name: 'Preprocessing',
+                        url: 'https://github.com/scfengv/GDSC-ai-stock/blob/Earningscall/PDF_Paragraphs.py'
+                    }
                 ]
             },
             {
                 id: 'STEP3',
-                title: '',
-                text: '這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述',
-                files: [
-                    '3_summary.py',
-                    'https://github.com/scfengv/GDSC-ai-stock/tree/Earningscall/Data/summary'
+                title: 'Summary',
+                text: '使用facebook/bart-large-cnn 模型進行summary',
+                sources: [
+                    {
+                        name: 'Summary',
+                        url: 'https://github.com/scfengv/GDSC-ai-stock/blob/Earningscall/Summary.py'
+                    }
                 ]
             },
             {
                 id: 'STEP4',
-                title: '',
-                text: '這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述',
-                files: [
-                    '4_merge_json.py',
-                    'https://github.com/scfengv/GDSC-ai-stock/tree/Earningscall/Data/merge'
+                title: 'Labelled Data',
+                text: '利用roberta和Distilbert這兩個hugging face上的pretrained model做資料情感分析，對raw data進行標記',
+                sources: [
+                    {
+                        name: 'Pretrained model 1',
+                        url: 'https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest?text=Covid+cases+are+increasing+fast%21'
+                    },
+                    {
+                        name: 'Pretrained model 2',
+                        url: 'https://huggingface.co/austinmw/distilbert-base-uncased-finetuned-tweets-sentiment?text=If+you+reserved+a+%23Tesla+Founders+Series+Roadster+when+they+were+first+announced+on+Nov+17th%2C+2017+for+%24250k+that+same+%24250k+invested+in+%24TSLA+would+be+3%2C967.62+shares+%28%2463.01+on+Nov+17th+2017%29.+Those+shares+would+be+worth+%242%2C756%2C623.02+as+of+today%27s+%24TSLA+close+at+%24694.78'
+                    }
                 ]
             },
             {
                 id: 'STEP5',
-                title: '',
-                text: '這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述',
-                files: ['5_json_to_csv.py']
+                title: 'Output Dataset',
+                text: '比對兩組label score，將相同label的資料取出，作為dataset',
+                sources: [
+                    {
+                        name: 'Compare Label',
+                        url: 'https://github.com/scfengv/GDSC-ai-stock/blob/Earningscall/Compare.ipynb'
+                    }
+                ]
             },
             {
                 id: 'STEP6',
-                title: '',
-                text: '這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述',
-                files: [
-                    '6_sentiment.ipynb',
-                    'https://github.com/scfengv/GDSC-ai-stock/tree/Earningscall/Data/sentiment'
+                title: 'Category',
+                text: '將dataset中的資料進行category',
+                sources: [
+                    {
+                        name: 'Category',
+                        url: 'https://github.com/scfengv/GDSC-ai-stock/blob/Earningscall/Category.py'
+                    }
                 ]
             },
             {
                 id: 'STEP7',
-                title: '',
-                text: '這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述',
-                files: ['7_merge.ipynb']
-            },
-            {
-                id: 'STEP8',
-                title: '',
-                text: '這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述',
-                files: [
-                    '8_compare.ipynb',
-                    'https://github.com/scfengv/GDSC-ai-stock/tree/Earningscall/Data/compare'
+                title: 'Finetune BERT',
+                text: '利用標記資料 Finetune BERT 得到我們預使用的模型。',
+                sources: [
+                    {
+                        name: 'weip9012/tesla_earningscall_sentiment_analysis',
+                        url: 'https://huggingface.co/weip9012/tesla_earningscall_sentiment_analysis'
+                    }
                 ]
             },
             {
-                id: 'STEP9',
-                title: '',
-                text: '這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述',
-                files: ['9_label.py']
-            },
-            {
-                id: 'STEP10',
-                title: '',
-                text: '這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述這是描述',
-                files: [
-                    '10_finetune.ipynb',
-                    'https://github.com/scfengv/GDSC-ai-stock/tree/Earningscall/Data/Dataset'
+                id: 'STEP8',
+                title: 'Final Dataset',
+                text: '合併所有 Predicted data 作為 LSTM dataset。',
+                sources: [
+                    {
+                        name: 'Final Dataset',
+                        url: 'https://github.com/scfengv/GDSC-ai-stock/blob/Earningscall/15-23earningscall_dataset.csv'
+                    }
                 ]
             }
         ]

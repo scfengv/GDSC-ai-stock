@@ -18,34 +18,50 @@ export default {
                 id: 'STEP1',
                 title: 'Make X-Crawler',
                 text: '製作爬取推文的爬蟲',
-                files: ['']
+                sources: [
+                    {
+                        name: 'X-Crawler',
+                        url: 'https://github.com/CX330Blake/X-crawler'
+                    }
+                ]
             },
             {
                 id: 'STEP2',
                 title: 'Data Set',
                 text: '從 Kaggle 蒐集和 Twitter 爬取到的推文作為資料集',
-                files: ['']
+                sources: []
             },
             {
                 id: 'STEP3',
                 title: 'Labeling',
                 text: '利用 Huggingface 訓練好的兩個模型，幫資料集做 Label',
-                files: [
-                    'austinmw/distilbert-base-uncased-finetuned-tweets-a',
-                    'cardiffnlp/twitter-roberta-base-sentiment-latest'
+                sources: [
+                    {
+                        name: 'Pretrained model 1',
+                        url: 'https://huggingface.co/austinmw/distilbert-base-uncased-finetuned-tweets-sentiment'
+                    },
+                    {
+                        name: 'Pretrained model 2',
+                        url: 'https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest'
+                    }
                 ]
             },
             {
                 id: 'STEP4',
                 title: 'Fine-Tuning',
                 text: '利用 Label 好的資料，Fine-Tunging BERT 作為最後的模型',
-                files: ['CX330Blake/tweet-sentiment-analysis-for-tesla']
+                sources: [
+                    {
+                        name: 'CX330Blake/tweet-sentiment-analysis-for-tesla',
+                        url: 'https://huggingface.co/CX330Blake/tweet-sentiment-analysis-for-tesla'
+                    }
+                ]
             },
             {
                 id: 'STEP5',
                 title: 'Final Data',
                 text: '用最終模型將所有資料集分類並計算加權分數',
-                files: ['']
+                sources: []
             }
         ]
     }

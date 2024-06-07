@@ -3,7 +3,6 @@ import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
-    <!-- <ModelTest /> -->
     <div>
         <NavBar class="overflow-hidden text-white"> </NavBar>
 
