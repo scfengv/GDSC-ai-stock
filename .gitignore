@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+BERT_fine_tuned_1/
+My_model/
+logs/
+results/
+temp/
+test.ipynb
+training_set.csv
