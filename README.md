@@ -2,6 +2,37 @@
 
 A comprehensive system that combines web crawling, sentiment analysis, and deep learning to predict short-term stock price movements. The system integrates news sentiment with technical indicators to provide more accurate stock price predictions.
 
+Check out [our portfolio](https://scfengv.github.io/GDSC-ai-stock/)
+
+## Contributors
+[scfengv](https://github.com/scfengv)
+- LSTM model developing
+  - Check [`StockPredictor`](https://github.com/scfengv/GDSC-ai-stock/blob/main/LSTM.py) in `LSTM.py`
+- News, Tweets, Earnings Call BERT model fine-tuning
+  - Check [`FineTune.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/FineTune.py) and [`PyTorch BertClassification Model Training.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/PyTorch%20BertClassification%20Model%20Training.py)
+- CNBC and Yahoo Finance News Web crawling
+  - Check [`News_Crawler.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/News_Crawler.py)
+
+[CX330Blake](https://github.com/CX330Blake)
+- Tweets Web crawling
+  - Check [`Tweet_Crawler.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/Tweet_Crawler.py)
+- Tweets BERT model fine-tuning
+  - Check [`FineTune.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/FineTune.py)
+
+[3Frank3](https://github.com/3Frank3) & [weip12](https://github.com/weip12)
+- Earnings Call BERT model fine-tuning
+  - Check [`FineTune.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/FineTune.py)
+- Earnings Call summarization
+  - Check [`Summary.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/data/Earnings%20Call/Summary.py)
+
+[C0D1R](https://github.com/C0D1R)
+- Portfolio pages design
+  - Check [GitHub pages](https://scfengv.github.io/GDSC-ai-stock/)
+
+[yichen7299](https://github.com/yichen7299)
+- News BERT model fine-tuning
+  - Check [`FineTune.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/FineTune.py)
+
 ## 🌟 Features
 
 - Automated data collection from multiple sources:

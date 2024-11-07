@@ -1,15 +1,12 @@
 # pip install accelerate -U
 
-import os
 import torch
 import evaluate
 import warnings
-import accelerate
 import numpy as np
 import pandas as pd
 
 from torch.utils.data import Dataset
-from transformers import TextClassificationPipeline
 from sklearn.model_selection import train_test_split
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trainer, TrainingArguments
 
