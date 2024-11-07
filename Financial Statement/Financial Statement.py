@@ -68,6 +68,7 @@ gross_margin_parent = soup.find('span', string = "Gross Margin").find_parent('td
 for gross_margin in gross_margin_parent[:len(date_all)]:
     gross_margin_all.append(float(re.sub("%", "", gross_margin.text)))
 
+
 ## Operating Margin // Operating Profit = Revenue - Cost of Revenue - Operating Expenses
 opt_margin_all = []
 opt_margin_parent = soup.find('span', string = "Operating Margin").find_parent('td').find_all_next('td')
