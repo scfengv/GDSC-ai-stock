@@ -8,6 +8,7 @@ A comprehensive system that combines web crawling, sentiment analysis, and deep 
   - Yahoo Finance news articles
   - CNBC news articles
   - Earnings call transcripts
+  - Tweets
 - Sentiment analysis using fine-tuned BERT model
 - Stock price prediction using LSTM with sentiment features
 - Scalable architecture for multiple stocks
@@ -99,12 +100,12 @@ python LSTM.py
 ### BERT Fine-tuning Configuration
 ```python
 config = ModelConfig(
-    model_name="google-bert/bert-large-uncased",
-    num_labels=3,
-    train_batch_size=32,
-    eval_batch_size=32,
-    learning_rate=2e-5,
-    num_epochs=5
+    model_name = "google-bert/bert-large-uncased",
+    num_labels = 3,
+    train_batch_size = 32,
+    eval_batch_size = 32,
+    learning_rate = 2e-5,
+    num_epochs = 5
 )
 ```
 
@@ -123,14 +124,6 @@ config = ModelConfig(
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 - Direction accuracy
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
 
 ## 📝 License
 
