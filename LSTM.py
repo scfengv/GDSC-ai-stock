@@ -39,7 +39,6 @@ class StockPredictor:
         df["Delta"] = round(df["Close"].pct_change()*100, 4)
         df.dropna(inplace = True)
         
-        # Merge with VIX data
         df = pd.merge(df, vix, on = "Date", suffixes = ("_STOCK", "_VIX"))
         df.set_index("Date", inplace = True)
         
@@ -47,22 +46,19 @@ class StockPredictor:
         df["Open_Close"] = ((df["Open"] - df["Close_STOCK"]) * 100 / df["Open"])
         df["High_Low"] = ((df["High"] - df["Low"]) * 100 / df["Low"])
         
-        # Create target variable
         df["Target"] = df["Close_STOCK"].shift(-1)
         df.dropna(inplace = True)
         
         return df
     
-    def _prepare_data(self, df: pd.DataFrame, train_split: float = 0.9) -> Tuple[np.ndarray, np.ndarray, np.ndarray, np.ndarray]:
+    def _prepare_data(self, df: pd.DataFrame, train_split: float = 0.8) -> Tuple[np.ndarray, np.ndarray, np.ndarray, np.ndarray]:
         """Prepare data for LSTM model."""
         features = df[["Close_STOCK", "Volume", "Close_VIX", "Open_Close", "High_Low"]]
         target = df["Target"]
         
-        # Scale data
         features_scaled = self.f_scaler.fit_transform(features)
         target_scaled = self.t_scaler.fit_transform(target.values.reshape(-1, 1))
         
-        # Split data
         num_train = int(len(features_scaled) * train_split)
         x_train = features_scaled[:num_train]
         x_test = features_scaled[num_train:]
@@ -108,7 +104,6 @@ class StockPredictor:
         Returns:
             Dictionary containing training results and best parameters
         """
-        # Prepare data
         df = self._fetch_data()
         x_train, x_test, y_train, y_test = self._prepare_data(df)
         
@@ -123,7 +118,6 @@ class StockPredictor:
             project_name = f"LSTM_{self.symbol}"
         )
         
-        # Perform hyperparameter search
         tuner.search(
             x = x_train,
             y = y_train,
@@ -132,10 +126,7 @@ class StockPredictor:
             validation_data = (x_test, y_test)
         )
         
-        # Get best model
         self.model = tuner.get_best_models(num_models = 1)[0]
-        
-        # Evaluate model
         loss = self.model.evaluate(x_test, y_test)
         
         return {
