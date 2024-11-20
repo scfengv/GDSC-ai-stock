@@ -10,18 +10,23 @@ Check out [our portfolio](https://scfengv.github.io/GDSC-ai-stock/)
   - Check [`StockPredictor`](https://github.com/scfengv/GDSC-ai-stock/blob/main/LSTM.py) in `LSTM.py`
 - News, Tweets, Earnings Call BERT model fine-tuning
   - Check [`FineTune.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/FineTune.py) and [`PyTorch BertClassification Model Training.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/PyTorch%20BertClassification%20Model%20Training.py)
+  - Check [CX330Blake/tweet-sentiment-analysis-for-tesla](https://huggingface.co/CX330Blake/tweet-sentiment-analysis-for-tesla/tree/main)
+  - Check [YC9Z/tesla_news_title_sentiment_analysis](https://huggingface.co/YC9Z/tesla_news_title_sentiment_analysis)
+  - Check [weip9012/tesla_earningscall_sentiment_analysis](https://huggingface.co/weip9012/tesla_earningscall_sentiment_analysis)
 - CNBC and Yahoo Finance News Web crawling
   - Check [`News_Crawler.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/News_Crawler.py)
 
 [CX330Blake](https://github.com/CX330Blake)
 - Tweets Web crawling
   - Check [`Tweet_Crawler.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/Tweet_Crawler.py)
+  - Check [CX330Blake/tweet-sentiment-analysis-for-tesla](https://huggingface.co/CX330Blake/tweet-sentiment-analysis-for-tesla/tree/main)
 - Tweets BERT model fine-tuning
   - Check [`FineTune.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/FineTune.py)
 
 [3Frank3](https://github.com/3Frank3) & [weip12](https://github.com/weip12)
 - Earnings Call BERT model fine-tuning
   - Check [`FineTune.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/FineTune.py)
+  - Check [weip9012/tesla_earningscall_sentiment_analysis](https://huggingface.co/weip9012/tesla_earningscall_sentiment_analysis)
 - Earnings Call summarization
   - Check [`Summary.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/data/Earnings%20Call/Summary.py)
 
@@ -32,7 +37,7 @@ Check out [our portfolio](https://scfengv.github.io/GDSC-ai-stock/)
 [yichen7299](https://github.com/yichen7299)
 - News BERT model fine-tuning
   - Check [`FineTune.py`](https://github.com/scfengv/GDSC-ai-stock/blob/main/FineTune.py)
-
+  - Check [YC9Z/tesla_news_title_sentiment_analysis](https://huggingface.co/YC9Z/tesla_news_title_sentiment_analysis)
 ## 🌟 Features
 
 - Automated data collection from multiple sources:
@@ -155,10 +160,6 @@ config = ModelConfig(
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 - Direction accuracy
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🔍 Future Improvements
 
