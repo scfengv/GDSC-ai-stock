@@ -4,10 +4,10 @@ import yfinance as yf
 import keras_tuner as kt
 
 from pickle import dump
-from keras.models import Sequential
+from tensorflow.keras.models import Sequential
 from typing import Tuple, List, Dict, Any
 from pandas_datareader import data as pdr
-from keras.layers import Dense, LSTM, Dropout
+from tensorflow.keras.layers import Dense, LSTM, Dropout
 from sklearn.preprocessing import MinMaxScaler
 from tensorflow.keras.models import save_model
 
@@ -30,20 +30,25 @@ class StockPredictor:
         
     def _fetch_data(self) -> pd.DataFrame:
         """Fetch stock data and additional features."""
-        yf.pdr_override()
-        df = pdr.get_data_yahoo(self.symbol, start = self.start_date, end = self.end_date).reset_index()
-        vix = pdr.get_data_yahoo("^VIX", start = self.start_date, end = self.end_date).reset_index()
-        
-        df.drop(columns = ["Adj Close"], inplace = True)
+        df = yf.download(self.symbol, start=self.start_date, end=self.end_date).reset_index()
+        df.columns = df.columns.droplevel(1)
+        df = df.reset_index()
+        print(df.head())
+        vix = yf.download("^VIX", start=self.start_date, end=self.end_date).reset_index()
+        vix.columns = vix.columns.droplevel(1)
+        vix = vix.reset_index()
+        print(vix.head())
+
         vix = vix[["Date", "Close"]]
         df["Delta"] = round(df["Close"].pct_change()*100, 4)
-        df.dropna(inplace = True)
-        
-        df = pd.merge(df, vix, on = "Date", suffixes = ("_STOCK", "_VIX"))
-        df.set_index("Date", inplace = True)
-        
+        df.dropna(inplace=True)
+
+        df = pd.merge(df, vix, on="Date", suffixes=("_STOCK", "_VIX"))
+        df.set_index("Date", inplace=True)
+
         # Calculate technical indicators
         df["Open_Close"] = ((df["Open"] - df["Close_STOCK"]) * 100 / df["Open"])
+        # df["Open_Close"] = ((df["Open_STOCK"] - df["Close_STOCK"]) * 100 / df["Open_STOCK"])
         df["High_Low"] = ((df["High"] - df["Low"]) * 100 / df["Low"])
         
         df["Target"] = df["Close_STOCK"].shift(-1)
@@ -51,7 +56,7 @@ class StockPredictor:
         
         return df
     
-    def _prepare_data(self, df: pd.DataFrame, train_split: float = 0.8) -> Tuple[np.ndarray, np.ndarray, np.ndarray, np.ndarray]:
+    def _prepare_data(self, df: pd.DataFrame, train_split: float = 0.7) -> Tuple[np.ndarray, np.ndarray, np.ndarray, np.ndarray]:
         """Prepare data for LSTM model."""
         features = df[["Close_STOCK", "Volume", "Close_VIX", "Open_Close", "High_Low"]]
         target = df["Target"]
@@ -160,3 +165,13 @@ class StockPredictor:
         save_model(self.model, model_path)
         dump(self.f_scaler, open(f"{scaler_path}_features.pkl", "wb"))
         dump(self.t_scaler, open(f"{scaler_path}_target.pkl", "wb"))
+        
+if __name__ == "__main__":
+    predictor = StockPredictor(symbol = "TSLA", start_date = "2015-01-01", end_date = "2024-05-30")
+    results = predictor.train(max_trials = 30, epochs = 50, batch_size = 32)
+    print("Training Results:", results)
+    
+    next_day_prediction = predictor.predict_next_days(days = 1)
+    print("Next Day Prediction:", next_day_prediction)
+    
+    predictor.save_model(model_path = "/content/drive/MyDrive/GDSC-ai-stock/LSTM/lstm_tsla_model.keras", scaler_path = "/content/drive/MyDrive/GDSC-ai-stock/LSTM/lstm_tsla_scaler")
